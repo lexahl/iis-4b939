@@ -59,7 +59,7 @@
     "onComplementaryAlt": "#ffffff",
     "buttonPrimary": {
         "weight": "normal",
-        "case": "lowercase",
+        "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "none",
         "horizontalPadding": 20,
