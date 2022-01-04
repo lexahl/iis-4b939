@@ -58,7 +58,7 @@
     "complementaryAlt": "#215462",
     "onComplementaryAlt": "#ffffff",
     "buttonPrimary": {
-        "weight": "medium",
+        "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "none",
