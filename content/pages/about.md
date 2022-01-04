@@ -6,10 +6,20 @@ sections:
     colors: colors-d
     variant: variant-a
     title: About our business
-    text: |-
-      For us fishing is a life style. The connection to the waters is what makes us friends, and what makes us a family and it what makes us a business.
+    text: >
+      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
+      As the founder of Indigenous Innovative Solutions Inc., Winona brings
+      together Indigenous knowledge, providing an Indigenous voice and effective
+      solutions to age old challenges. Critical global dialogue on the
+      importance of Indigenous perspectives for a sustainable future is required
+      to ensure viability of livelihoods of future generations.
 
-      We believe there’s a better, more sustainable way to live out of what the sea has to offer, while  keeping our products fresh and delicious.
+      She is deeply rooted and connected to the land, where she continues her
+      lifelong journey to learn more about the traditional plant foods and
+      medicines in the western boreal forest. Incorporating sustainably
+      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
+      with modern wise practices, empowering people to connect to themselves and
+      the natural world.
     styles:
       self:
         height: auto
@@ -33,8 +43,9 @@ sections:
         textAlign: left
   - elementId: ''
     colors: colors-b
-    quote: |-
-      “This is someone else, not from our team, but she also loves fishing, so we thought we should highlight her.”
+    quote: >-
+      “This is someone else, not from our team, but she also loves fishing, so
+      we thought we should highlight her.”
     backgroundImage:
       url: /images/bg.webp
       opacity: 70
@@ -68,7 +79,9 @@ sections:
     variant: variant-c
     colors: colors-c
     title: Our Team
-    subtitle: We’re a group of proffesional fisherman & friends, who love exploring the seas and sharing our experiences with the world.
+    subtitle: >-
+      We’re a group of proffesional fisherman & friends, who love exploring the
+      seas and sharing our experiences with the world.
     people:
       - content/data/team/hilary-ouse.json
       - content/data/team/dianne-ameter.json
@@ -100,7 +113,8 @@ sections:
     colors: colors-d
     title: Join our club
     text: >
-      We will notify you every time a shipment is heading to your neighborhood, and you could immediatly let us know if you want in or not
+      We will notify you every time a shipment is heading to your neighborhood,
+      and you could immediatly let us know if you want in or not
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -112,14 +126,14 @@ sections:
           hideLabel: true
           placeholder: First Name
           isRequired: true
-          width: '1/2'
+          width: 1/2
           type: TextFormControl
         - name: lastName
           label: Last Name
           hideLabel: true
           placeholder: Last Name
           isRequired: false
-          width: '1/2'
+          width: 1/2
           type: TextFormControl
         - name: email
           label: Email
