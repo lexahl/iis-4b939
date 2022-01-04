@@ -3,7 +3,7 @@ title: Inspiring Action
 sections:
   - type: HeroSection
     colors: colors-d
-    title: We do fishing differently
+    title: Inspiring Action
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
