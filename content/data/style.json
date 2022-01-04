@@ -62,7 +62,7 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "none",
-        "horizontalPadding": 20,
+        "horizontalPadding": 24,
         "verticalPadding": 10,
         "shadow": "none"
     },
