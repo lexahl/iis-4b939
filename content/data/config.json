@@ -42,7 +42,7 @@
             {
                 "type": "Button",
                 "label": "Contact",
-                "url": "mailto:info@lorem.mail",
+                "url": "mailto:winonalafreniere5242@gmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
