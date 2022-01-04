@@ -6,7 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: full
-    title: WMy story is my brand."
+    title: '"My story is my brand."'
     subtitle: >-
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
