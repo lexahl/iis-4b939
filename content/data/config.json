@@ -112,7 +112,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
+                "altText": "Twitter link",
                 "label": "Twitter",
                 "url": "/",
                 "icon": "twitter"
