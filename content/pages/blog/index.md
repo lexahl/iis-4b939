@@ -103,7 +103,7 @@ bottomSections:
           hideLabel: true
           placeholder: Your message
           isRequired: true
-          width: full
+          width: 1/2
           type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
