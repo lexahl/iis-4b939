@@ -14,6 +14,8 @@ sections:
       importance of Indigenous perspectives for a sustainable future is required
       to ensure viability of livelihoods of future generations.
 
+
+
       She is deeply rooted and connected to the land, where she continues her
       lifelong journey to learn more about the traditional plant foods and
       medicines in the western boreal forest. Incorporating sustainably
