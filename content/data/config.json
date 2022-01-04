@@ -155,5 +155,6 @@
                 ]
             }
         }
-    }
+    },
+    "favicon": "/images/icon.png"
 }
