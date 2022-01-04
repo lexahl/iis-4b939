@@ -3,7 +3,7 @@ title: Sharing Knowledge
 sections:
   - type: HeroSection
     colors: colors-d
-    title: We do fishing differently
+    title: Sharing Knowledge
     subtitle: Fresh. Better. Faster.
     actions:
       - type: Button
