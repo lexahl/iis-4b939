@@ -98,7 +98,7 @@ bottomSections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: address
+        - name: text
           label: Address
           hideLabel: true
           placeholder: Address
