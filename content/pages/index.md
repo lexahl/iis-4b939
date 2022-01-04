@@ -48,6 +48,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |
+      test
   - type: QuoteSection
     colors: colors-d
     quote: >-
