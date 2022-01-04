@@ -177,7 +177,7 @@ function siteLogoLink(props) {
             {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.isTitleVisible })} data-sb-field-path=".logo" />}
             {props.title && props.isTitleVisible && (
                 <span className="text-2xl font-medium" data-sb-field-path=".title">
-                    Indigenous Innovative <br></br> Solutions Inc.
+                    Indigenous <br></br>Innovative <br></br> Solutions Inc.
                 </span>
             )}
         </Link>
