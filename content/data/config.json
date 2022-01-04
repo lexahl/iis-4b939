@@ -42,7 +42,7 @@
             {
                 "type": "Button",
                 "label": "Contact",
-                "url": "mailto:winonalafreniere@hotmail.com",
+                "url": "mailto:winonajlafreniere@hotmail.com",
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
