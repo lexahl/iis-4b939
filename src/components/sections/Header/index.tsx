@@ -48,7 +48,7 @@ function headerVariantA(props) {
     return (
         <div className="flex items-center relative">
             {(props.logo || (props.title && props.isTitleVisible)) && <div className="mr-8">{siteLogoLink(props)}</div>}
-            {primaryLinks.length > 0 && (<br></br>
+            {primaryLinks.length > 0 && (
                 <ul className="hidden lg:flex lg:items-center mr-8 space-x-8" data-sb-field-path=".primaryLinks">
                     {listOfLinks(primaryLinks)}
                 </ul>
