@@ -46,7 +46,7 @@
                 "altText": "Contact us",
                 "style": "secondary",
                 "showIcon": true,
-                "icon": "arrowRight",
+                "icon": "arrowRightCircle",
                 "iconPosition": "right"
             }
         ],
