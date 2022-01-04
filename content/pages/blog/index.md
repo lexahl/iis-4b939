@@ -99,7 +99,7 @@ bottomSections:
           width: full
           type: EmailFormControl
         - name: text
-          label: Address
+          label: Your message
           hideLabel: true
           placeholder: Address
           isRequired: true
