@@ -46,7 +46,7 @@
     "fontBody": "fontPrimary",
     "main": "#ffffff",
     "light": "#ffffff",
-    "onLight": "#262",
+    "onLight": "#262626",
     "dark": "#262626",
     "onDark": "#ffffff",
     "primary": "#D16F5A",
