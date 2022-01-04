@@ -34,7 +34,7 @@ bottomSections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/IMG_0961-38d66076.JPG
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
