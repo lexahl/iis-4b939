@@ -5,13 +5,8 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Creating Solutions
-    text: >-
-      For us fishing is a life style. The connection to the waters is what makes
-      us friends, and what makes us a family and it what makes us a business.
-
-
-      We believe there’s a better, more sustainable way to live out of what the
-      sea has to offer, while  keeping our products fresh and delicious.
+    text: |
+      add text here
     styles:
       self:
         height: auto
