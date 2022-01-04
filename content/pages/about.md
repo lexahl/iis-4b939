@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: About our business
+    title: About
     text: >
       Winona dedicates her knowledge and ways of being to her Obijway ancestors.
       As the founder of Indigenous Innovative Solutions Inc., Winona brings
