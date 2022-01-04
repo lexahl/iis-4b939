@@ -133,13 +133,6 @@
                 "elementId": ""
             },
             {
-                "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "/",
-                "icon": "facebook"
-            },
-            {
                 "label": "Facebook",
                 "altText": "",
                 "url": "/",
