@@ -26,7 +26,7 @@ bottomSections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/IMG_0961.JPG
+        url: /images/IMG_0960.JPG
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
