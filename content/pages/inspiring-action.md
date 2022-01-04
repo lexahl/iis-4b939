@@ -4,7 +4,7 @@ sections:
   - type: HeroSection
     colors: colors-d
     title: Inspiring Action
-    subtitle: Fresh. Better. Faster.
+    subtitle: 'Inspiring Action '
     actions:
       - type: Button
         label: Get Started
