@@ -7,7 +7,10 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: WMy story is my brand.'
-    subtitle: Fresh. Better. Faster.
+    subtitle: >-
+      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
+      and community determination that empowers Indigenous people to design
+      their own future.
     actions:
       - type: Button
         label: Get Started
