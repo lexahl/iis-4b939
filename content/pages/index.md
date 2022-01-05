@@ -28,8 +28,10 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: |
-      <center>![](/images/Untitled%20\(1200%20x%20200%20px\).svg)</center>
+    text: >
+      <center
+      draggable="false">![](/images/Untitled%20\(1200%20x%20200%20px\).svg)</center>
+
 
       # Indigenous Innovative Solutions
   - colors: colors-d
