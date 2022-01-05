@@ -6,7 +6,7 @@
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
         "title": "Indigenous Innovative Solutions Inc.",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
