@@ -46,7 +46,36 @@ sections:
       <img src="images/2.svg" alt="logo" draggable="false" width="20%"><img
       src="images/3.svg" alt="logo" draggable="false" width="20%"><img
       src="images/4.svg" alt="logo" draggable="false" width="20%"><img
-      src="images/5.svg" alt="logo" draggable="false" width="20%">
+      src="images/5.svg" alt="logo" draggable="false" width="20%">.column {
+
+      float: left;
+
+      width: 25%;
+
+      padding: 5px;
+
+      }/\* Clearfix (clear floats) \*/
+
+      .row::after {
+
+      content: "";
+
+      clear: both;
+
+      display: table;
+
+      }/\* Responsive layout - makes the three columns stack on top of each
+      other instead of next to each other \*/
+
+      @media screen and (max-width: 500px) {
+
+      .column {
+
+      width: 50%;
+
+      }
+
+      }
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
