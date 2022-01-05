@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: The Section Title
     subtitle: ''
