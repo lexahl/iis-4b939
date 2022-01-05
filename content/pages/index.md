@@ -40,7 +40,7 @@ sections:
 
 
 
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     images:
       - type: ImageBlock
