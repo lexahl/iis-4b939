@@ -36,37 +36,7 @@ sections:
       draggable="false" width="25%">
 
 
-      </center>
-      {
-                "label": "Home",
-                "altText": "Home",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "About",
-                "altText": "About",
-                "url": "/about",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "Projects",
-                "altText": "Projects",
-                "url": "/sharing-knowledge",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            }  
+      </center>  
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
