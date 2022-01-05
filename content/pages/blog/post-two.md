@@ -1,5 +1,5 @@
 ---
-title: Exploring Future Careers CampXPLORING FUTURE CAREERS CAMP
+title: Exploring Future Careers Camp
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/desmond-eagle.json
