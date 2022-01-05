@@ -120,7 +120,7 @@ bottomSections:
         padding:
           - pt-24
           - pb-24
-          - pl-4
+          - pl-52
           - pr-36
         justifyContent: flex-start
       title:
