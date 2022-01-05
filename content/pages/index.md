@@ -36,9 +36,7 @@ sections:
       draggable="false" width="25%">
 
 
-      #### Creating Solutions Inspiring Action
-
-      test&emsp;test
+      <h4>Creating Solutions Inspiring Action</h4>
 
 
       #### Collective Community Spirit Sharing Knowledge
