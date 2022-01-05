@@ -103,7 +103,7 @@ function heroBody(props) {
     return (
         <div>
             {props.title && (
-                <h2 className={classNames('h2', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title" white-space: nowrap;>
+                <h2 className={classNames('h2', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title" white-space="nowrap">
                     {props.title}
                 </h2>
             )}
