@@ -2,50 +2,6 @@
 title: About
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-d
-    backgroundSize: full
-    title: We do fishing differently
-    subtitle: Fresh. Better. Faster.
-    text: ''
-    actions:
-      - type: Button
-        label: Join adventure
-        showIcon: true
-        icon: arrowRight
-        style: primary
-        url: /
-    media:
-      type: ImageBlock
-      url: /images/Winona Lafreniere.jpg
-      altText: Hero image
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
   - type: TextSection
     colors: colors-d
     variant: variant-a
