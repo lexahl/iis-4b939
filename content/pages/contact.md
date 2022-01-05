@@ -39,7 +39,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: 30%
         margin:
           - mt-0
           - mb-0
