@@ -31,7 +31,6 @@ sections:
     type: TextSection
   - colors: colors-d
     elementId: ''
-    title: Gallery
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
