@@ -72,7 +72,6 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/hero-2.png
       altText: Contact form image
     styles:
       self:
