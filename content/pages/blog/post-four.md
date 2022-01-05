@@ -1,11 +1,12 @@
 ---
-title: Extreme fly fishing
+title: Touch the Earth - Nature CampTOUCH THE EARTH – NATURE CAMP
 layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what the sea has to offer, nothing more, and no cheating.
+  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
+  the sea has to offer, nothing more, and no cheating.
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
@@ -27,8 +28,16 @@ bottomSections:
       self:
         height: auto
         width: wide
-        margin: ['mt-0', 'mb-0', 'ml-0', 'mr-0']
-        padding: ['pt-12', 'pb-56', 'pr-4', 'pl-4']
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-56
+          - pr-4
+          - pl-4
         justifyContent: center
       title:
         textAlign: center
