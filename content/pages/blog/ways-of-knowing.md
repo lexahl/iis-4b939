@@ -6,7 +6,7 @@ excerpt: >-
   students, school administrators, non-profit agencies, industry and government.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/image-022.jpg
   altText: Post thumbnail image
   caption: ''
 media:
