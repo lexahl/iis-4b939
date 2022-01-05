@@ -8,9 +8,8 @@ sections:
     title: ''
     subtitle: ''
     testimonials:
-      - quote: >-
-          "It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks."
+      - quote: |
+          # Winona Lafreniere
         name: Winona Lafreniere
         title: Head chef at Parks
         image:
