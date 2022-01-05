@@ -154,7 +154,7 @@ sections:
         textAlign: left
     type: QuoteSection
   - elementId: ''
-    variant: variant-c
+    variant: variant-b
     colors: colors-c
     title: Our Team
     subtitle: >-
