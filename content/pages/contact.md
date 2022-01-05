@@ -27,7 +27,7 @@ sections:
         - type: TextFormControl
           name: address
           label: Your message
-          placeholder: Your home address
+          placeholder: Your message
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
