@@ -67,7 +67,7 @@ sections:
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/IMG_0959-04d59bff.JPG
         altText: Image four
         caption: Image four caption
     spacing: 16
