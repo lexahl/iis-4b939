@@ -34,7 +34,7 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/indigenous_innovation_logo_FINAL.svg
+      url: /images/20210925_120502.jpg
       altText: Contact form image
     styles:
       self:
