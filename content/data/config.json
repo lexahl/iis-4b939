@@ -100,14 +100,7 @@
             "addressAltText": "Our address"
         },
         "copyrightText": "© 2022 Indigenous Innovative Solutions Inc.",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
