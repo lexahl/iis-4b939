@@ -3,9 +3,10 @@ title: Sharing Knowledge
 sections:
   - elementId: ''
     colors: colors-c
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: >-
+      #### “Of all the teachings we receive this one is the most important:
+      nothing belongs to you of what there is, of what you take, you must
+      share.”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage: null
@@ -22,7 +23,7 @@ sections:
           - pt-10
           - pb-10
           - pl-52
-          - pr-52
+          - pr-4
         justifyContent: center
       quote:
         textAlign: center
