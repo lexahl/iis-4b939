@@ -41,7 +41,9 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
-excerpt: Volunteer Profile of Winona Lafreniere
+excerpt: >-
+  The younger generations have a greater appreciation for the environment when
+  they are taught with respect and honor.
 ---
 As a passionate artist and cultural advisor of the Ojibway nation, it has been a privilege and a great honour to share my gifts from the creator and mother earth. I give thanks to those traditional teachers, elders and gifted individuals who offered their guidance and respect to passing on the Indigenous culture and wisdom. My respect and gratitude goes out to each individual for sharing their knowledge and experience with openness, rigor and vision, a vision that I am proud to pass on to others.
 
