@@ -33,6 +33,37 @@ sections:
       subtitle:
         textAlign: center
     type: TestimonialsSection
+  - elementId: ''
+    colors: colors-e
+    variant: variant-b
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >-
+          "It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks."
+        name: John Doe
+        title: Head chef at Parks
+        image:
+          type: ImageBlock
+          url: /images/fisherman.jpg
+          altText: John Doe
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-28
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    type: TestimonialsSection
   - type: TextSection
     colors: colors-d
     variant: variant-a
