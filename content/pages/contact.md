@@ -26,6 +26,7 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
+          label: Message
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
