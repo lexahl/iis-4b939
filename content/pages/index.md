@@ -33,7 +33,7 @@ sections:
       draggable="false">![](/images/Untitled%20\(1200%20x%20200%20px\).svg)
 
 
-      # Indigenous Innovative Solutions
+      ## Indigenous Innovative Solutions
 
 
       </center>
