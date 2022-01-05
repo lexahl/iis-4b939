@@ -1,32 +1,6 @@
 ---
 title: Sharing Knowledge
 sections:
-  - type: QuoteSection
-    colors: colors-d
-    quote: >-
-      "It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks."
-    name: Isabelle Parks
-    title: Head chef at Parks
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
-      title:
-        textAlign: center
   - type: FeaturedPostsSection
     colors: colors-c
     variant: variant-a
