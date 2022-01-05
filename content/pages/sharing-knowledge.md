@@ -21,8 +21,8 @@ sections:
         padding:
           - pt-10
           - pb-10
-          - pl-52
-          - pr-52
+          - pl-24
+          - pr-24
         justifyContent: flex-start
       quote:
         textAlign: center
@@ -89,8 +89,8 @@ sections:
         padding:
           - pt-24
           - pb-5
-          - pl-52
-          - pr-52
+          - pl-24
+          - pr-24
         justifyContent: center
       title:
         textAlign: left
@@ -142,8 +142,7 @@ sections:
   - type: ContactSection
     colors: colors-d
     title: Contact
-    text: >-
-      text
+    text: text
     form:
       type: FormBlock
       elementId: sign-up-form
