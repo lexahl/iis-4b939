@@ -15,16 +15,6 @@
                 "altText": "About Winona"
             },
             {
-                "label": "Creating Solutions ",
-                "altText": "Creating Solutions ",
-                "url": "/creating-solutions",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "Inspiring Action",
                 "altText": "Inspiring Action",
                 "url": "/inspiring-action ",
