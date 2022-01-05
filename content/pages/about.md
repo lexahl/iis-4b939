@@ -93,9 +93,7 @@ sections:
     variant: variant-a
     title: Creating a Workforce Readiness Future
     subtitle: ''
-    text: >-
-      #### Creating a Workforce Readiness Future
-
+    text: >
       Proudly supporting Indigenous community career development and training
       initiatives focusing on jobs of the future that lead to employment and
       business opportunities across Western Canada.
@@ -104,29 +102,30 @@ sections:
       #### On-Demand services and live learning opportunities covering a range
       of topics:
 
-      * Project Management
 
-      * Managing Energy Efficiency Projects
+      *   Project Management
 
-      * Environmental Stewardship Consulting
+      *   Managing Energy Efficiency Projects
 
-      * Employability Wise Practices
+      *   Environmental Stewardship Consulting
 
-      * Indigenous Awareness
+      *   Employability Wise Practices
 
-      * Human Skills Development Workshops
+      *   Indigenous Awareness
 
-      * Proposal Writing
+      *   Human Skills Development Workshops
 
-      * Indigenous Engagement Planning
+      *   Proposal Writing
 
-      * Business Development
+      *   Indigenous Engagement Planning
 
-      * Advancing ESG and Indigenous Principles
+      *   Business Development
 
-      * Custom workshops for employer-specific organizations
+      *   Advancing ESG and Indigenous Principles
 
-      * As well as a range of resource management subjects
+      *   Custom workshops for employer-specific organizations
+
+      *   As well as a range of resource management subjects
     styles:
       self:
         height: auto
