@@ -14,12 +14,6 @@ featuredImage:
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+An Indigenous Perspective on Medicine and Healing: a half-day session that covers the traditional Indigenous healing methods through the use of plants for medicine. I share how these ancient traditional methods play a role in connection to our own roots, how we can integrate that in our own practices, and the importance of our roles as stewards of the land based medicines. Many of the plants harvested were used by Indigenous people in the boreal forests of the northern hemisphere for over 500 generations, especially for treatment of ailments.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
-
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+The goal is to help participants be able to use these plants in their daily lives. The plant walk explores the native plants and looks at the edible, medicinal and survival aspects of the flora. Topics covered include plant identification, sustainable harvesting, treatments for common ailments and spiritual properties. Most of which can be harvested various times of year, grown locally or purchased.
