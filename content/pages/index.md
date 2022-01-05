@@ -93,6 +93,12 @@ sections:
       <body>
 
 
+      <br>
+
+
+      <br>
+
+
       <div class="row">
         <div class="column">
           <img src="images/2.svg" alt="logo" draggable="false" >
