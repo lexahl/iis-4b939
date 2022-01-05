@@ -70,30 +70,6 @@ sections:
           isRequired: 'false'
           width: full
       submitLabel: Send Message
-    media:
-      type: ImageBlock
-      altText: Contact form image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      text:
-        textAlign: left
     type: ContactSection
 layout: PageLayout
 ---
