@@ -44,7 +44,7 @@ sections:
       and community determination that empowers Indigenous people to design
       their own future.
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/YouthMovingForward.Nov14-8647.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 100
