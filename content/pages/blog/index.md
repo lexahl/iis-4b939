@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Projects
-numOfPostsPerPage: 10
+numOfPostsPerPage: 15
 styles:
   title:
     textAlign: center
