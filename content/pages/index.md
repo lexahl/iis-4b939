@@ -52,7 +52,6 @@ sections:
   - colors: colors-d
     elementId: ''
     title: Gallery
-    subtitle: This is the subtitle
     images:
       - type: ImageBlock
         url: /images/IMG_0960-2ff9138b.JPG
