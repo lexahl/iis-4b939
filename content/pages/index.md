@@ -75,7 +75,7 @@ sections:
       /\* Responsive layout - makes the three columns stack on top of each other
       instead of next to each other \*/
 
-      @media screen and (max-width: 500px) {
+      @media screen and (max-width: 1000px) {
 
       .column {
 
@@ -85,14 +85,11 @@ sections:
 
       }
 
-      </style>
 
 
       </head>
 
       <body>
-
-
 
 
       <div class="row">
