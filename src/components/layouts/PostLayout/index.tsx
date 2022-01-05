@@ -92,7 +92,21 @@ function PostAttribution({ post }) {
     );
 }
 
-
+function postAuthor(author) {
+    const children = (
+        <>
+            {author.firstName && <span data-sb-field-path=".firstName">{author.firstName}</span>}{' '}
+            {author.lastName && <span data-sb-field-path=".lastName">{author.lastName}</span>}
+        </>
+    );
+    return author.slug ? (
+        <Link data-sb-field-path="author" href={`/blog/author/${author.slug}`}>
+            {children}
+        </Link>
+    ) : (
+        <span data-sb-field-path="author">{children}</span>
+    );
+}
 
 function postCategory(category) {
     return (
