@@ -126,7 +126,7 @@ sections:
           - pt-24
           - pb-24
           - pl-24
-          - pr-4
+          - pr-24
         justifyContent: center
       title:
         textAlign: left
