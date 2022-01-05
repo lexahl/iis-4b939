@@ -1,7 +1,6 @@
 ---
 title: Indigenous Employment Coalition
 colors: colors-d
-date: '2022-01-05'
 excerpt: >-
   As co-chair, it was a pleasure to coordinate this I.E.C. video project which
   explores 4 valuable Promising Practices to create a quality video product.
