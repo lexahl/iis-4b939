@@ -104,7 +104,7 @@ sections:
     showAuthor: false
     showExcerpt: true
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
+    readMoreLinkLabel: Read more
     variant: variant-b
     actions:
       - type: Link
