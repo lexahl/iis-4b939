@@ -178,10 +178,6 @@ sections:
           placeholder: Your message
           isRequired: true
           width: full
-        - type: CheckboxFormControl
-          name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
           width: full
       submitLabel: Submit form
       styles:
