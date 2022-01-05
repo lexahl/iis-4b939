@@ -21,6 +21,7 @@ export default function ImageBlock(props) {
             id={cssId}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
             src={url}
+            
             alt={altText || ''}
             draggable="false"
             data-sb-field-path={annotations.join(' ').trim()}
