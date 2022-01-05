@@ -42,7 +42,7 @@ sections:
       <center>
 
 
-      <h3> “My story is my brand." </h3>
+      <it><h3> “My story is my brand." </h3></it>
 
       <h5> Focuses on Indigenous and social innovation, entrepreneurial
       mentorship, and community determination that empowers Indigenous people to
