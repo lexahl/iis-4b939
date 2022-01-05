@@ -22,50 +22,6 @@ styles:
   title:
     textAlign: center
 bottomSections:
-  - colors: colors-d
-    elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/IMG_0960.JPG
-        altText: Image one
-        caption: Image one caption
-      - type: ImageBlock
-        url: /images/IMG_0958.JPG
-        altText: Image two
-        caption: Image two caption
-      - type: ImageBlock
-        url: /images/IMG_0961-38d66076.JPG
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: /images/IMG_0959.JPG
-        altText: Image four
-        caption: Image four caption
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
   - elementId: ''
     colors: colors-d
     variant: variant-b
@@ -130,6 +86,50 @@ bottomSections:
       text:
         textAlign: left
     type: TextSection
+  - colors: colors-d
+    elementId: ''
+    images:
+      - type: ImageBlock
+        url: /images/IMG_0960.JPG
+        altText: Image one
+        caption: Image one caption
+      - type: ImageBlock
+        url: /images/IMG_0958.JPG
+        altText: Image two
+        caption: Image two caption
+      - type: ImageBlock
+        url: /images/IMG_0961-38d66076.JPG
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/IMG_0959.JPG
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
   - elementId: ''
     colors: colors-c
     quote: >
