@@ -29,6 +29,8 @@ sections:
       text:
         textAlign: left
     type: TextSection
+    text: |
+      I
   - colors: colors-d
     elementId: ''
     images:
