@@ -9,7 +9,7 @@ excerpt: >-
   everyone.
 featuredImage:
   type: ImageBlock
-  url: /images/post-3.jpg
+  url: /images/image-006.jpg
   altText: Post Thumbnail Image
 media:
   type: ImageBlock
