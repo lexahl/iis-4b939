@@ -214,7 +214,7 @@ sections:
         - name: Message
           label: Message
           hideLabel: true
-          placeholder: Address
+          placeholder: Message
           isRequired: true
           width: full
           type: TextFormControl
