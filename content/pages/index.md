@@ -28,7 +28,15 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: "<center>\n\n<img src=\"images/indigenous_innovation_logo_FINAL.svg\" alt=\"logo\" draggable=\"false\" width=\"25%\">\n\n</center>\n\n\\<a\_href=\"/about\">About</a>\n\n<span><a\_href=\"/about\">About</a></span>\n"
+    text: >
+      <center>
+
+
+      <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
+      draggable="false" width="25%">
+
+
+      </center>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
