@@ -99,6 +99,46 @@ sections:
       text:
         textAlign: left
     type: TextSection
+  - elementId: ''
+    showDate: true
+    showAuthor: false
+    showExcerpt: true
+    showReadMoreLink: true
+    readMoreLinkLabel: Join adventure
+    variant: variant-b
+    actions:
+      - type: Link
+        label: See more projects
+        altText: See more projects
+        url: /blog
+        showIcon: true
+        icon: arrowRight
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-24
+          - pr-24
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    title: Projects
+    subtitle: ''
+    colors: colors-c
+    recentCount: 5
+    type: RecentPostsSection
   - type: ContactSection
     colors: colors-d
     title: Join our club

@@ -6,7 +6,7 @@ excerpt: >-
   community groups, employers and the general public.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/image-027.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []

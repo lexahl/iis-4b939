@@ -95,6 +95,100 @@ sections:
       </div> </div>
 
       </body>
+  - colors: colors-d
+    elementId: ''
+    title: Key value propositions
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Faster
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: secondary
+        styles:
+          self:
+            textAlign: left
+      - elementId: ''
+        title: Item Title
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Smarter
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: secondary
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Focused
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: secondary
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    columns: 3
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeaturedItemsSection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
@@ -141,50 +235,6 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 60
-  - colors: colors-c
-    elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/IMG_0960-2ff9138b.JPG
-        altText: Image one
-        caption: Caption
-      - type: ImageBlock
-        url: /images/IMG_0961-48522e09.JPG
-        altText: Image two
-        caption: Image two caption
-      - type: ImageBlock
-        url: /images/IMG_0958-a8f02115.JPG
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: /images/IMG_0959-04d59bff.JPG
-        altText: Image four
-        caption: Image four caption
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-5
-          - pb-5
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
   - elementId: ''
     colors: colors-c
     variant: variant-a
