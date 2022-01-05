@@ -2,38 +2,6 @@
 title: About
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-e
-    variant: variant-b
-    title: ''
-    subtitle: ''
-    testimonials:
-      - quote: |
-          # Winona Lafreniere
-        name: Winona Lafreniere
-        title: Head chef at Parks
-        image:
-          type: ImageBlock
-          url: /images/Winona Lafreniere.jpg
-          altText: John Doe
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-20
-          - mr-20
-        padding:
-          - pt-5
-          - pb-5
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    type: TestimonialsSection
   - type: TextSection
     colors: colors-d
     variant: variant-a
