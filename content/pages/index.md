@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
-    backgroundSize: full
+    backgroundSize: inset
     title: Indigenous Innovative Solutions Inc.
     subtitle: “My story is my brand."
     actions:
