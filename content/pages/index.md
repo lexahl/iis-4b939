@@ -97,7 +97,6 @@ sections:
       </body>
   - colors: colors-d
     elementId: ''
-    title: Key value propositions
     subtitle: ''
     items:
       - type: FeaturedItem
