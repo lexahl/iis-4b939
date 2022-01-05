@@ -36,9 +36,6 @@ sections:
       width="20%">
 
 
-      ## Indigenous Innovative Solutions
-
-
       </center>
   - type: HeroSection
     elementId: homepage-hero-1
