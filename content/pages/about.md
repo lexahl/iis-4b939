@@ -2,6 +2,37 @@
 title: About
 layout: PageLayout
 sections:
+  - elementId: ''
+    colors: colors-d
+    variant: variant-a
+    title: ''
+    subtitle: ''
+    testimonials:
+      - quote: >-
+          "It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks."
+        name: Oliver Mills
+        title: Head chef at Parks
+        image:
+          type: ImageBlock
+          url: /images/gallery-2.jpg
+          altText: A man fishing
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-28
+          - pb-28
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: TestimonialsSection
   - type: TextSection
     colors: colors-d
     variant: variant-a
