@@ -30,7 +30,7 @@ sections:
         textAlign: left
     type: TextSection
     text: |
-      I
+      # Indigenous Innovative Solutions
   - colors: colors-d
     elementId: ''
     images:
