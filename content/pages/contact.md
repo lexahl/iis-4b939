@@ -26,7 +26,7 @@ sections:
           width: 1/2
         - type: TextFormControl
           name: address
-          label: Your message
+          label: Message
           placeholder: Your message
           isRequired: 'false'
           width: full
