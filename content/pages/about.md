@@ -12,14 +12,7 @@ sections:
           "It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks."
         name: Winona Lafreniere
-        title: >
-          Winona dedicates her knowledge and ways of being to her Obijway
-          ancestors. As the founder of Indigenous Innovative Solutions Inc.,
-          Winona brings together Indigenous knowledge, providing an Indigenous
-          voice and effective solutions to age old challenges. Critical global
-          dialogue on the importance of Indigenous perspectives for a
-          sustainable future is required to ensure viability of livelihoods of
-          future generations.
+        title: Head chef at Parks
         image:
           type: ImageBlock
           url: /images/Winona Lafreniere.jpg
