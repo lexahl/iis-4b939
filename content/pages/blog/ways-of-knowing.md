@@ -19,7 +19,7 @@ layout: PostLayout
 ---
 Indigenous Awareness sessions are offered throughout Alberta for K-12 students, school administrators, non-profit agencies, industry and government. The sessions are designed to create an enhanced knowledge base and communication between Indigenous and non- Indigenous people. These activities are interactive and learners develop trusting and respectful relationships and are exposed to a variety of art forms that foster leadership opportunities. The following list includes only a partial list:
 
-Indigenous Ways of Knowing:
+#### Indigenous Ways of Knowing:
 
 *   Cultural Competency: Building relationships, dispelling myths and stereotypes, understanding Indigenous history, culture and contemporary issues.
 *   Cultural, spiritual, environmental and political protocols in Indigenous communities
@@ -27,54 +27,54 @@ Indigenous Ways of Knowing:
     blanket exercise and other interactive activities to promote connection
 *   Self-awareness through an Indigenous lens
 
-Indigenous interactive and experiential activities:
+#### Indigenous interactive and experiential activities:
 
 *   Indigenous Arts and Crafts – birch bark baskets, medicine pouch, dream catchers, talking sticks, stone art, traditional beading techniques, drums, rattles, moss bags, mini teepee’s, medicine shield, mini log house, star blankets
 
 *   Environmental Stewardship
 
-*   Storytelling 
+*   Storytelling
 
-*   Outdoor survival skills 
+*   Outdoor survival skills
 
-*   Medicine Walks & Making 
+*   Medicine Walks & Making
 
-*   Traditional Games 
+*   Traditional Games
 
-*   Smudging Ceremony Protocols 
+*   Smudging Ceremony Protocols
 
-*   Caring for Sacred Objects i.e.: dream catcher, pipe, drum, etc. 
+*   Caring for Sacred Objects i.e.: dream catcher, pipe, drum, etc.
 
-*   Four Directions Medicines 
+*   Four Directions Medicines
 
-*   Seven Teachers of the Sacred Pipe 
+*   Seven Teachers of the Sacred Pipe
 
-*   Establishing Contact with Elders 
+*   Establishing Contact with Elders
 
-*   Facilitation of Sharing Circles: Talking, Teaching and Healing 
+*   Facilitation of Sharing Circles: Talking, Teaching and Healing
 
-*   Medicine Wheel: Purpose and Meaning 
+*   Medicine Wheel: Purpose and Meaning
 
-*   Fasting / Vision Quest / Sacred Fire 
+*   Fasting / Vision Quest / Sacred Fire
 
-*   Sundance Ceremony 
+*   Sundance Ceremony
 
-*   Sacred Pipe Teaching 
+*   Sacred Pipe Teaching
 
 *   Circle of Law
 
-*   Roles and Responsibilities 
+*   Roles and Responsibilities
 
-*   Teepee Teaching 
+*   Teepee Teaching
 
-*   Sweatlodge Teaching 
+*   Sweatlodge Teaching
 
-*   Sacred Songs 
+*   Sacred Songs
 
-*   Purpose of Traditional Feast 
+*   Purpose of Traditional Feast
 
-*   Traditional parenting skills 
+*   Traditional parenting skills
 
-*   Seven Natural Gifts 
+*   Seven Natural Gifts
 
 *   Four Laws / Elements
