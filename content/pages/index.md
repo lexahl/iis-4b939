@@ -39,12 +39,20 @@ sections:
       </center>
 
 
+
+
+      <center>
+
+
       “My story is my brand."
 
 
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
       their own future.
+
+
+      \</center>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
