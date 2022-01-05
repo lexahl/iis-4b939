@@ -186,7 +186,7 @@ sections:
     form:
       type: FormBlock
       elementId: contact-form
-      destination: ''
+      destination: lexi.ahluwalia@gmail.com
       action: /.netlify/functions/submission_created
       fields:
         - name: firstName
