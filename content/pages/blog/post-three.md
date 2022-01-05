@@ -1,7 +1,7 @@
 ---
 title: ESPECT FOR THE SACRED EARTH MEDICINES
 layout: PostLayout
-date: '2021-12-02'
+date: '2022-01-02'
 featuredImage:
   type: ImageBlock
   url: /images/bg.webp
