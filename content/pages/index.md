@@ -28,7 +28,21 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: "<center>\n\n<img src=\"images/indigenous_innovation_logo_FINAL.svg\" alt=\"logo\" draggable=\"false\" width=\"25%\">\n\n#### Creating Solutions\_\\&nbsp; Inspiring Action\n\n#### Collective Community Spirit Sharing Knowledge\n\n</center>\n"
+    text: >
+      <center>
+
+
+      <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
+      draggable="false" width="25%">
+
+
+      #### Creating Solutions\&nbsp;Inspiring Action
+
+
+      #### Collective Community Spirit Sharing Knowledge
+
+
+      </center>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
