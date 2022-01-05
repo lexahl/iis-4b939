@@ -132,9 +132,10 @@ bottomSections:
     type: TextSection
   - elementId: ''
     colors: colors-c
-    quote: >-
-      “Of all the teachings we receive this one is the most important: nothing
-      belongs to you of what there is, of what you take, you must share.”
+    quote: >
+      ### “Of all the teachings we receive this one is the most important:
+      nothing belongs to you of what there is, of what you take, you must
+      share.”
     name: Chief Dan George
     backgroundImage: null
     styles:
