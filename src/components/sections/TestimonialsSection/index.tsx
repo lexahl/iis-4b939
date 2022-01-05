@@ -140,9 +140,7 @@ function testimonialVariantB(testimonial, index) {
                                 </div>
                             )}
                             {testimonial.title && (
-                                <div className={classNames('text-lg', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
-                                    {testimonial.title}
-                                </div>
+                                test
                             )}
                         </div>
                     )}
