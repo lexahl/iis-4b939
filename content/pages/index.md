@@ -44,7 +44,6 @@ sections:
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: full
-    title: Indigenous Innovative Solutions Inc.
     subtitle: “My story is my brand."
     actions:
       - type: Button
