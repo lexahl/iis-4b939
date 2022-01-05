@@ -28,7 +28,7 @@ sections:
           name: address
           label: Message
           placeholder: Your message
-          isRequired: 'false'
+          isRequired: true
           width: full
           hideLabel: false
         - type: CheckboxFormControl
