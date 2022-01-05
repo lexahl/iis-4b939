@@ -121,7 +121,7 @@ bottomSections:
           - pt-24
           - pb-24
           - pl-52
-          - pr-36
+          - pr-52
         justifyContent: flex-start
       title:
         textAlign: left
