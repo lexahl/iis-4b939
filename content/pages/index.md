@@ -39,9 +39,6 @@ sections:
       <br>
 
 
-      <br>
-
-
       </center>
 
       <style>
@@ -52,31 +49,44 @@ sections:
 
 
       .column {
-        float: left;
-        width: 25%;
-        padding: 5px;
+
+      float: left;
+
+      width: 25%;
+
+      padding: 5px;
+
       }
 
 
-      /* Clearfix (clear floats) */
+      /\* Clearfix (clear floats) \*/
 
       .row::after {
-        content: "";
-        clear: both;
-        display: table;
+
+      content: "";
+
+      clear: both;
+
+      display: table;
+
       }
 
 
-      /* Responsive layout - makes the three columns stack on top of each other
-      instead of next to each other */
+      /\* Responsive layout - makes the three columns stack on top of each other
+      instead of next to each other \*/
 
       @media screen and (max-width: 500px) {
-        .column {
-          width: 50%;
-        }
+
+      .column {
+
+      width: 50%;
+
+      }
+
       }
 
       </style>
+
 
       <body>
 
