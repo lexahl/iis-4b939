@@ -14,7 +14,6 @@ export default function DefaultBaseLayout(props) {
             <div className="sb-base sb-default-base-layout">
                 <Head>
                     <title>{page.title}</title>
-                    <meta name="description" content="Stackbit Theme" />
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="title" content="Indigenous Innovative Solutions Inc."/>
 <meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future."/>
