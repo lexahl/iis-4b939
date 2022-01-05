@@ -8,7 +8,6 @@ sections:
       nothing belongs to you of what there is, of what you take, you must
       share.”
     name: Chief Dan George
-    title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
       self:
