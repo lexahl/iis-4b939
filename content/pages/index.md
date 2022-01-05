@@ -28,15 +28,12 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: >
-      ![i](https://preview--iis-4b939.stackbit.dev/\_static/app-assets/images/indigenous_innovation_logo_FINAL.svg)
-
+    text: |
+      <img src="indigenous_innovation_logo_FINAL.svg" alt="logo">
 
       <center draggable="false">
 
-
       ## Indigenous Innovative Solutions
-
 
       </center>
   - colors: colors-d
