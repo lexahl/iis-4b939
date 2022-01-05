@@ -55,18 +55,7 @@
                 "type": "Link"
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Contact",
-                "url": "mailto:winonajlafreniere@hotmail.com",
-                "altText": "Contact us",
-                "style": "secondary",
-                "showIcon": true,
-                "icon": "arrowRight",
-                "iconPosition": "right"
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "wide",
