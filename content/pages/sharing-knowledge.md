@@ -108,7 +108,7 @@ sections:
     variant: variant-c
     actions:
       - type: Link
-        label: 'See all '
+        label: See more projects
         altText: See all adventures
         url: /blog
         showIcon: true
