@@ -3,8 +3,8 @@ title: Indigenous Employment Coalition
 colors: colors-d
 date: '2022-01-05'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  As co-chair, it was a pleasure to coordinate this I.E.C. video project which
+  explores 4 valuable Promising Practices to create a quality video product.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
