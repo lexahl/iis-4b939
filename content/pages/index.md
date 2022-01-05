@@ -43,6 +43,11 @@ sections:
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
       their own future.
+    backgroundImage:
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
   - type: QuoteSection
     colors: colors-d
     quote: >-
