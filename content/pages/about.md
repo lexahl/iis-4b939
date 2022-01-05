@@ -22,7 +22,7 @@ sections:
     backgroundImage: null
     styles:
       self:
-        height: 300
+        height: auto
         width: wide
         margin:
           - mt-0
