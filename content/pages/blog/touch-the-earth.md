@@ -1,7 +1,6 @@
 ---
 title: Touch the Earth - Nature Camp
 layout: PostLayout
-date: '2022-01-01'
 colors: colors-c
 excerpt: >-
   This is a one-week summer camp at Camp Tamarack introduces children, youth and
