@@ -1,5 +1,5 @@
 ---
-title: Creating a Workforce Readiness Future
+title: The Spirit of Sharing
 layout: PostLayout
 date: '2021-11-04'
 author: content/data/team/desmond-eagle.json
