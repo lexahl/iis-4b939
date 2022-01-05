@@ -76,7 +76,7 @@ function PostAttribution({ post }) {
         <span>
             {author && (
                 <>
-                    {', by '}
+                    {''}
                     {author}
                 </>
             )}
