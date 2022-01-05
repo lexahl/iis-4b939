@@ -57,6 +57,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
+          label: Email
         - type: TextFormControl
           name: address
           placeholder: Your home address
