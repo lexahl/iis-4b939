@@ -16,8 +16,7 @@ export default function DefaultBaseLayout(props) {
                     <title>{page.title}</title>
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="title" content="Indigenous Innovative Solutions Inc."/>
-                    <meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future."/>
-                    <meta name="keywords" content="Indigenous, Canada, Community"/>
+<meta name="description" content="Focuses on Indigenous and social innovation, entrepreneurial mentorship, and community determination that empowers Indigenous people to design their own future.">                    <meta name="keywords" content="Indigenous, Canada, Community"/>
                     <meta name="robots" content="index, follow"/>
                     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
                     <meta name="language" content="English"/>
