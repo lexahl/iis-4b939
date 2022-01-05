@@ -30,10 +30,13 @@ sections:
     type: TextSection
     text: >
       <center
-      draggable="false">![](/images/Untitled%20\(1200%20x%20200%20px\).svg)</center>
+      draggable="false">![](/images/Untitled%20\(1200%20x%20200%20px\).svg)
 
 
       # Indigenous Innovative Solutions
+
+
+      \</center>
   - colors: colors-d
     elementId: ''
     images:
