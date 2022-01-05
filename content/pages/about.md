@@ -91,7 +91,7 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-a
-    title: The Section Title
+    title: Creating a Workforce Readiness Future
     subtitle: ''
     text: >-
       #### Creating a Workforce Readiness Future
