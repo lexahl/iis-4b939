@@ -39,8 +39,6 @@ sections:
       </center>
 
 
-
-
       <center>
 
 
@@ -52,7 +50,7 @@ sections:
       their own future.
 
 
-      \</center>
+      </center>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
