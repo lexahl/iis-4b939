@@ -141,9 +141,9 @@ sections:
     type: RecentPostsSection
   - type: ContactSection
     colors: colors-d
-    title: Contact for more Information
+    title: Contact
     text: >-
-      text
+      For more information 
     form:
       type: FormBlock
       elementId: sign-up-form
