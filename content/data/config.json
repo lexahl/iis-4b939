@@ -7,7 +7,18 @@
         "secondaryColors": "colors-a",
         "title": "Indigenous Innovative Solutions Inc.",
         "isTitleVisible": false,
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            }
+        ],
         "secondaryLinks": [],
         "styles": {
             "self": {
