@@ -134,7 +134,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
+    title: Projects
     subtitle: ''
     colors: colors-d
     recentCount: 5
