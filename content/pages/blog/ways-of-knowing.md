@@ -1,7 +1,6 @@
 ---
 title: Indigenous Awareness – “Ways of Knowing”
 colors: colors-d
-date: '2022-01-05'
 excerpt: >-
   Indigenous Awareness sessions are offered throughout Alberta for K-12
   students, school administrators, non-profit agencies, industry and government.

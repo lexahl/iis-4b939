@@ -1,7 +1,6 @@
 ---
 title: Blanket Exercise Facilitation
 colors: colors-d
-date: '2022-01-05'
 excerpt: >-
   The Blanket Exercise has been offered across Canada, including in schools, to
   community groups, employers and the general public.

@@ -1,8 +1,6 @@
 ---
 title: Exploring Future Careers Camp
 layout: PostLayout
-date: '2021-11-03'
-author: content/data/team/desmond-eagle.json
 excerpt: >-
   The interactive five-day camp at Camp Tamarack introduced 8 Metis females ages
   15-16 to a variety of career options the health and sciences, forestry and oil

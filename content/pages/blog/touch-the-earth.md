@@ -1,14 +1,18 @@
 ---
-title: Respect for the Sacred Earth Medicines
+title: Touch the Earth - Nature Camp
 layout: PostLayout
-date: '2022-01-02'
+colors: colors-c
+excerpt: >-
+  This is a one-week summer camp at Camp Tamarack introduces children, youth and
+  adults to the natural environment in ways that develop powerful, knowledgeable
+  and lifelong connections essential for a healthy and sustainable future for
+  everyone.
 featuredImage:
   type: ImageBlock
-  url: /images/bg.webp
-  altText: Post Image
+  url: /images/post-3.jpg
+  altText: Post Thumbnail Image
 media:
   type: ImageBlock
-  url: /images/bg.webp
   altText: Post Image
 bottomSections:
   - elementId: ''
@@ -41,22 +45,7 @@ bottomSections:
       actions:
         justifyContent: center
     type: RecentPostsSection
-excerpt: >-
-  The younger generations have a greater appreciation for the environment when
-  they are taught with respect and honour.
 ---
-*   Poplar Bud Salve Making
+This is a one-week summer camp at Camp Tamarack introduces children, youth and adults to the natural environment in ways that develop powerful, knowledgeable and lifelong connections essential for a healthy and sustainable future for everyone.
 
-*   Campers Learn About Sustainable Harvesting of Mother Earth’s Healing Medicines
-
-
-
-    		
-    			
-    				
-    					
-    				
-    			
-    		
-    	
-
+#### Youth learning how to make their own traditional hand drum.

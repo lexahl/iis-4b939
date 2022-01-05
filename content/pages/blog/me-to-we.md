@@ -1,7 +1,6 @@
 ---
 title: “ME to WE” – Indigenous Leadership Education
 colors: colors-d
-date: '2022-01-05'
 excerpt: >-
   “ME to WE” empowers people to change the world through their everyday consumer
   choices. ME to WE is part of WE which empowers people to change the world.
