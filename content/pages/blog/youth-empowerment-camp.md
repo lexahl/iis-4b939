@@ -1,7 +1,6 @@
 ---
 title: Youth Empowerment Camp
 layout: PostLayout
-date: '2021-06-28'
 excerpt: >-
   The Youth Empowerment camp brings international youth from around the world
   together to build community capacity that begins with the acknowledgement of
