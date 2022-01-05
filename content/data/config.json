@@ -43,16 +43,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
-            },
-            {
-                "label": "Sharing Knowledge",
-                "altText": "Sharing Knowledge",
-                "url": "/sharing-knowledge",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
             }
         ],
         "secondaryLinks": [],
