@@ -37,7 +37,7 @@ sections:
     type: TextSection
   - elementId: ''
     colors: colors-d
-    backgroundSize: inset
+    backgroundSize: full
     title: Contact us
     text: We look forward to hearing from you.
     form:
