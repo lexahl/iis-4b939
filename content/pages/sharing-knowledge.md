@@ -172,10 +172,10 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: address
-          label: Address
+          name: message
+          label: Your message
           hideLabel: true
-          placeholder: Address
+          placeholder: Your message
           isRequired: true
           width: full
         - type: CheckboxFormControl
