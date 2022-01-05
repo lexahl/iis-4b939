@@ -22,7 +22,7 @@ sections:
           isRequired: 'true'
           width: 1/2
         - type: TextFormControl
-          name: Message
+          name: message
           placeholder: Your home address
           isRequired: 'false'
           width: full
