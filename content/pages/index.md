@@ -32,13 +32,8 @@ sections:
       <center draggable="false">
 
 
-      ## Indigenous Innovative Solutions
-
-
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
       width="20%">
-
-
 
 
       ## Indigenous Innovative Solutions
