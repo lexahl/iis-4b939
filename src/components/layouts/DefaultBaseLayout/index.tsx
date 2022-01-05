@@ -22,7 +22,6 @@ export default function DefaultBaseLayout(props) {
                     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
                     <meta name="language" content="English"/>
                     <meta name="author" content="Winona Lafreniere"/>
-
                     {site.favicon && <link rel="icon" href={site.favicon} />}
                 </Head>
                 {site.header && <Header {...site.header} annotationPrefix={siteMeta.id} />}
