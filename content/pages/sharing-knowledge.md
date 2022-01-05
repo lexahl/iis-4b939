@@ -22,7 +22,7 @@ sections:
           - pt-10
           - pb-10
           - pl-52
-          - pr-4
+          - pr-52
         justifyContent: center
       quote:
         textAlign: center
