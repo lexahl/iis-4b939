@@ -1,60 +1,13 @@
 {
     "type": "Config",
     "header": {
-        "headerVariant": "variant-b",
+        "headerVariant": "variant-c",
         "isSticky": true,
         "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
         "title": "Indigenous Innovative Solutions Inc.",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "About Winona",
-                "url": "/about",
-                "altText": "About Winona"
-            },
-            {
-                "label": "Creating Solutions ",
-                "altText": "Creating Solutions ",
-                "url": "/creating-solutions",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "Inspiring Action",
-                "altText": "Inspiring Action",
-                "url": "/inspiring-action ",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "Collective Community Spirit",
-                "altText": "Collective Community Spirit",
-                "url": "/collective-community-spirit",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "Sharing Knowledge",
-                "altText": "Sharing Knowledge",
-                "url": "/sharing-knowledge",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
             "self": {
