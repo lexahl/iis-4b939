@@ -37,6 +37,25 @@ sections:
 
 
       </center>  
+
+
+
+
+
+
+
+
+
+      Creating Solutions 
+
+
+      Inspiring Action
+
+
+      Collective Community Spirit 
+
+
+      Sharing Knowledge 
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
