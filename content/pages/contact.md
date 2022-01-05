@@ -4,7 +4,6 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: Contact
     styles:
       self:
         height: auto
