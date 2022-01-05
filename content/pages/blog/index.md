@@ -69,7 +69,7 @@ bottomSections:
   - elementId: ''
     colors: colors-d
     variant: variant-b
-    title: The Section Title
+    title: Volunteer Profile of Winona Lafreniere
     subtitle: The section subtitle
     text: >
       As a passionate artist and cultural advisor of the Ojibway nation, it has
