@@ -48,8 +48,10 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |
-      test
+    text: >
+      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
+      and community determination that empowers Indigenous people to design
+      their own future.
   - type: QuoteSection
     colors: colors-d
     quote: >-
