@@ -44,12 +44,14 @@ sections:
 
 
 
-      “My story is my brand."
+      ###### “My story is my brand."
 
 
-      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
-      and community determination that empowers Indigenous people to design
-      their own future.
+
+
+      ##### Focuses on Indigenous and social innovation, entrepreneurial
+      mentorship, and community determination that empowers Indigenous people to
+      design their own future.
 
 
       </center>
