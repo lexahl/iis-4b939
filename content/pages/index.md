@@ -46,7 +46,7 @@ sections:
       - type: ImageBlock
         url: /images/IMG_0960-2ff9138b.JPG
         altText: Image one
-        caption: rjf
+        caption: Caption
       - type: ImageBlock
         url: /images/IMG_0961-48522e09.JPG
         altText: Image two
