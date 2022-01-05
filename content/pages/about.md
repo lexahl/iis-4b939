@@ -60,7 +60,7 @@ sections:
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: /images/Winona Ride 2019.JPG
+        url: /images/SAM_1559.JPG
         altText: Image four
         caption: Image four caption
     spacing: 16
