@@ -136,7 +136,7 @@ sections:
         justifyContent: flex-start
     title: Projects
     subtitle: ''
-    colors: colors-d
+    colors: colors-c
     recentCount: 5
     type: RecentPostsSection
   - type: ContactSection
