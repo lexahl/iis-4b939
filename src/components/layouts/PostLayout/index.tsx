@@ -26,9 +26,7 @@ export default function PostLayout(props) {
                             {page.title && <h1 data-sb-field-path="title">{page.title}</h1>}
                             <div className="text-lg mt-6">
                                 <span>
-                                    <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                                        {formattedDate}
-                                    </time>
+
                                 </span>
                                 <PostAttribution post={page} />
                             </div>
