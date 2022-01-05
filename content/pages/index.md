@@ -45,7 +45,7 @@ sections:
       and community determination that empowers Indigenous people to design
       their own future.
     backgroundImage:
-      url: /images/YouthMovingForward.Nov14-8647.jpg
+      url: /images/banner1.png
       backgroundSize: cover
       backgroundPosition: center
       opacity: 25
@@ -242,10 +242,3 @@ sections:
       text:
         textAlign: center
 ---
-<meta name="title" content="Indigenous Innovative Solutions Inc.">
-<meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future.">
-<meta name="keywords" content="Indigenous, Canada, Community">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
-<meta name="author" content="Winona Lafreniere">
