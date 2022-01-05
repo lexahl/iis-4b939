@@ -7,7 +7,7 @@ excerpt: >-
   existing community resources.
 featuredImage:
   type: ImageBlock
-  url: /images/post-1.jpg
+  url: /images/image-011.jpg
   altText: Post thumbnail image
 media:
   type: ImageBlock

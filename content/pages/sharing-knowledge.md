@@ -104,7 +104,7 @@ sections:
     showAuthor: false
     showExcerpt: true
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
+    readMoreLinkLabel: Read more
     variant: variant-b
     actions:
       - type: Link
@@ -137,14 +137,13 @@ sections:
     title: Projects
     subtitle: ''
     colors: colors-c
-    recentCount: 5
+    recentCount: 15
     type: RecentPostsSection
   - type: ContactSection
     colors: colors-d
-    title: Join our club
+    title: Contact
     text: >-
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
+      text
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -173,18 +172,13 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: address
-          label: Address
+          name: message
+          label: Your message
           hideLabel: true
-          placeholder: Address
+          placeholder: Your message
           isRequired: true
           width: full
-        - type: CheckboxFormControl
-          name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-      submitLabel: Submit form
+      submitLabel: Send
       styles:
         submitLabel:
           textAlign: center

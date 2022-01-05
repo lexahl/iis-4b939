@@ -3,7 +3,7 @@ title: Respect for the Sacred Earth Medicines
 layout: PostLayout
 featuredImage:
   type: ImageBlock
-  url: /images/bg.webp
+  url: /images/image-009.jpg
   altText: Post Image
 media:
   type: ImageBlock
