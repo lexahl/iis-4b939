@@ -178,7 +178,6 @@ sections:
           placeholder: Your message
           isRequired: true
           width: full
-          width: full
       submitLabel: Submit form
       styles:
         submitLabel:
