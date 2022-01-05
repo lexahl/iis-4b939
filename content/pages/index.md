@@ -230,11 +230,6 @@ sections:
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
       their own future.
-    backgroundImage:
-      url: /images/banner1.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 60
   - elementId: ''
     colors: colors-c
     variant: variant-a
