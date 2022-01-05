@@ -3,8 +3,9 @@ title: Youth Empowerment Camp
 layout: PostLayout
 date: '2021-06-28'
 excerpt: >-
-  Deep sea fishing, also called offshore fishing. Nullam viverra justo arcu,
-  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+  The Youth Empowerment camp brings international youth from around the world
+  together to build community capacity that begins with the acknowledgement of
+  existing community resources.
 featuredImage:
   type: ImageBlock
   url: /images/post-1.jpg
