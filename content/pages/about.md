@@ -19,7 +19,6 @@ sections:
       type: ImageBlock
       url: /images/Winona Lafreniere.jpg
       altText: Hero image
-      size: small
     backgroundImage: null
     styles:
       self:
