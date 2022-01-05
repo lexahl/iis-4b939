@@ -147,26 +147,19 @@ sections:
         styles:
           self:
             textAlign: left
-      - elementId: ''
-        title: Item Title
-        subtitle: ''
+      - type: FeaturedItem
+        title: Focused
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
-          - label: Learn more
-            altText: ''
-            url: /
+          - type: Button
+            label: Learn more
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            url: /
             style: primary
-            elementId: ''
-            type: Button
         styles:
           self:
             textAlign: left
