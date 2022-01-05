@@ -37,71 +37,12 @@ sections:
 
 
       </center>
-
-      <style>
-
-      * {
-        box-sizing: border-box;
-      }
-
-
-      .column {
-
-      float: left;
-
-      width: 25%;
-
-      padding: 5px;
-
-      }
-
-
-      /\* Clearfix (clear floats) \*/
-
-      .row::after {
-
-      content: "";
-
-      clear: both;
-
-      display: table;
-
-      }
-
-
-      /\* Responsive layout - makes the three columns stack on top of each other
-      instead of next to each other \*/
-
-      @media screen and (max-width: 500px) {
-
-      .column {
-
-      width: 50%;
-
-      }
-
-      }
-
-      </style>
-
-
-      <body>
-
-      <div class="row"> <div class="column"> <img src="images/2.svg" alt="logo"
-      draggable="false" > </div> <div class="column"> <img src="images/3.svg"
-      alt="logo" draggable="false" > </div> <div class="column"> <img
-      src="images/4.svg" alt="logo" draggable="false"> </div> <div
-      class="column"> <img src="images/5.svg" alt="logo" draggable="false">
-      </div> </div>
-
-      </body>
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
-    title: Key value propositions
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Creating Solutions
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
@@ -112,28 +53,12 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /
-            style: secondary
-        styles:
-          self:
-            textAlign: left
-      - elementId: ''
-        title: Item Title
-        subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-        actions: []
+            style: primary
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Smarter
+        title: Inspiring Action
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
@@ -144,12 +69,12 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /
-            style: secondary
+            style: primary
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
+        title: Collective Community Spirit
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
@@ -160,12 +85,28 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /
-            style: secondary
+            style: primary
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Sharing Knowledge
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        actions:
+          - type: Button
+            label: Learn more
+            showIcon: true
+            icon: arrowRight
+            url: /
+            style: primary
         styles:
           self:
             textAlign: left
     actions: []
-    columns: 3
+    columns: 4
     enableHover: false
     styles:
       self:
@@ -177,8 +118,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-36
+          - pt-5
+          - pb-5
           - pl-4
           - pr-4
         justifyContent: center
@@ -230,95 +171,6 @@ sections:
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
       their own future.
-    backgroundImage:
-      url: /images/banner1.png
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 60
-  - elementId: ''
-    colors: colors-c
-    variant: variant-a
-    title: Seasonal adventures
-    actions:
-      - type: Link
-        label: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-  - type: FeatureHighlightSection
-    colors: colors-d
-    backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
-    text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
-    actions:
-      - type: Link
-        label: Join adventure
-        url: 'https://www.stackbit.com/'
-        showIcon: true
-        icon: arrowRight
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/20210722_181004.jpg
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 90
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-72
-          - pr-4
-          - pl-4
-        justifyContent: flex-start
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: ContactSection
     colors: colors-d
     title: Contact
