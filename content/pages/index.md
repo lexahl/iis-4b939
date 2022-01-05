@@ -37,7 +37,7 @@ sections:
 
 
       </center>
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     subtitle: ''
     items:
