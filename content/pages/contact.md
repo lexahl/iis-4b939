@@ -5,9 +5,6 @@ sections:
     colors: colors-d
     variant: variant-a
     title: Contact
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
     styles:
       self:
         height: auto
