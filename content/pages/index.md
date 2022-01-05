@@ -35,7 +35,6 @@ sections:
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
       draggable="false" width="25%">
 
-        
 
       Creating Solutions
 
@@ -49,7 +48,7 @@ sections:
       Sharing Knowledge
 
 
-      \</center>
+      </center>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
