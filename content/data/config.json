@@ -112,12 +112,6 @@
                 "label": "Adventures",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact us",
-                "url": "mailto:info@lorem.mail",
-                "altText": ""
             }
         ],
         "socialLinks": [
