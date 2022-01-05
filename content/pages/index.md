@@ -48,7 +48,7 @@ sections:
       url: /images/banner1.png
       backgroundSize: cover
       backgroundPosition: center
-      opacity: 100
+      opacity: 68
   - type: QuoteSection
     colors: colors-d
     quote: >-
