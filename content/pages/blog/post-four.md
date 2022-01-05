@@ -3,7 +3,6 @@ title: Touch the Earth - Nature Camp
 layout: PostLayout
 date: '2022-01-01'
 colors: colors-c
-author: content/data/team/hilary-ouse.json
 excerpt: >-
   This is a one-week summer camp at Camp Tamarack introduces children, youth and
   adults to the natural environment in ways that develop powerful, knowledgeable
