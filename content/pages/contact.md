@@ -71,5 +71,8 @@ sections:
           width: full
       submitLabel: Send Message
     type: ContactSection
+    styles:
+      self:
+        width: wide
 layout: PageLayout
 ---
