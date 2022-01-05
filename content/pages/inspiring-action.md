@@ -251,7 +251,7 @@ sections:
         textAlign: center
 layout: PageLayout
 ---
-<meta name="title" content="Indigenous Innovative Solutions Inc.">
+<meta name="title" content="Inspiring Action | Indigenous Innovative Solutions Inc.">
 <meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future.">
 <meta name="keywords" content="Indigenous, Canada, Community">
 <meta name="robots" content="index, follow">
