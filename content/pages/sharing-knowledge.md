@@ -7,7 +7,7 @@ sections:
       #### “Of all the teachings we receive this one is the most important:
       nothing belongs to you of what there is, of what you take, you must
       share.”
-    name: Johnna Doe
+    name: Chief Dan George
     title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
