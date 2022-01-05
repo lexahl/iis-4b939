@@ -176,7 +176,7 @@ function siteLogoLink(props) {
         <Link href="/" aria-label={props.title} className="sb-header-logo flex items-center">
             {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.isTitleVisible })} data-sb-field-path=".logo" />}
             {props.title && props.isTitleVisible && (
-                <span className="text-2xl font-medium" data-sb-field-path=".title">
+                <span className="font-medium" data-sb-field-path=".title">
                     Indigenous Innovative Solutions Inc.
                 </span>
             )}
