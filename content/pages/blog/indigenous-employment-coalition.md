@@ -17,12 +17,10 @@ media:
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+As co-chair, it was a pleasure to coordinate this I.E.C. video project which explores 4 valuable Promising Practices to create a quality video product. The 4 Promising Practices identified include: Cultural Competence, Understanding Barriers, Setting a Welcoming Environment and It's Everyone's Job which set the tone for the future of I.E.C.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+The video has been shared with various industry partners, municipalities, government, local businesses, educational institutions, Indigenous communities and training providers to assist in recruitment and retention of Indigenous employees and provide them with a means for welcoming new employees. The video serves to educate the public with respect to identifying indigenous perspectives, culture and values that exists in the Aboriginal workforce.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+<iframe src="http://player.vimeo.com/video/78948383?portrait=0&color=00b6cc"
+							width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen>
+						</iframe>
