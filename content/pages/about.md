@@ -7,16 +7,7 @@ sections:
     variant: variant-a
     title: ''
     subtitle: ''
-    testimonials:
-      - quote: >-
-          "It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks."
-        name: Oliver Mills
-        title: Head chef at Parks
-        image:
-          type: ImageBlock
-          url: /images/gallery-2.jpg
-          altText: A man fishing
+    testimonials: []
     styles:
       self:
         height: auto
