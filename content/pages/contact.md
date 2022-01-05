@@ -23,7 +23,7 @@ sections:
           placeholder: Your email
           isRequired: true
           width: 1/2
-          hideLabel: false
+          hideLabel: true
           label: Email
         - type: TextFormControl
           name: message
