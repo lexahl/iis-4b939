@@ -73,6 +73,50 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
+  - colors: colors-d
+    elementId: ''
+    images:
+      - type: ImageBlock
+        url: /images/IMG_0960-2ff9138b.JPG
+        altText: Image one
+        caption: Image one caption
+      - type: ImageBlock
+        url: /images/IMG_0961-48522e09.JPG
+        altText: Image two
+        caption: Image two caption
+      - type: ImageBlock
+        url: /images/IMG_0958-a8f02115.JPG
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/IMG_0959-04d59bff.JPG
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
@@ -120,50 +164,6 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 60
-  - colors: colors-d
-    elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/IMG_0960-2ff9138b.JPG
-        altText: Image one
-        caption: Image one caption
-      - type: ImageBlock
-        url: /images/IMG_0961-48522e09.JPG
-        altText: Image two
-        caption: Image two caption
-      - type: ImageBlock
-        url: /images/IMG_0958-a8f02115.JPG
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: /images/IMG_0959-04d59bff.JPG
-        altText: Image four
-        caption: Image four caption
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
   - elementId: ''
     colors: colors-c
     variant: variant-a
