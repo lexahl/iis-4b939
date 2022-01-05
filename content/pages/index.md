@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Contact
-        url: 'https://www.stackbit.com/'
+        url: /
         style: primary
         iconPosition: right
         icon: arrowRight
