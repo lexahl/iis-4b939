@@ -15,12 +15,37 @@ media:
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+There are many teachings of Medicine Wheel (sometimes referred to as “The Life Cycle”) and the following is a list that can be used to develop curriculum for any target group (i.e.: school age children, youth groups, training for employees, industry and educational partners and so forth).
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+#### Medicine Wheel Teachings (Aboriginal Culture)
+* Traditional Medicine Making & Harvesting
+* Women’s Teachings (motherhood)
+* Traditional Games
+* Traditional Parenting
+* Women’s Drumming
+* Traditional Dream catcher creations/teaching
+* Quilting and beadwork techniques
+* Talking Stick Protocol / Making / Teaching
+* Medicine Bag Making / Teaching
+* Eagle Feather Teaching
+* Metis games and traditions
+* Metis Sash weaving - bracelet
+* Storytelling
+* Caring for sacred objects
+* Traditional Cooking
+* Sacred Fire Teaching
+* Drum Teachings
+* Warrior Spirit
+* Men’s Teachings
+* Seven Sacred Teachings
+* Clan Systems
+* Smudging & Significance of Tobacco
+* Pipe Teachings
+* Tipi Teaching
+* Water Teaching
+* Significance of the Sun Dance
+* Sweat Lodge Ceremony
+* Powwow Ceremonies
+* Full Moon & Naming Ceremony
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+All teachings will begin with acknowledging the creator through prayer. It is also important to conduct teachings in a circle as it resembles balance and respect.
