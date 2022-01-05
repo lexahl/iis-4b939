@@ -149,7 +149,7 @@ bottomSections:
         padding:
           - pt-10
           - pb-10
-          - pl-4
+          - pl-52
           - pr-4
         justifyContent: center
       quote:
