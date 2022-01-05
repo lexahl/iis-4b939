@@ -51,7 +51,6 @@ sections:
       opacity: 60
   - colors: colors-d
     elementId: ''
-    title: Gallery
     images:
       - type: ImageBlock
         url: /images/IMG_0960-2ff9138b.JPG
