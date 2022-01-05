@@ -34,7 +34,6 @@ sections:
       submitLabel: Send Message
     media:
       type: ImageBlock
-      url: /images/20210925_120502-fc802307.jpg
       altText: Contact form image
     styles:
       self:
