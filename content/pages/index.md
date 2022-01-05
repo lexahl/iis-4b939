@@ -218,7 +218,7 @@ sections:
           isRequired: true
           width: full
           type: TextFormControl
-      submitLabel: Submit form
+      submitLabel: Send message
       styles:
         submitLabel:
           textAlign: center
