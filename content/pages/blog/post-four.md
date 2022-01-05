@@ -5,8 +5,10 @@ date: '2022-01-01'
 colors: colors-c
 author: content/data/team/hilary-ouse.json
 excerpt: >-
-  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
-  the sea has to offer, nothing more, and no cheating.
+  This is a one-week summer camp at Camp Tamarack introduces children, youth and
+  adults to the natural environment in ways that develop powerful, knowledgeable
+  and lifelong connections essential for a healthy and sustainable future for
+  everyone.
 featuredImage:
   type: ImageBlock
   url: /images/post-3.jpg
