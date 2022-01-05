@@ -47,7 +47,7 @@
             {
                 "label": "Sharing Knowledge",
                 "altText": "Sharing Knowledge",
-                "url": "/sharing-knowledge",
+                "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
