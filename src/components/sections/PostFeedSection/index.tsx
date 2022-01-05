@@ -363,7 +363,6 @@ function PostDate({ post, className = '' }) {
     const formattedDate = dayjs(date).format('MM/DD/YYYY');
     return (
         <div className={className ? className : null}>
-
         </div>
     );
 }
