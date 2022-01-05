@@ -16,12 +16,6 @@ sections:
         iconPosition: right
         icon: arrowRight
         showIcon: true
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/20210722_181004.jpg
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 40
     styles:
       self:
         height: auto
