@@ -89,7 +89,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: flex-end
-        flexDirection: row
+        flexDirection: row-reverse
       title:
         textAlign: left
       text:
