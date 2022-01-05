@@ -115,19 +115,7 @@ function footerVariantB(props) {
     return (
         <>
             <div className="flex flex-col items-center pb-20 text-center">
-                {(props.logo || props.title || props.text) && (
-                    <div className="mb-20">
-                        {props.text && (
-                            <Markdown
-                                options={{ forceBlock: true, forceWrapper: true }}
-                                className={classNames('sb-markdown', 'max-w-2xl', { 'mt-8': props.title || props.logo })}
-                                data-sb-field-path=".text"
-                            >
-                                {props.text}
-                            </Markdown>
-                        )}
-                    </div>
-                )}
+                
                 {primaryLinks.length > 0 && (
                     <div className="w-full max-w-5xl">
                         <ul className="flex flex-wrap justify-evenly mb-6 text-lg" data-sb-field-path=".primaryLinks">
