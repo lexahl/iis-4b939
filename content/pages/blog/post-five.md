@@ -4,8 +4,8 @@ layout: PostLayout
 date: '2022-01-03'
 author: content/data/team/hugh-saturation.json
 excerpt: >-
-  Knowing how to feed yourself in the wild is one of the greatest skills you
-  could ever have.
+  The Evergreen Learning and Innovation Centre inspires a culture of learning
+  and innovation around responsible resource development.
 featuredImage:
   type: ImageBlock
   url: /images/hero.webp
