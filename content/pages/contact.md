@@ -25,7 +25,7 @@ sections:
           name: message
           placeholder: Your home address
           isRequired: 'false'
-          width: 1/2
+          width: full
           label: Message
           hideLabel: false
         - type: CheckboxFormControl
