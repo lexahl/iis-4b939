@@ -15,16 +15,6 @@
                 "altText": "About Winona"
             },
             {
-                "label": "Collective Community Spirit",
-                "altText": "Collective Community Spirit",
-                "url": "/collective-community-spirit",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
                 "label": "Inspiring Action",
                 "altText": "Inspiring Action",
                 "url": "/inspiring-action ",
