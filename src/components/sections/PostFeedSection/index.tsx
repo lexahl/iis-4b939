@@ -363,9 +363,7 @@ function PostDate({ post, className = '' }) {
     const formattedDate = dayjs(date).format('MM/DD/YYYY');
     return (
         <div className={className ? className : null}>
-            <time dateTime={dateTimeAttr} data-sb-field-path="date">
-                {formattedDate}
-            </time>
+
         </div>
     );
 }
