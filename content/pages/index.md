@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: >+
+    text: >
       <center>
 
 
@@ -43,7 +43,7 @@ sections:
       </center>
 
 
-
+      <img src="images/2.svg" alt="logo" draggable="false" width="25%">
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
