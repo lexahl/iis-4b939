@@ -20,4 +20,4 @@ As co-chair, it was a pleasure to coordinate this I.E.C. video project which exp
 
 The video has been shared with various industry partners, municipalities, government, local businesses, educational institutions, Indigenous communities and training providers to assist in recruitment and retention of Indigenous employees and provide them with a means for welcoming new employees. The video serves to educate the public with respect to identifying indigenous perspectives, culture and values that exists in the Aboriginal workforce.
 
-<iframe src="http://player.vimeo.com/video/78948383?portrait=0&color=00b6cc" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen> </iframe>
+[https://player.vimeo.com/video/78948383?portrait=0&color=00b6cc](https://player.vimeo.com/video/78948383?portrait=0&color=00b6cc)
