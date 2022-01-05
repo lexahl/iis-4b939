@@ -4,7 +4,6 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: The Section Title
     subtitle: ''
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
