@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Featured Projects
+title: Projects
 numOfPostsPerPage: 10
 styles:
   title:
