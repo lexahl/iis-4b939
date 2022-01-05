@@ -29,7 +29,7 @@ sections:
         textAlign: left
     type: TextSection
     text: |
-      <img src="indigenous_innovation_logo_FINAL.svg" alt="logo">
+      <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo">
 
       <center draggable="false">
 
