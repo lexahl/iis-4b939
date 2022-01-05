@@ -60,39 +60,6 @@ sections:
         textAlign: left
       title:
         textAlign: left
-  - type: FeaturedPeopleSection
-    variant: variant-c
-    colors: colors-c
-    title: Our Team
-    subtitle: >-
-      We’re a group of proffesional fisherman & friends, who love exploring the
-      seas and sharing our experiences with the world.
-    people:
-      - content/data/team/desmond-eagle.json
-      - content/data/team/dianne-ameter.json
-      - content/data/team/hugh-saturation.json
-      - content/data/team/hilary-ouse.json
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-72
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
   - type: ContactSection
     colors: colors-d
     title: Join our club
@@ -166,3 +133,10 @@ sections:
         textAlign: center
 layout: PageLayout
 ---
+<meta name="title" content="Creating Solutions | Indigenous Innovative Solutions Inc.">
+<meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future.">
+<meta name="keywords" content="Indigenous, Canada, Community">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="author" content="Winona Lafreniere">
