@@ -132,7 +132,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
+        title: Collective Community Spirit
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
