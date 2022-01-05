@@ -118,9 +118,7 @@ function footerVariantB(props) {
                 {(props.logo || props.title || props.text) && (
                     <div className="mb-20">
                         <Link href="/" className="sb-footer-logo flex items-center justify-center">
-                            {props.logo && (
-                                <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} data-sb-field-path=".logo" />
-                            )}
+                            
                             
                         </Link>
                         {props.text && (
