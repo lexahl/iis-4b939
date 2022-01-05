@@ -1,5 +1,7 @@
 ---
-title: EVERGREEN LEARNING AND INNOVATION CENTRE
+title: >-
+  Evergreen Learning and Innovation CentreVERGREEN LEARNING AND INNOVATION
+  CENTRE
 layout: PostLayout
 date: '2022-01-03'
 author: content/data/team/hugh-saturation.json
