@@ -137,7 +137,6 @@ function footerVariantB(props) {
                                 ))}
                             </ul>
                         )}
-                        {props.contacts && <Contacts {...props.contacts} className="flex flex-wrap justify-center mx-4 mb-4" classNameItem="mx-4 mb-2" />}
                     </div>
                 )}
             </div>
