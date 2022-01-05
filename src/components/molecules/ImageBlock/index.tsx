@@ -16,7 +16,7 @@ export default function ImageBlock(props) {
         `${annotationPrefix}.elementId#@id`
     ];
 
-    return (<center></center>
+    return (<center>
         <img
             id={cssId}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
@@ -24,6 +24,6 @@ export default function ImageBlock(props) {
             alt={altText || ''}
             draggable="false"
             data-sb-field-path={annotations.join(' ').trim()}
-        />
+        /></center>
     );
 }
