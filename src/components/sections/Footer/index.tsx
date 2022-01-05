@@ -117,10 +117,6 @@ function footerVariantB(props) {
             <div className="flex flex-col items-center pb-20 text-center">
                 {(props.logo || props.title || props.text) && (
                     <div className="mb-20">
-                        <Link href="/" className="sb-footer-logo flex items-center justify-center">
-                            
-                            
-                        </Link>
                         {props.text && (
                             <Markdown
                                 options={{ forceBlock: true, forceWrapper: true }}
