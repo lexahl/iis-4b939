@@ -30,7 +30,7 @@ sections:
           placeholder: Your message
           isRequired: 'false'
           width: full
-          hideLabel: true
+          hideLabel: false
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
