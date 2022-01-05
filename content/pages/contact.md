@@ -24,7 +24,7 @@ sections:
         - type: TextFormControl
           name: message
           placeholder: Your message
-          isRequired: 'false'
+          isRequired: true
           width: full
           label: Message
           hideLabel: false
