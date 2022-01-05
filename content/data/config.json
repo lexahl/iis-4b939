@@ -13,16 +13,6 @@
                 "label": "About Winona",
                 "url": "/about",
                 "altText": "About Winona"
-            },
-            {
-                "label": "Inspiring Action",
-                "altText": "Inspiring Action",
-                "url": "/inspiring-action ",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
             }
         ],
         "secondaryLinks": [],
