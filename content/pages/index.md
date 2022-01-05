@@ -28,12 +28,16 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: |
-      <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo">
+    text: >
+      <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
+      width=100>
+
 
       <center draggable="false">
 
+
       ## Indigenous Innovative Solutions
+
 
       </center>
   - colors: colors-d
