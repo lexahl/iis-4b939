@@ -46,36 +46,68 @@ sections:
       <img src="images/2.svg" alt="logo" draggable="false" width="20%"><img
       src="images/3.svg" alt="logo" draggable="false" width="20%"><img
       src="images/4.svg" alt="logo" draggable="false" width="20%"><img
-      src="images/5.svg" alt="logo" draggable="false" width="20%">.column {
+      src="images/5.svg" alt="logo" draggable="false" width="20%">
 
-      float: left;
 
-      width: 25%;
+      <head>
 
-      padding: 5px;
+      <style>
 
-      }/\* Clearfix (clear floats) \*/
+      * {
+        box-sizing: border-box;
+      }
 
-      .row::after {
-
-      content: "";
-
-      clear: both;
-
-      display: table;
-
-      }/\* Responsive layout - makes the three columns stack on top of each
-      other instead of next to each other \*/
-
-      @media screen and (max-width: 500px) {
 
       .column {
-
-      width: 50%;
-
+        float: left;
+        width: 25%;
+        padding: 5px;
       }
 
+
+      /* Clearfix (clear floats) */
+
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
       }
+
+
+      /* Responsive layout - makes the three columns stack on top of each other
+      instead of next to each other */
+
+      @media screen and (max-width: 500px) {
+        .column {
+          width: 50%;
+        }
+      }
+
+      </style>
+
+      </head>
+
+      <body>
+
+
+
+      <div class="row">
+        <div class="column">
+          <img src="img_snow.jpg" alt="Snow" style="width:100%">
+        </div>
+        <div class="column">
+          <img src="img_forest.jpg" alt="Forest" style="width:100%">
+        </div>
+        <div class="column">
+          <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+        </div>
+        <div class="column">
+          <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+        </div>
+      </div>
+
+
+      </body>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
