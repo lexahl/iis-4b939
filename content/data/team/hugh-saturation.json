@@ -2,9 +2,8 @@
     "type": "Person",
     "firstName": "Winona",
     "lastName": "Lafreniere",
-    "role": "Senior Fisherman + Delivery guy",
     "image": {
         "type": "ImageBlock",
-        "altText": "Hugh Saturation photo"
+        "url": "/images/hugh-saturation.png"
     }
 }
