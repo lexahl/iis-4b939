@@ -42,7 +42,7 @@
         "secondaryLinks": [
             {
                 "label": "Contact",
-                "altText": "",
+                "altText": "contact",
                 "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
