@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: >
+    text: >+
       <center>
 
 
@@ -37,6 +37,9 @@ sections:
 
 
       </center>
+
+
+
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
