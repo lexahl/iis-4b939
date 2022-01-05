@@ -3,28 +3,6 @@ title: About
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-d
-    variant: variant-a
-    title: ''
-    subtitle: ''
-    testimonials: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-28
-          - pb-28
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: TestimonialsSection
-  - elementId: ''
     colors: colors-e
     variant: variant-b
     title: ''
