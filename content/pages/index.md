@@ -30,7 +30,7 @@ sections:
     type: TextSection
     text: >
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
-      width=100>
+      width=2em>
 
 
       <center draggable="false">
