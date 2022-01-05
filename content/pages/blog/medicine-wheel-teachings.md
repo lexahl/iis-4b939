@@ -2,9 +2,7 @@
 title: 'Medicine Wheel Teachings: Aboriginal Job Shadow Program'
 colors: colors-d
 date: '2022-01-05'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ' Aboriginal Job Shadow Program – Grande Prairie Regional College'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
