@@ -207,7 +207,7 @@ sections:
           name: updates
           label: Sign me up to receive updates
           isRequired: 'false'
-          width: full
+          width: 1/2
         - type: EmailFormControl
           name: email
           placeholder: Your email
