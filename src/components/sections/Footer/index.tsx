@@ -115,7 +115,6 @@ function footerVariantB(props) {
     return (
         <>
             <div className="flex flex-col items-center pb-20 text-center">
-                
                 {primaryLinks.length > 0 && (
                     <div className="w-full max-w-5xl">
                         <ul className="flex flex-wrap justify-evenly mb-6 text-lg" data-sb-field-path=".primaryLinks">
