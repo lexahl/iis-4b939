@@ -39,7 +39,6 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: Contact
-    text: We look forward to hearing from you.
     form:
       type: FormBlock
       elementId: contact-form
