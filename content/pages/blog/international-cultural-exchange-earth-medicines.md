@@ -7,7 +7,7 @@ excerpt: >-
   for medicine.
 featuredImage:
   type: ImageBlock
-  url: /images/image-009.jpg
+  url: /images/image-030.jpg
   altText: Post thumbnail image
   caption: ''
 bottomSections: []
