@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: Indigenous Innovative Solutions
     subtitle: ''
