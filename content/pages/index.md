@@ -185,7 +185,7 @@ sections:
       optional text
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: contact-form
       destination: ''
       action: /.netlify/functions/submission_created
       fields:
