@@ -81,7 +81,7 @@ export default function Action(props) {
             {showIcon && IconComponent && (
                 <IconComponent
                     className={classNames('fill-current h-5 w-5', {
-                        'order-first': iconPosition === 'right',
+                        'order-first': iconPosition === 'left',
                         'mr-1.5': label && iconPosition === 'left',
                         'ml-1.5': label && iconPosition === 'right'
                     })}
