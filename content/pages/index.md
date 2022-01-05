@@ -149,7 +149,7 @@ sections:
         icon: arrowRight
     backgroundImage:
       type: BackgroundImage
-      url: /images/hero-3.webp
+      url: /images/20210722_181004.jpg
       backgroundSize: cover
       backgroundPosition: center
       opacity: 90
