@@ -49,6 +49,6 @@ bottomSections:
         justifyContent: center
     type: RecentPostsSection
 ---
+This is a one-week summer camp at Camp Tamarack introduces children, youth and adults to the natural environment in ways that develop powerful, knowledgeable and lifelong connections essential for a healthy and sustainable future for everyone.
+
 #### Youth learning how to make their own traditional hand drum.
-
-
