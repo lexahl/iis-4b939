@@ -20,51 +20,6 @@ sections:
           dialogue on the importance of Indigenous perspectives for a
           sustainable future is required to ensure viability of livelihoods of
           future generations.
-
-
-          She is deeply rooted and connected to the land, where she continues
-          her lifelong journey to learn more about the traditional plant foods
-          and medicines in the western boreal forest. Incorporating sustainably
-          harvested and sourced botanicals, IIS Inc., unites ancestral
-          traditions with modern wise practices, empowering people to connect to
-          themselves and the natural world.
-
-
-          #### Creating a Workforce Readiness Future
-
-
-          Proudly supporting Indigenous community career development and
-          training initiatives focusing on jobs of the future that lead to
-          employment and business opportunities across Western Canada.
-
-
-          #### On-Demand services and live learning opportunities covering a
-          range of topics:
-
-
-          *   Project Management
-
-          *   Managing Energy Efficiency Projects
-
-          *   Environmental Stewardship Consulting
-
-          *   Employability Wise Practices
-
-          *   Indigenous Awareness
-
-          *   Human Skills Development Workshops
-
-          *   Proposal Writing
-
-          *   Indigenous Engagement Planning
-
-          *   Business Development
-
-          *   Advancing ESG and Indigenous Principles
-
-          *   Custom workshops for employer-specific organizations
-
-          *   As well as a range of resource management subjects
         image:
           type: ImageBlock
           url: /images/Winona Lafreniere.jpg
