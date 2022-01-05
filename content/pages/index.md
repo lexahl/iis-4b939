@@ -21,7 +21,7 @@ sections:
       url: /images/20210722_181004.jpg
       backgroundSize: cover
       backgroundPosition: center
-      opacity: 44
+      opacity: 39
     styles:
       self:
         height: auto
