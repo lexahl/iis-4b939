@@ -3,8 +3,8 @@ title: Indigenous Knowledge - Crafting Workshops
 colors: colors-d
 date: '2022-01-05'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Hand-crafted traditional Indigenous arts and crafts from various natural
+  products – created by Winona Lafreniere.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
