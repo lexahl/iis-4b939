@@ -44,8 +44,8 @@ sections:
 
 
       <img src="images/2.svg" alt="logo" draggable="false" width="25%"><img
-      src="images/3.svg" alt="logo" draggable="false" width="25%"> <img
-      src="images/4.svg" alt="logo" draggable="false" width="25%"> <img
+      src="images/3.svg" alt="logo" draggable="false" width="25%"><img
+      src="images/4.svg" alt="logo" draggable="false" width="25%"><img
       src="images/5.svg" alt="logo" draggable="false" width="25%">
   - type: HeroSection
     elementId: homepage-hero-1
