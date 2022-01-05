@@ -1,5 +1,5 @@
 ---
-title: ESPECT FOR THE SACRED EARTH MEDICINES
+title: Respect for the Sacred Earth Medicines
 layout: PostLayout
 date: '2022-01-02'
 featuredImage:
