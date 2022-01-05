@@ -3,8 +3,8 @@ title: Blanket Exercise Facilitation
 colors: colors-d
 date: '2022-01-05'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  The Blanket Exercise has been offered across Canada, including in schools, to
+  community groups, employers and the general public.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
