@@ -110,7 +110,7 @@ sections:
           - pt-36
           - pb-56
           - pr-4
-          - pl-4
+          - pl-10
         justifyContent: center
       title:
         textAlign: left
