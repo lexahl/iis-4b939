@@ -106,12 +106,6 @@
                 "label": "About",
                 "url": "/about",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Adventures",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "socialLinks": [
