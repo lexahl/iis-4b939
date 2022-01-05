@@ -29,7 +29,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     images:
       - type: ImageBlock
