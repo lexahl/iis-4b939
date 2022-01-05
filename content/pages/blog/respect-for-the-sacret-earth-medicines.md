@@ -1,7 +1,6 @@
 ---
 title: Respect for the Sacred Earth Medicines
 layout: PostLayout
-date: '2022-01-02'
 featuredImage:
   type: ImageBlock
   url: /images/bg.webp
