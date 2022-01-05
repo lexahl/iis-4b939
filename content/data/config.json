@@ -1,14 +1,57 @@
 {
     "type": "Config",
     "header": {
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": true,
-        "primaryColors": "colors-d",
-        "secondaryColors": "colors-d",
+        "primaryColors": "colors-c",
+        "secondaryColors": "colors-a",
         "title": "Indigenous Innovative Solutions Inc.",
         "isTitleVisible": true,
-        "primaryLinks": [],
-        "secondaryLinks": [],
+        "primaryLinks": [
+            {
+                "label": "Home",
+                "altText": "Home",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
+                "label": "About",
+                "altText": "About",
+                "url": "/about",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
+                "label": "Projects",
+                "altText": "Projects",
+                "url": "/sharing-knowledge",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "label": "Contact",
+                "altText": "contact",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": "",
+                "type": "Button"
+            }
+        ],
         "styles": {
             "self": {
                 "width": "wide",
@@ -21,7 +64,6 @@
             }
         },
         "logo": {
-            "url": "/images/icon.png",
             "altText": "Indigenous Innovative Solutions Inc. Logo",
             "caption": "Caption of the image",
             "elementId": "",

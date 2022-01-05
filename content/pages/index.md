@@ -2,6 +2,44 @@
 title: Home
 layout: PageLayout
 sections:
+  - elementId: ''
+    colors: colors-c
+    variant: variant-a
+    subtitle: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-5
+          - pb-5
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    type: TextSection
+    text: >+
+      <center>
+
+
+      <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
+      draggable="false" width="20%">
+
+
+      </center>
+
+
+
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
@@ -21,11 +59,11 @@ sections:
         height: auto
         width: wide
         margin:
-          - mt-6
+          - mt-0
           - mb-0
           - ml-0
         padding:
-          - pt-52
+          - pt-10
           - pb-20
           - pr-24
           - pl-24
@@ -49,13 +87,13 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       opacity: 60
-  - colors: colors-d
+  - colors: colors-c
     elementId: ''
     images:
       - type: ImageBlock
         url: /images/IMG_0960-2ff9138b.JPG
         altText: Image one
-        caption: Image one caption
+        caption: Caption
       - type: ImageBlock
         url: /images/IMG_0961-48522e09.JPG
         altText: Image two
@@ -83,8 +121,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-12
+          - pt-5
+          - pb-5
           - pl-4
           - pr-4
         justifyContent: center
