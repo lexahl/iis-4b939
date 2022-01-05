@@ -10,7 +10,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /.netlify/functions/submission_created
-      destination: ''
+      destination: lexi.ahluwalia@gmail.com
       fields:
         - type: TextFormControl
           name: name
