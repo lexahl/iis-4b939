@@ -140,7 +140,7 @@ function testimonialVariantB(testimonial, index) {
                                 </div>
                             )}
                             {testimonial.title && (
-                                <div className={classNames('text-lg', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title">
+                                <div className={classNames('text-lg', styles.title ? mapStyles(styles.title) : null)} data-sb-field-path=".title" >
                                     Winona dedicates her knowledge and ways of being to her Obijway ancestors. As the founder of Indigenous Innovative Solutions Inc., Winona brings together Indigenous knowledge, providing an Indigenous voice and effective solutions to age old challenges. Critical global dialogue on the importance of Indigenous perspectives for a sustainable future is required to ensure viability of livelihoods of future generations.
 
 She is deeply rooted and connected to the land, where she continues her lifelong journey to learn more about the traditional plant foods and medicines in the western boreal forest. Incorporating sustainably harvested and sourced botanicals, IIS Inc., unites ancestral traditions with modern wise practices, empowering people to connect to themselves and the natural world.
