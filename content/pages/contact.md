@@ -31,7 +31,7 @@ sections:
           isRequired: true
           width: full
           label: Message
-          hideLabel: true
+          hideLabel: false
       submitLabel: Send Message
     media: null
     styles:
