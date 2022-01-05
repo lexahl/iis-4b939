@@ -28,23 +28,77 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: >+
+    text: >
       <center>
 
 
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
-      draggable="false" width="20%">
+      draggable="false" width="25%">
 
 
       </center>
 
+      <style>
+
+      * {
+        box-sizing: border-box;
+      }
 
 
+      .column {
+
+      float: left;
+
+      width: 25%;
+
+      padding: 5px;
+
+      }
+
+
+      /\* Clearfix (clear floats) \*/
+
+      .row::after {
+
+      content: "";
+
+      clear: both;
+
+      display: table;
+
+      }
+
+
+      /\* Responsive layout - makes the three columns stack on top of each other
+      instead of next to each other \*/
+
+      @media screen and (max-width: 500px) {
+
+      .column {
+
+      width: 50%;
+
+      }
+
+      }
+
+      </style>
+
+
+      <body>
+
+      <div class="row"> <div class="column"> <img src="images/2.svg" alt="logo"
+      draggable="false" > </div> <div class="column"> <img src="images/3.svg"
+      alt="logo" draggable="false" > </div> <div class="column"> <img
+      src="images/4.svg" alt="logo" draggable="false"> </div> <div
+      class="column"> <img src="images/5.svg" alt="logo" draggable="false">
+      </div> </div>
+
+      </body>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
     backgroundSize: full
-    title: Indigenous Innovative Solutions Inc.
     subtitle: “My story is my brand."
     actions:
       - type: Button
