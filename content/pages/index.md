@@ -7,10 +7,7 @@ sections:
     colors: colors-d
     backgroundSize: full
     title: '"My story is my brand."'
-    subtitle: >-
-      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
-      and community determination that empowers Indigenous people to design
-      their own future.
+    subtitle: '"My story is my brand."'
     actions:
       - type: Button
         label: Get Started
