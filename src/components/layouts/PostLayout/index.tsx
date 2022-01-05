@@ -95,8 +95,7 @@ function PostAttribution({ post }) {
 function postAuthor(author) {
     const children = (
         <>
-            {author.firstName && <span data-sb-field-path=".firstName">{author.firstName}</span>}{' '}
-            {author.lastName && <span data-sb-field-path=".lastName">{author.lastName}</span>}
+
         </>
     );
     return author.slug ? (
