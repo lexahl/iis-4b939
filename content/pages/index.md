@@ -108,13 +108,13 @@ sections:
           <img src="images/2.svg" alt="logo" draggable="false" >
         </div>
         <div class="column">
-          <img src="images/2.svg" alt="logo" draggable="false" >
+          <img src="images/3.svg" alt="logo" draggable="false" >
         </div>
         <div class="column">
-          <img src="images/2.svg" alt="logo" draggable="false">
+          <img src="images/4.svg" alt="logo" draggable="false">
         </div>
         <div class="column">
-          <img src="images/2.svg" alt="logo" draggable="false">
+          <img src="images/5.svg" alt="logo" draggable="false">
         </div>
       </div>
 
