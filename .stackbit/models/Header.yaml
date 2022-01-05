@@ -148,6 +148,7 @@ fields:
       self:
         width: narrow
         padding: ['pt-5', 'pb-5', 'pl-4', 'pr-4']
+        
 <meta name="title" content="Indigenous Innovative Solutions Inc.">
 <meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future.">
 <meta name="keywords" content="Indigenous, Canada, Community">
