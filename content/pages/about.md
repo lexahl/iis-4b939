@@ -48,7 +48,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/medicine walk 02.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
