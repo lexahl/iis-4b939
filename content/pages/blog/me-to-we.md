@@ -1,5 +1,5 @@
 ---
-title: “Me to We” – Indigenous Leadership Education
+title: “ME to WE” – Indigenous Leadership Education
 colors: colors-d
 date: '2022-01-05'
 excerpt: >-
