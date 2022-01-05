@@ -30,7 +30,7 @@
             },
             {
                 "label": "Projects",
-                "altText": "",
+                "altText": "Projects",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
