@@ -22,6 +22,7 @@ sections:
           isRequired: 'true'
           width: 1/2
           hideLabel: false
+          label: Email
         - type: TextFormControl
           name: message
           placeholder: Your message
