@@ -1,5 +1,5 @@
 ---
-title: The Spirit of Sharing
+title: ESPECT FOR THE SACRED EARTH MEDICINES
 layout: PostLayout
 date: '2021-11-04'
 featuredImage:
