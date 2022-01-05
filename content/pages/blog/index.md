@@ -25,9 +25,9 @@ bottomSections:
         height: auto
         width: wide
         margin:
-          - mt-0
+          - mt-208
           - mb-0
-          - ml-0
+          - ml-208
           - mr-0
         padding:
           - pt-24
