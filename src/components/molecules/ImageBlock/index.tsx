@@ -23,6 +23,7 @@ export default function ImageBlock(props) {
             src={url}
             alt={altText || ''}
             draggable="false"
+            width
             data-sb-field-path={annotations.join(' ').trim()}
         />
     );
