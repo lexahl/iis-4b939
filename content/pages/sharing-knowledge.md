@@ -90,7 +90,7 @@ sections:
           - pt-24
           - pb-5
           - pl-24
-          - pr-52
+          - pr-20
         justifyContent: center
       title:
         textAlign: left
