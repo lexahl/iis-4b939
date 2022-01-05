@@ -36,7 +36,7 @@ sections:
         textAlign: left
     type: TextSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     title: Contact
     form:
