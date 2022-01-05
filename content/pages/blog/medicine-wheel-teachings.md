@@ -1,7 +1,6 @@
 ---
 title: 'Medicine Wheel Teachings: Aboriginal Job Shadow Program'
 colors: colors-d
-date: '2022-01-05'
 excerpt: ' Aboriginal Job Shadow Program – Grande Prairie Regional College'
 featuredImage:
   type: ImageBlock
