@@ -80,6 +80,6 @@
         "weight": "normal",
         "case": "none",
         "letterSpacing": "normal"
-        
+        "white-space: nowrap;
     }
 }
