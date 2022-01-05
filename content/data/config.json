@@ -9,9 +9,9 @@
         "isTitleVisible": false,
         "primaryLinks": [
             {
-                "label": "About",
-                "altText": "About",
-                "url": "/about",
+                "label": "Home",
+                "altText": "Home",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -19,9 +19,9 @@
                 "type": "Link"
             },
             {
-                "label": "Home",
-                "altText": "Home",
-                "url": "/",
+                "label": "About",
+                "altText": "About",
+                "url": "/about",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
