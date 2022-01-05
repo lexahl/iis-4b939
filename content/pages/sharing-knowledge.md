@@ -105,7 +105,7 @@ sections:
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
-    variant: variant-c
+    variant: variant-b
     actions:
       - type: Link
         label: See more projects
