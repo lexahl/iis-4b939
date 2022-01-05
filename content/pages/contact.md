@@ -85,9 +85,9 @@ sections:
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: left
-      text:
         textAlign: center
+      text:
+        textAlign: left
     type: ContactSection
 layout: PageLayout
 ---
