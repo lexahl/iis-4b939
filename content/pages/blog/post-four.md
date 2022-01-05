@@ -1,5 +1,5 @@
 ---
-title: Touch the Earth - Nature CampTOUCH THE EARTH – NATURE CAMP
+title: Touch the Earth - Nature Camp
 layout: PostLayout
 date: '2021-12-01'
 colors: colors-c
