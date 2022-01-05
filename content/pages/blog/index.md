@@ -122,7 +122,7 @@ bottomSections:
           - pb-24
           - pl-4
           - pr-36
-        justifyContent: flex-end
+        justifyContent: flex-start
       title:
         textAlign: left
       subtitle:
