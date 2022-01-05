@@ -38,7 +38,7 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-b
-    title: The Spirit of Sharing
+    title: '##The Spirit of Sharing'
     subtitle: The section subtitle
     text: >-
       As a passionate artist and cultural advisor of the Ojibway nation, it has
