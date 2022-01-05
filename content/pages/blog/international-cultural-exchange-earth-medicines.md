@@ -3,8 +3,9 @@ title: International Cultural Exchange - Earth Medicines
 colors: colors-d
 date: '2022-01-05'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  An Indigenous Perspective on Medicine and Healing: a half-day session that
+  covers the traditional Indigenous healing methods through the use of plants
+  for medicine.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
