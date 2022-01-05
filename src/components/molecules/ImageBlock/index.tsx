@@ -16,7 +16,7 @@ export default function ImageBlock(props) {
         `${annotationPrefix}.elementId#@id`
     ];
 
-    return (<center>
+    return (
         <img
             id={cssId}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
