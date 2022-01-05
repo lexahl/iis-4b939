@@ -2,6 +2,46 @@
 title: About
 layout: PageLayout
 sections:
+  - type: TextSection
+    colors: colors-d
+    variant: variant-a
+    title: About
+    text: >
+      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
+      As the founder of Indigenous Innovative Solutions Inc., Winona brings
+      together Indigenous knowledge, providing an Indigenous voice and effective
+      solutions to age old challenges. Critical global dialogue on the
+      importance of Indigenous perspectives for a sustainable future is required
+      to ensure viability of livelihoods of future generations.
+
+
+      She is deeply rooted and connected to the land, where she continues her
+      lifelong journey to learn more about the traditional plant foods and
+      medicines in the western boreal forest. Incorporating sustainably
+      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
+      with modern wise practices, empowering people to connect to themselves and
+      the natural world.
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-5
+          - pr-10
+          - pl-10
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - colors: colors-c
     elementId: ''
     title: Gallery
@@ -48,46 +88,6 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    title: About
-    text: >
-      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
-      As the founder of Indigenous Innovative Solutions Inc., Winona brings
-      together Indigenous knowledge, providing an Indigenous voice and effective
-      solutions to age old challenges. Critical global dialogue on the
-      importance of Indigenous perspectives for a sustainable future is required
-      to ensure viability of livelihoods of future generations.
-
-
-      She is deeply rooted and connected to the land, where she continues her
-      lifelong journey to learn more about the traditional plant foods and
-      medicines in the western boreal forest. Incorporating sustainably
-      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
-      with modern wise practices, empowering people to connect to themselves and
-      the natural world.
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-5
-          - pr-10
-          - pl-10
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - elementId: ''
     colors: colors-d
     variant: variant-a
