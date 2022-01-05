@@ -47,7 +47,7 @@ sections:
       url: /images/YouthMovingForward.Nov14-8647.jpg
       backgroundSize: cover
       backgroundPosition: center
-      opacity: 100
+      opacity: 21
   - type: QuoteSection
     colors: colors-d
     quote: >-
