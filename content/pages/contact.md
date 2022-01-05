@@ -74,5 +74,6 @@ sections:
     styles:
       self:
         width: wide
+        justifyContent: center
 layout: PageLayout
 ---
