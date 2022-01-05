@@ -26,7 +26,7 @@ sections:
           - mb-0
         padding:
           - pt-5
-          - pb-28
+          - pb-5
         justifyContent: center
       title:
         textAlign: left
