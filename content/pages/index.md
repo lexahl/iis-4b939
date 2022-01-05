@@ -10,7 +10,7 @@ sections:
     subtitle: “My story is my brand."
     actions:
       - type: Button
-        label: Get Started
+        label: Contact
         url: 'https://www.stackbit.com/'
         style: primary
         iconPosition: right
