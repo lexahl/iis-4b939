@@ -29,11 +29,11 @@ sections:
         textAlign: left
     type: TextSection
     text: >
+      <center draggable="false">
+
+
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
       width="20%">
-
-
-      <center draggable="false">
 
 
       ## Indigenous Innovative Solutions
