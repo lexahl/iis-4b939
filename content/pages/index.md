@@ -36,9 +36,6 @@ sections:
       draggable="false" width="25%">
 
 
-      <br>
-
-
       </center>
 
       <style>
