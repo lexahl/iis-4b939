@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: About
+    title: Winona Lafreniere
     text: >
       Winona dedicates her knowledge and ways of being to her Obijway ancestors.
       As the founder of Indigenous Innovative Solutions Inc., Winona brings
