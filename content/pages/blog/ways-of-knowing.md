@@ -27,4 +27,54 @@ Indigenous Ways of Knowing:
     blanket exercise and other interactive activities to promote connection
 *   Self-awareness through an Indigenous lens
 
-| Indigenous interactive and experiential activities: |  | |---|---| | - Indigenous Arts and Crafts – birch bark baskets, medicine pouch, dream catchers, talking sticks, stone art, traditional beading techniques, drums, rattles, moss bags, mini teepee’s, medicine shield, mini log house, star blankets - Environmental Stewardship - Storytelling - Outdoor survival skills - Medicine Walks & Making - Traditional Games - Smudging Ceremony Protocols - Caring for Sacred Objects i.e.: dream catcher, pipe, drum, etc. - Four Directions Medicines | - Seven Teachers of the Sacred Pipe - Establishing Contact with Elders - Facilitation of Sharing Circles: Talking, Teaching and Healing - Medicine Wheel: Purpose and Meaning - Fasting / Vision Quest / Sacred Fire - Sundance Ceremony - Sacred Pipe Teaching - Circle of Law - Roles and Responsibilities - Teepee Teaching - Sweatlodge Teaching - Sacred Songs - Purpose of Traditional Feast - Traditional parenting skills - Seven Natural Gifts - Four Laws / Elements |
+Indigenous interactive and experiential activities:
+
+*   Indigenous Arts and Crafts – birch bark baskets, medicine pouch, dream catchers, talking sticks, stone art, traditional beading techniques, drums, rattles, moss bags, mini teepee’s, medicine shield, mini log house, star blankets
+
+*   Environmental Stewardship
+
+*   Storytelling 
+
+*   Outdoor survival skills 
+
+*   Medicine Walks & Making 
+
+*   Traditional Games 
+
+*   Smudging Ceremony Protocols 
+
+*   Caring for Sacred Objects i.e.: dream catcher, pipe, drum, etc. 
+
+*   Four Directions Medicines 
+
+*   Seven Teachers of the Sacred Pipe 
+
+*   Establishing Contact with Elders 
+
+*   Facilitation of Sharing Circles: Talking, Teaching and Healing 
+
+*   Medicine Wheel: Purpose and Meaning 
+
+*   Fasting / Vision Quest / Sacred Fire 
+
+*   Sundance Ceremony 
+
+*   Sacred Pipe Teaching 
+
+*   Circle of Law
+
+*   Roles and Responsibilities 
+
+*   Teepee Teaching 
+
+*   Sweatlodge Teaching 
+
+*   Sacred Songs 
+
+*   Purpose of Traditional Feast 
+
+*   Traditional parenting skills 
+
+*   Seven Natural Gifts 
+
+*   Four Laws / Elements
