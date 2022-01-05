@@ -36,18 +36,8 @@ sections:
       draggable="false" width="25%">
 
 
-
-
-      ### Creating Solutions
-
-
-      #### Inspiring Action
-
-
-      ## Collective Community Spirit
-
-
-      ##### Sharing Knowledge
+      #### Creating Solutions Inspiring Action Collective Community Spirit
+      Sharing Knowledge
 
 
       </center>
