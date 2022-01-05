@@ -64,6 +64,7 @@ sections:
           isRequired: 'false'
           width: full
           label: Message
+          hideLabel: false
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
