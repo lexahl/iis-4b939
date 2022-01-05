@@ -19,7 +19,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: /images/20210722_181004.jpg
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       opacity: 40
     styles:
