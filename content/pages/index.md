@@ -29,16 +29,14 @@ sections:
         textAlign: left
     type: TextSection
     text: >
-      <center draggable="false">
+      <center>
 
 
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
-      width="20%">
+      draggable="false" width="20%">
 
 
       </center>
-
-
 
 
       “My story is my brand."
