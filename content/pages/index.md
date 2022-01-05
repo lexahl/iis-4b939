@@ -69,8 +69,6 @@ sections:
 
       display: table;
 
-      padding: 5px;
-
       }
 
 
