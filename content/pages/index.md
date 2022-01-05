@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    text: >
+    text: >+
       <center>
 
 
@@ -39,17 +39,7 @@ sections:
       </center>
 
 
-      <center>
 
-
-      <it><h3> “My story is my brand." </h3></it>
-
-      <h5> Focuses on Indigenous and social innovation, entrepreneurial
-      mentorship, and community determination that empowers Indigenous people to
-      design their own future. </h5>
-
-
-      </center>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
