@@ -5,7 +5,6 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: Indigenous Innovative Solutions
     subtitle: ''
     styles:
       self:
