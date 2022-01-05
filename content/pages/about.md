@@ -203,16 +203,16 @@ sections:
           placeholder: Your name
           isRequired: 'true'
           width: 1/2
-        - type: EmailFormControl
-          name: email
-          placeholder: Your email
-          isRequired: 'true'
-          width: 1/2
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
           isRequired: 'false'
           width: full
+        - type: EmailFormControl
+          name: email
+          placeholder: Your email
+          isRequired: 'true'
+          width: 1/2
         - type: TextFormControl
           name: address
           placeholder: Your home address
