@@ -273,47 +273,6 @@ sections:
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
-  - type: FeatureHighlightSection
-    colors: colors-d
-    backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
-    text: |
-      We’re local, seasonal fisherman, supporting fishing restrictions.
-    actions:
-      - type: Link
-        label: Join adventure
-        url: 'https://www.stackbit.com/'
-        showIcon: true
-        icon: arrowRight
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/20210722_181004.jpg
-      backgroundSize: cover
-      backgroundPosition: center
-      opacity: 90
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-72
-          - pr-4
-          - pl-4
-        justifyContent: flex-start
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: ContactSection
     colors: colors-d
     title: Contact
