@@ -17,12 +17,14 @@ media:
 bottomSections: []
 layout: PostLayout
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Indigenous Awareness sessions are offered throughout Alberta for K-12 students, school administrators, non-profit agencies, industry and government. The sessions are designed to create an enhanced knowledge base and communication between Indigenous and non- Indigenous people. These activities are interactive and learners develop trusting and respectful relationships and are exposed to a variety of art forms that foster leadership opportunities. The following list includes only a partial list:
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Indigenous Ways of Knowing:
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   Cultural Competency: Building relationships, dispelling myths and stereotypes, understanding Indigenous history, culture and contemporary issues.
+*   Cultural, spiritual, environmental and political protocols in Indigenous communities
+*   Pre and Post contact, treaties and Aboriginal rights, self-government, consultation and engagement, United Nations Declaration on the Rights of Indigenous People, Truth and Reconciliation and residential school experiential learning through
+    blanket exercise and other interactive activities to promote connection
+*   Self-awareness through an Indigenous lens
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+| Indigenous interactive and experiential activities: |  | |---|---| | - Indigenous Arts and Crafts – birch bark baskets, medicine pouch, dream catchers, talking sticks, stone art, traditional beading techniques, drums, rattles, moss bags, mini teepee’s, medicine shield, mini log house, star blankets - Environmental Stewardship - Storytelling - Outdoor survival skills - Medicine Walks & Making - Traditional Games - Smudging Ceremony Protocols - Caring for Sacred Objects i.e.: dream catcher, pipe, drum, etc. - Four Directions Medicines | - Seven Teachers of the Sacred Pipe - Establishing Contact with Elders - Facilitation of Sharing Circles: Talking, Teaching and Healing - Medicine Wheel: Purpose and Meaning - Fasting / Vision Quest / Sacred Fire - Sundance Ceremony - Sacred Pipe Teaching - Circle of Law - Roles and Responsibilities - Teepee Teaching - Sweatlodge Teaching - Sacred Songs - Purpose of Traditional Feast - Traditional parenting skills - Seven Natural Gifts - Four Laws / Elements |
