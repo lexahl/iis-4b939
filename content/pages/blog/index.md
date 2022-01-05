@@ -1,6 +1,6 @@
 ---
 layout: PostFeedLayout
-title: Projects
+title: Featured Projects
 numOfPostsPerPage: 10
 postFeed:
   showDate: true
