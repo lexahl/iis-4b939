@@ -212,7 +212,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: Message
-          label: Message
+          label: Your message
           hideLabel: true
           placeholder: Your message
           isRequired: true
