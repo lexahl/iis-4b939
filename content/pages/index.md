@@ -45,33 +45,54 @@ sections:
       and community determination that empowers Indigenous people to design
       their own future.
     backgroundImage:
-      url: /images/YouthMovingForward.Nov14-8647.jpg
+      url: /images/banner1.png
       backgroundSize: cover
       backgroundPosition: center
-      opacity: 25
-  - type: QuoteSection
-    colors: colors-d
-    quote: >-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
-    name: Isabelle Parks
-    title: Head chef at Parks
+      opacity: 60
+  - colors: colors-d
+    elementId: ''
+    images:
+      - type: ImageBlock
+        url: /images/IMG_0960-2ff9138b.JPG
+        altText: Image one
+        caption: Image one caption
+      - type: ImageBlock
+        url: /images/IMG_0961-48522e09.JPG
+        altText: Image two
+        caption: Image two caption
+      - type: ImageBlock
+        url: /images/IMG_0958-a8f02115.JPG
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/IMG_0959-04d59bff.JPG
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
     styles:
       self:
         height: auto
-        width: wide
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
         padding:
-          - pt-28
-          - pb-36
-          - pr-4
+          - pt-12
+          - pb-12
           - pl-4
+          - pr-4
         justifyContent: center
-      quote:
-        textAlign: center
-      name:
-        textAlign: center
       title:
         textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
   - elementId: ''
     colors: colors-c
     variant: variant-a
@@ -115,27 +136,6 @@ sections:
     showExcerpt: true
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
-  - type: TextSection
-    colors: colors-e
-    variant: variant-a
-    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-36
-          - pr-4
-          - pl-4
-        justifyContent: center
-      text:
-        textAlign: center
   - type: FeatureHighlightSection
     colors: colors-d
     backgroundSize: full
@@ -242,10 +242,3 @@ sections:
       text:
         textAlign: center
 ---
-<meta name="title" content="Indigenous Innovative Solutions Inc.">
-<meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future.">
-<meta name="keywords" content="Indigenous, Canada, Community">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
-<meta name="author" content="Winona Lafreniere">

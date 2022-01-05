@@ -7,7 +7,7 @@ sections:
       ### “Of all the teachings we receive this one is the most important:
       nothing belongs to you of what there is, of what you take, you must
       share.”
-    name: Chief Dan George
+    name: '- Chief Dan George'
     backgroundImage: null
     styles:
       self:
@@ -99,95 +99,6 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    variant: variant-c
-    actions:
-      - type: Link
-        label: See all adventures
-        altText: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-52
-          - pr-52
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    title: Seasonal adventure
-    subtitle: ''
-    colors: colors-d
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
-    type: FeaturedPostsSection
-  - elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    variant: variant-a
-    actions:
-      - type: Link
-        label: See all adventures
-        altText: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-52
-          - pr-52
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    title: Seasonal adventure
-    subtitle: ''
-    colors: colors-d
-    posts:
-      - content/pages/blog/post-five.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-      - content/pages/blog/post-two.md
-    type: FeaturedPostsSection
   - type: ContactSection
     colors: colors-d
     title: Join our club
@@ -261,10 +172,3 @@ sections:
         textAlign: center
 layout: PageLayout
 ---
-<meta name="title" content="Sharing Knowledge | Indigenous Innovative Solutions Inc.">
-<meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future.">
-<meta name="keywords" content="Indigenous, Canada, Community">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
-<meta name="author" content="Winona Lafreniere">
