@@ -28,7 +28,7 @@ sections:
           - pt-20
           - pb-20
           - pr-36
-          - pl-36
+          - pl-60
         alignItems: center
         justifyContent: center
         flexDirection: row
