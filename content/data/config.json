@@ -27,17 +27,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
-            },
-            {
-                "label": "Projects",
-                "altText": "Projects",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "",
-                "type": "Button"
             }
         ],
         "secondaryLinks": [],
