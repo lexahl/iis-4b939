@@ -7,7 +7,7 @@ excerpt: >-
   and innovation around responsible resource development.
 featuredImage:
   type: ImageBlock
-  url: /images/hero.webp
+  url: /images/image-004.jpg
   altText: Post Image
 media:
   type: ImageBlock
