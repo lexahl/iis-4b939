@@ -23,7 +23,7 @@ sections:
           width: 1/2
         - type: TextFormControl
           name: message
-          placeholder: Your home address
+          placeholder: Your message
           isRequired: 'false'
           width: full
           label: Message
