@@ -59,50 +59,62 @@ sections:
 
 
       .column {
-        float: left;
-        width: 25%;
-        padding: 5px;
+
+      float: left;
+
+      width: 25%;
+
+      padding: 5px;
+
       }
 
 
-      /* Clearfix (clear floats) */
+      /\* Clearfix (clear floats) \*/
 
       .row::after {
-        content: "";
-        clear: both;
-        display: table;
+
+      content: "";
+
+      clear: both;
+
+      display: table;
+
       }
 
 
-      /* Responsive layout - makes the three columns stack on top of each other
-      instead of next to each other */
+      /\* Responsive layout - makes the three columns stack on top of each other
+      instead of next to each other \*/
 
       @media screen and (max-width: 500px) {
-        .column {
-          width: 50%;
-        }
+
+      .column {
+
+      width: 50%;
+
+      }
+
       }
 
       </style>
+
 
       </head>
 
       <body>
 
 
-
       <div class="row">
         <div class="column">
-          <img src="img_snow.jpg" alt="Snow" style="width:100%">
+          <img src="images/2.svg" alt="logo" draggable="false" width="20%">
         </div>
         <div class="column">
-          <img src="img_forest.jpg" alt="Forest" style="width:100%">
+          <img src="images/2.svg" alt="logo" draggable="false" width="20%">
         </div>
         <div class="column">
-          <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+          <img src="images/2.svg" alt="logo" draggable="false" width="20%">
         </div>
         <div class="column">
-          <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+          <img src="images/2.svg" alt="logo" draggable="false" width="20%">
         </div>
       </div>
 
