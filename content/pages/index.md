@@ -35,27 +35,21 @@ sections:
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
       draggable="false" width="25%">
 
+        
 
-      </center>  
-
-
-
-
-
-
-
-
-
-      Creating Solutions 
+      Creating Solutions
 
 
       Inspiring Action
 
 
-      Collective Community Spirit 
+      Collective Community Spirit
 
 
-      Sharing Knowledge 
+      Sharing Knowledge
+
+
+      \</center>
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-d
