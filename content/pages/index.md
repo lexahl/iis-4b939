@@ -163,7 +163,7 @@ sections:
             url: /
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: secondary
             elementId: ''
             type: Button
