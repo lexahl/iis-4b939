@@ -11,7 +11,7 @@
             {
                 "label": "About",
                 "altText": "About",
-                "url": "/",
+                "url": "/about",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
