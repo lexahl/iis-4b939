@@ -46,7 +46,7 @@ sections:
         title: Head chef at Parks
         image:
           type: ImageBlock
-          url: /images/fisherman.jpg
+          url: /images/Winona Lafreniere.jpg
           altText: John Doe
     styles:
       self:
