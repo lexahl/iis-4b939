@@ -5,10 +5,6 @@ date: '2022-01-05'
 excerpt: >-
   “ME to WE” empowers people to change the world through their everyday consumer
   choices. ME to WE is part of WE which empowers people to change the world.
-media:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
 bottomSections: []
 layout: PostLayout
 ---
