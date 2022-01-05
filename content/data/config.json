@@ -69,7 +69,7 @@
         ],
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "full",
                 "padding": [
                     "pt-5",
                     "pb-4",
