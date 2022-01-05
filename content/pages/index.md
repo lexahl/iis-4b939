@@ -19,7 +19,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         margin:
           - mt-6
           - mb-0
