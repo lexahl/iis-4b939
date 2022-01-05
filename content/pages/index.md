@@ -36,7 +36,8 @@ sections:
       draggable="false" width="25%">
 
 
-      <h4>Creating Solutions</h4> <h4>Inspiring Action</h4>
+      <h4 display="inline">Creating Solutions</h4> <h4
+      display="inline">Inspiring Action</h4>
 
 
       <h4>Collective Community Spirit</h4> <h4>Sharing Knowledge</h4>
