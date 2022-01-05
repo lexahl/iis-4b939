@@ -1,5 +1,5 @@
 ---
-title: YOUTH EMPOWERMENT CAMP
+title: Youth Empowerment CampOUTH EMPOWERMENT CAMP
 layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
