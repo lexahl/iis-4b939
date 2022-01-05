@@ -93,13 +93,40 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      #### Creating a Workforce Readiness Future
+
+      Proudly supporting Indigenous community career development and training
+      initiatives focusing on jobs of the future that lead to employment and
+      business opportunities across Western Canada.
+
+
+      #### On-Demand services and live learning opportunities covering a range
+      of topics:
+
+      * Project Management
+
+      * Managing Energy Efficiency Projects
+
+      * Environmental Stewardship Consulting
+
+      * Employability Wise Practices
+
+      * Indigenous Awareness
+
+      * Human Skills Development Workshops
+
+      * Proposal Writing
+
+      * Indigenous Engagement Planning
+
+      * Business Development
+
+      * Advancing ESG and Indigenous Principles
+
+      * Custom workshops for employer-specific organizations
+
+      * As well as a range of resource management subjects
     styles:
       self:
         height: auto
