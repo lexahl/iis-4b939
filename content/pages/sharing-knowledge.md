@@ -141,7 +141,7 @@ sections:
     type: RecentPostsSection
   - type: ContactSection
     colors: colors-d
-    title: Contact
+    title: Contact for more Information
     text: >-
       text
     form:
