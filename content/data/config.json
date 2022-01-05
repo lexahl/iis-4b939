@@ -7,14 +7,7 @@
         "secondaryColors": "colors-d",
         "title": "Indigenous Innovative Solutions Inc.",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "About Winona",
-                "url": "/about",
-                "altText": "About Winona"
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
             "self": {
