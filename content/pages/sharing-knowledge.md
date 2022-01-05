@@ -38,7 +38,7 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-b
-    title: '##The Spirit of Sharing'
+    title: The Spirit of Sharing
     subtitle: Volunteer Profile of Winona Lafreniere
     text: >-
       As a passionate artist and cultural advisor of the Ojibway nation, it has
