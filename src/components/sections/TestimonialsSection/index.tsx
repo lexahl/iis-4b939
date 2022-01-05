@@ -136,7 +136,8 @@ function testimonialVariantB(testimonial, index) {
                         <div className="flex-grow mt-4">
                             {testimonial.name && (
                                 <div className={classNames('text-lg', styles.name ? mapStyles(styles.name) : null)} data-sb-field-path=".name">
-                                    {testimonial.name}
+                                    She is deeply rooted and connected to the land, where she continues her lifelong journey to learn more about the traditional plant foods and medicines in the western boreal forest. Incorporating sustainably harvested and sourced botanicals, IIS Inc., unites ancestral traditions with modern wise practices, empowering people to connect to themselves and the natural world.
+
                                 </div>
                             )}
                             {testimonial.title && (
