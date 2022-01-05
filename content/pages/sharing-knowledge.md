@@ -89,7 +89,7 @@ sections:
         padding:
           - pt-24
           - pb-5
-          - pl-52
+          - pl-24
           - pr-52
         justifyContent: center
       title:
