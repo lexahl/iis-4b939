@@ -23,7 +23,7 @@ sections:
           - pb-10
           - pl-52
           - pr-52
-        justifyContent: center
+        justifyContent: flex-start
       quote:
         textAlign: center
       name:
