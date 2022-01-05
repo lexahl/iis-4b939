@@ -81,7 +81,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        alignItems: center
+        alignItems: left
         justifyContent: center
         flexDirection: row
       title:
