@@ -36,10 +36,6 @@ sections:
       draggable="false" width="25%">
 
 
-      <h4>Creating Solutions, Inspiring Action, Collective Community Spirit,
-      Sharing Knowledge</h4>
-
-
       </center>
 
 
