@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-c
-    variant: variant-b
+    variant: variant-a
     title: Indigenous Innovative Solutions
     subtitle: ''
     styles:
