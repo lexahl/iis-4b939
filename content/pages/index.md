@@ -59,7 +59,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/IMG_0961-48522e09.JPG
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
