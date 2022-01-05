@@ -93,11 +93,6 @@ sections:
       <body>
 
 
-      <pre>
-
-        
-
-      </pre>
 
 
       <div class="row">
