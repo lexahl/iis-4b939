@@ -178,7 +178,7 @@ sections:
           placeholder: Your message
           isRequired: true
           width: full
-      submitLabel: Submit form
+      submitLabel: Send
       styles:
         submitLabel:
           textAlign: center
