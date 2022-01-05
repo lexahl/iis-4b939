@@ -36,7 +36,7 @@ sections:
       # Indigenous Innovative Solutions
 
 
-      \</center>
+      </center>
   - colors: colors-d
     elementId: ''
     images:
