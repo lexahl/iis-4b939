@@ -89,7 +89,7 @@ sections:
     colors: colors-c
     variant: variant-a
     subtitle: ''
-    text: >-
+    text: >
       Winona dedicates her knowledge and ways of being to her Obijway ancestors.
       As the founder of Indigenous Innovative Solutions Inc., Winona brings
       together Indigenous knowledge, providing an Indigenous voice and effective
@@ -104,6 +104,13 @@ sections:
       harvested and sourced botanicals, IIS Inc., unites ancestral traditions
       with modern wise practices, empowering people to connect to themselves and
       the natural world.
+
+
+      ####Creating a Workforce Readiness Future 
+
+      Proudly supporting Indigenous community career development and training
+      initiatives focusing on jobs of the future that lead to employment and
+      business opportunities across Western Canada.
     styles:
       self:
         height: auto
