@@ -33,7 +33,7 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-a
-    title: The Section Title
+    title: Indigenous Awareness
     subtitle: ''
     text: >-
       With the globalization of business, increased diversity in the workplace
