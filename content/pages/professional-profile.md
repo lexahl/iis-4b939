@@ -82,10 +82,6 @@ sections:
           placeholder: Your message
           isRequired: true
           width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
       submitLabel: Send Message
       elementId: contact-form
       action: /.netlify/functions/submission_created
