@@ -104,7 +104,7 @@ sections:
       the natural world.
 
 
-      \####Creating a Workforce Readiness Future
+      ####Creating a Workforce Readiness Future
 
       Proudly supporting Indigenous community career development and training
       initiatives focusing on jobs of the future that lead to employment and
