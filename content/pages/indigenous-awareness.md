@@ -35,13 +35,15 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      With the globalization of business, increased diversity in the workplace
+      and multicultural emphasis in society, cultural awareness has become one
+      of the most important business tools in almost every industry.
+      Understanding the cultures of those around you will enhance communication,
+      productivity and unity in the workplace. Formal cross-cultural awareness
+      training is very helpful for problem solving on multicultural business
+      teams, but there are several cultural awareness techniques you can use in
+      the meantime.
     styles:
       self:
         height: auto
