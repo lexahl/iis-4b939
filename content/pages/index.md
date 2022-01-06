@@ -52,6 +52,7 @@ sections:
         icon: arrowRight
         url: /
         style: primary
+        altText: contact
     backgroundImage: null
     styles:
       self:
