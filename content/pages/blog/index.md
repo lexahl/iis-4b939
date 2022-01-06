@@ -1,14 +1,98 @@
 ---
 layout: PostFeedLayout
-title: Projects
-numOfPostsPerPage: 15
+title: Upcoming adventures
+numOfPostsPerPage: 10
+postFeed:
+  showDate: true
+  showAuthor: false
+  showExcerpt: false
+  showReadMoreLink: true
+  readMoreLinkLabel: Join adventure
+  variant: variant-c
+  colors: colors-d
+  styles:
+    self:
+      width: narrow
+      padding:
+        - pt-0
+        - pl-4
+        - pr-4
+        - pb-12
 styles:
   title:
     textAlign: center
 bottomSections:
+  - type: TextSection
+    colors: colors-d
+    variant: variant-a
+    text: '## [Follow us on Instagram](https://www.stackbit.com/)'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-20
+          - pr-4
+          - pl-4
+        justifyContent: center
+      text:
+        textAlign: center
+  - colors: colors-d
+    elementId: ''
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
   - type: ContactSection
-    colors: colors-a
-    title: Contact
+    colors: colors-e
+    title: Join our club
+    text: >
+      We will notify you every time a shipment is heading to your neighborhood,
+      and you could immediatly let us know if you want in or not
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -36,14 +120,19 @@ bottomSections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: text
-          label: Your message
+        - name: address
+          label: Address
           hideLabel: true
-          placeholder: Your message
+          placeholder: Address
           isRequired: true
           width: full
           type: TextFormControl
-      submitLabel: Send message
+        - name: updatesConsent
+          label: Sign me up to recieve updates
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
+      submitLabel: Submit form
       styles:
         submitLabel:
           textAlign: center
@@ -54,8 +143,8 @@ bottomSections:
         margin:
           - mt-0
           - mb-0
-          - ml-208
-          - mr-208
+          - ml-0
+          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -69,5 +158,4 @@ bottomSections:
       text:
         textAlign: center
     backgroundSize: full
-topSections: []
 ---
