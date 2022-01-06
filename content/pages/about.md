@@ -88,7 +88,6 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-a
-    title: The Section Title
     subtitle: ''
     text: >-
       Winona dedicates her knowledge and ways of being to her Obijway ancestors.
