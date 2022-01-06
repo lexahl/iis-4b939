@@ -90,13 +90,21 @@ sections:
     variant: variant-a
     title: The Section Title
     subtitle: ''
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
+      As the founder of Indigenous Innovative Solutions Inc., Winona brings
+      together Indigenous knowledge, providing an Indigenous voice and effective
+      solutions to age old challenges. Critical global dialogue on the
+      importance of Indigenous perspectives for a sustainable future is required
+      to ensure viability of livelihoods of future generations.
+
+
+      She is deeply rooted and connected to the land, where she continues her
+      lifelong journey to learn more about the traditional plant foods and
+      medicines in the western boreal forest. Incorporating sustainably
+      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
+      with modern wise practices, empowering people to connect to themselves and
+      the natural world.
     styles:
       self:
         height: auto
