@@ -190,7 +190,6 @@ sections:
     type: TextSection
   - colors: colors-c
     elementId: ''
-    subtitle: This is the subtitle
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
