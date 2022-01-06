@@ -87,7 +87,7 @@
         "primaryLinks": [
             {
                 "label": "About",
-                "altText": "",
+                "altText": "About",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
