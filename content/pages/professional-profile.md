@@ -79,7 +79,7 @@ sections:
         - type: TextFormControl
           label: Message
           name: message
-          placeholder: Your home address
+          placeholder: Your message
           isRequired: false
           width: full
         - type: CheckboxFormControl
