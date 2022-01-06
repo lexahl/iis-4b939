@@ -84,7 +84,7 @@ sections:
           self:
             textAlign: left
       - elementId: ''
-        title: Item Title
+        title: Overcome Stereotypes
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
