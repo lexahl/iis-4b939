@@ -77,47 +77,6 @@ sections:
       actions:
         justifyContent: center
     type: CtaSection
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-c
-    backgroundSize: full
-    subtitle: “My story is my brand."
-    actions:
-      - type: Button
-        label: Contact
-        url: /
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-        padding:
-          - pt-10
-          - pb-20
-          - pr-24
-          - pl-24
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    text: >
-      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
-      and community determination that empowers Indigenous people to design
-      their own future.
   - colors: colors-c
     elementId: ''
     subtitle: ''
