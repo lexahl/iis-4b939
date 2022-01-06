@@ -36,7 +36,7 @@ sections:
     type: CtaSection
   - colors: colors-c
     elementId: ''
-    title: Key value propositions
+    title: Professional Profile
     subtitle: ''
     items:
       - type: FeaturedItem
