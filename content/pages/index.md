@@ -38,7 +38,7 @@ sections:
 
       </center>
   - elementId: ''
-    colors: colors-c
+    colors: colors-e
     backgroundSize: full
     title: “My story is my brand."
     text: >
@@ -51,7 +51,7 @@ sections:
         showIcon: true
         icon: arrowRight
         url: /contact
-        style: primary
+        style: secondary
         altText: contact
     backgroundImage: null
     styles:
@@ -64,8 +64,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-5
-          - pb-5
+          - pt-10
+          - pb-10
           - pl-4
           - pr-4
         alignItems: center
@@ -135,8 +135,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-5
-          - pb-5
+          - pt-10
+          - pb-10
           - pl-4
           - pr-4
         justifyContent: center
@@ -176,8 +176,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-10
+          - pb-10
           - pl-4
           - pr-4
         justifyContent: center
@@ -239,8 +239,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-5
-          - pb-5
+          - pt-10
+          - pb-10
           - pr-4
           - pl-4
         alignItems: center
