@@ -51,7 +51,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/Humility Award.jpg
+        url: /images/about-1.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
