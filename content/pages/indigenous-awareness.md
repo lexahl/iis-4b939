@@ -94,11 +94,6 @@ sections:
           confidence you need to overcome the stereotypes that have been
           engraved in your memory. This newly found knowledge will replace your
           negative stereotypes with positive knowledge.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
         actions: []
         styles:
           self:
