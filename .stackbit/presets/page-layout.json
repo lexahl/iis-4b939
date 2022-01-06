@@ -188,7 +188,7 @@
                             {
                                 "type": "Button",
                                 "label": "Join adventure",
-                                "url": "https://www.stackbit.com/",
+                                "url": "/",
                                 "style": "secondary",
                                 "showIcon": true,
                                 "icon": "arrowRight",
