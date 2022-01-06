@@ -133,38 +133,4 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - elementId: ''
-    colors: colors-d
-    variant: variant-a
-    title: Creating a Workforce Readiness Future
-    subtitle: ''
-    text: >
-      Proudly supporting Indigenous community career development and training
-      initiatives focusing on jobs of the future that lead to employment and
-      business opportunities across Western Canada.
-
-
-      ####
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    type: TextSection
 ---
