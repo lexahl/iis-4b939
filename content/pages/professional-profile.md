@@ -122,7 +122,7 @@ sections:
             type: Button
         styles:
           self:
-            textAlign: cen
+            textAlign: left
     actions: []
     columns: 1
     enableHover: false
