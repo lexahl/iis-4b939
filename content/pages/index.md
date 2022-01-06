@@ -191,7 +191,9 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: full
-    title: Let's do this
+    title: >-
+      On-Demand services and live learning opportunities covering a range of
+      topics:
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
