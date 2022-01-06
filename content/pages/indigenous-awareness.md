@@ -150,6 +150,6 @@ sections:
       text:
         textAlign: left
     type: TextSection
-    subtitle: Sarah Eaton
+    subtitle: by Sarah Eaton
 layout: PageLayout
 ---
