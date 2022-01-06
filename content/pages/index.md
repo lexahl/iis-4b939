@@ -38,7 +38,7 @@ sections:
 
       </center>
   - elementId: ''
-    colors: colors-e
+    colors: colors-b
     backgroundSize: full
     title: “My story is my brand."
     text: >
