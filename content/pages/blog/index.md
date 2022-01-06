@@ -71,38 +71,5 @@ bottomSections:
       text:
         textAlign: center
     backgroundSize: full
-topSections:
-  - elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
-    variant: variant-c
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-5
-          - pb-24
-          - pl-10
-          - pr-10
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    subtitle: ''
-    colors: colors-d
-    recentCount: 5
-    type: RecentPostsSection
+topSections: []
 ---
