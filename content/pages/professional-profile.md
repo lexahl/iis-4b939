@@ -78,7 +78,7 @@ sections:
           width: 1/2
         - type: TextFormControl
           label: Home Address
-          name: home-address
+          name: message
           placeholder: Your home address
           isRequired: false
           width: full
