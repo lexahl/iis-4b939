@@ -53,7 +53,7 @@ bottomSections:
           width: full
           type: EmailFormControl
         - name: message
-          label: Address
+          label: Message
           hideLabel: true
           placeholder: Address
           isRequired: true
