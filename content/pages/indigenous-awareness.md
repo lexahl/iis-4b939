@@ -39,7 +39,7 @@ sections:
     type: TextSection
   - colors: colors-c
     elementId: ''
-    title: Key value propositions
+    title: Indigenous Awareness in a Corporate Environment
     subtitle: ''
     items:
       - type: FeaturedItem
