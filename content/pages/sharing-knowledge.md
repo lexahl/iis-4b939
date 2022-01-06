@@ -134,7 +134,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Projects
+    title: Selected Projects
     subtitle: ''
     colors: colors-c
     recentCount: 3
