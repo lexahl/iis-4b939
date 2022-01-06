@@ -28,7 +28,7 @@ sections:
           - pt-5
           - pb-5
           - pl-10
-          - pr-10
+          - pr-4
         justifyContent: center
       title:
         textAlign: left
@@ -111,7 +111,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
+          - pt-5
           - pb-36
           - pl-4
           - pr-4
