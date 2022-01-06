@@ -111,7 +111,7 @@ sections:
 
           FAX machines, multi-line phone systems
         actions:
-          - label: Read full resume
+          - label: Read full professional profile
             altText: Read full professional profile
             url: /
             showIcon: true
