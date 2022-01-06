@@ -92,7 +92,7 @@ topSections:
         padding:
           - pt-5
           - pb-24
-          - pl-4
+          - pl-10
           - pr-4
         justifyContent: center
       title:
