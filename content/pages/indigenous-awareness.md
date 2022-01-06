@@ -5,7 +5,7 @@ sections:
     colors: colors-e
     variant: variant-a
     title: Indigenous Awareness
-    subtitle: Adapted from the original presention by Edwin
+    subtitle: Adapted from the original presentation by Edwin
     text: >-
       With the globalization of business, increased diversity in the workplace
       and multicultural emphasis in society, cultural awareness has become one
