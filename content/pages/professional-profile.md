@@ -151,7 +151,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/image-030.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
