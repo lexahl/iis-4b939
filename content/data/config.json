@@ -84,7 +84,18 @@
             "addressAltText": "Address"
         },
         "copyrightText": "© 2022 Indigenous Innovative Solutions Inc.",
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
