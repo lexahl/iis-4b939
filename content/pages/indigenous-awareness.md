@@ -6,8 +6,8 @@ sections:
     variant: variant-a
     title: Indigenous Awareness
     subtitle: >-
-      Adapted from the original presentation by Edwin. Elvin Baum, "Why can't we
-      all just get along"
+      Adapted from the original presentation by Elvin Baum, "Why can't we all
+      just get along"
     text: >-
       With the globalization of business, increased diversity in the workplace
       and multicultural emphasis in society, cultural awareness has become one
