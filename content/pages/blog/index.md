@@ -112,6 +112,7 @@ topSections:
     colors: colors-d
     posts:
       - content/pages/blog/blanket-exercise-facilitation.md
+      - content/pages/blog/evergreen-learning-and-innovation-centre.md
     type: FeaturedPostsSection
 postFeed:
   elementId: ''
