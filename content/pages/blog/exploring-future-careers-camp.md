@@ -30,7 +30,7 @@ bottomSections:
         padding:
           - pt-12
           - pb-56
-          - pr-4
+          - pr-10
           - pl-10
         justifyContent: center
       title:
