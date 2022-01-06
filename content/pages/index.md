@@ -175,7 +175,7 @@ sections:
         style: secondary
         altText: Read full professional profile
       - type: Link
-        label: Learn more
+        label: View past projects
         showIcon: true
         icon: arrowRight
         url: /
