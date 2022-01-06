@@ -74,7 +74,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Collective Community Spirit
+        title: Collective Community <br?
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
