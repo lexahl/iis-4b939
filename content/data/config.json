@@ -152,6 +152,16 @@
                 "label": "Terms & Conditions",
                 "url": "/terms-and-conditions",
                 "altText": "Terms and Conditions"
+            },
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
         "styles": {
