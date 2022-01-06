@@ -116,7 +116,7 @@ sections:
             showIcon: true
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
             type: Button
         styles:
