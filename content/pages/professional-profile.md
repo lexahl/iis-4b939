@@ -37,7 +37,7 @@ sections:
   - colors: colors-c
     elementId: ''
     title: Professional Profile
-    subtitle: ''
+    subtitle: Winona Lafreniere
     items:
       - type: FeaturedItem
         title: Community/Indigenous Relations
