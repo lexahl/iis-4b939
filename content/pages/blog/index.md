@@ -113,6 +113,7 @@ topSections:
     posts:
       - content/pages/blog/blanket-exercise-facilitation.md
       - content/pages/blog/evergreen-learning-and-innovation-centre.md
+      - content/pages/blog/me-to-we.md
     type: FeaturedPostsSection
 postFeed:
   elementId: ''
