@@ -62,6 +62,38 @@ sections:
         textAlign: center
       text:
         textAlign: center
+    form:
+      fields:
+        - type: TextFormControl
+          label: Name
+          name: name
+          placeholder: Your name
+          isRequired: true
+          width: 1/2
+        - type: EmailFormControl
+          label: Email
+          name: email
+          placeholder: Your email
+          isRequired: true
+          width: 1/2
+        - type: TextFormControl
+          label: Home Address
+          name: home-address
+          placeholder: Your home address
+          isRequired: false
+          width: full
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          width: full
+      submitLabel: Send Message
+      elementId: contact-form
+      action: /.netlify/functions/submission_created
+      destination: ''
+      styles:
+        submitLabel:
+          textAlign: left
+      type: FormBlock
 layout: PageLayout
 colors: colors-d
 excerpt: >-
