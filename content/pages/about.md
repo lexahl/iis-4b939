@@ -41,7 +41,6 @@ sections:
         textAlign: left
   - colors: colors-c
     elementId: ''
-    title: Gallery
     images:
       - type: ImageBlock
         url: /images/medicine walk 02.jpg
