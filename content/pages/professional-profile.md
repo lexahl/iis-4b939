@@ -77,7 +77,7 @@ sections:
           isRequired: true
           width: 1/2
         - type: TextFormControl
-          label: Home Address
+          label: Message
           name: message
           placeholder: Your home address
           isRequired: false
