@@ -71,9 +71,22 @@ sections:
       - type: FeaturedItem
         title: Employment Readiness
         text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          * 5+ years providing curriculum development and facilitating, resume
+          writing, job search, interview techniques, conflict resolution and
+          labour market research
+
+          * Created and led monthly employment readiness workshops: workplace
+          etiquette, resume writing, interview techniques, job search and
+          coaching with 4.5/5 evaluation scoring
+
+          * Consistently exceeded employer expectations during performance
+          reviews
+
+          * Coordination of training launch events, education, and delivery
+          across Western Canada
+
+          * Served as SME on various boards/committees that led to positive
+          changes
         actions:
           - type: Button
             label: Learn more
