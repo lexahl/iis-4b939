@@ -50,7 +50,7 @@ sections:
         label: Contact
         showIcon: true
         icon: arrowRight
-        url: /
+        url: /contact
         style: primary
         altText: contact
     backgroundImage: null
