@@ -1,9 +1,5 @@
 {
     "type": "Person",
     "firstName": "Winona",
-    "lastName": "Lafreniere",
-    "image": {
-        "type": "ImageBlock",
-        "url": "/images/hugh-saturation.png"
-    }
+    "lastName": "Lafreniere"
 }
