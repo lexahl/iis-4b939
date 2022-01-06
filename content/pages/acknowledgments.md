@@ -2,7 +2,7 @@
 title: Acknowledgments
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: Acknowledgements
     text: >-
