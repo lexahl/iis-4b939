@@ -445,7 +445,7 @@
                                     "width": "full"
                                 }
                             ],
-                            "submitLabel": "Submit form",
+                            "submitLabel": "Send Message",
                             "styles": {
                                 "submitLabel": {
                                     "textAlign": "center"
