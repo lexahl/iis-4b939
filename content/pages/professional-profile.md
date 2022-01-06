@@ -64,13 +64,7 @@ sections:
 
           * Organizing and conducting weekly meetings with partners and other
           community leaders
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
