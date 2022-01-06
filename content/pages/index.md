@@ -89,6 +89,7 @@ sections:
         styles:
           self:
             textAlign: left
+        subtitle: d
       - type: FeaturedItem
         title: Sharing Knowledge
         text: >-
