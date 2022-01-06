@@ -45,33 +45,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-  - type: TextSection
-    colors: colors-d
-    variant: variant-a
-    title: Collective Community Spirit
-    text: |
-      Collective Community Spirit
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-56
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: QuoteSection
     colors: colors-b
     quote: >-
