@@ -1,43 +1,10 @@
 ---
 title: Professional Profile
 sections:
-  - elementId: ''
-    colors: colors-e
-    backgroundSize: full
-    title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
-    actions: []
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
-  - colors: colors-c
+  - colors: colors-e
     elementId: ''
-    title: Key value propositions
-    subtitle: ''
+    title: Professional Profile
+    subtitle: Winona Lafreniere
     items:
       - type: FeaturedItem
         title: Community/Indigenous Relations
@@ -149,7 +116,7 @@ sections:
             showIcon: true
             icon: arrowRight
             iconPosition: right
-            style: primary
+            style: secondary
             elementId: ''
             type: Button
         styles:
@@ -180,52 +147,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - colors: colors-d
-    elementId: ''
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
-      - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
 layout: PageLayout
 colors: colors-d
 excerpt: >-

@@ -31,7 +31,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-36
+          - pt-5
           - pb-5
           - pr-10
           - pl-10
@@ -148,45 +148,4 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - elementId: ''
-    colors: colors-b
-    quote: >-
-      “This is someone else, not from our team, but she also loves fishing, so
-      we thought we should highlight her.”
-    backgroundImage:
-      url: /images/bg.webp
-      opacity: 70
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-96
-          - pb-10
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight: '400'
-        fontStyle: normal
-        textAlign: left
-      title:
-        fontWeight: '400'
-        fontStyle: normal
-        textAlign: left
-    type: QuoteSection
 ---
-<meta name="title" content="About | Indigenous Innovative Solutions Inc.">
-<meta name="description" content="Indigenous and social innovation, entrepreneurial mentorship, and community determination to empower Indigenous people to design their own future.">
-<meta name="keywords" content="Indigenous, Canada, Community">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
-<meta name="author" content="Winona Lafreniere">
