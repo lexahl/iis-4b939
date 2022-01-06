@@ -111,7 +111,6 @@ topSections:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
       - content/pages/blog/blanket-exercise-facilitation.md
