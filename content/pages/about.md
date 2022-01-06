@@ -47,7 +47,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/Winona Lafreniere.jpg
+        url: /images/about-3.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
