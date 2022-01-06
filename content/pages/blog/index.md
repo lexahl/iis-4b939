@@ -90,7 +90,7 @@ topSections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
+          - pt-5
           - pb-24
           - pl-4
           - pr-4
