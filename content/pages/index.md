@@ -169,7 +169,7 @@ sections:
     actions:
       - type: Button
         label: Try it now
-        url: /
+        url: /professional-profile
         showIcon: true
         icon: arrowRight
         style: secondary
