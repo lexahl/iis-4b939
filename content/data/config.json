@@ -150,7 +150,8 @@
             {
                 "type": "Link",
                 "label": "Terms & Conditions",
-                "url": "/"
+                "url": "/",
+                "altText": "Terms and Conditions"
             }
         ],
         "styles": {
