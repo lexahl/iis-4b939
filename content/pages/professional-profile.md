@@ -41,7 +41,39 @@ sections:
     items:
       - type: FeaturedItem
         title: Community/Indigenous Relations
-        text: "* Successful establishment of mutually beneficial relationships between government, industry proponents, regulatory bodies, and Indigenous communities in Western Canada\n* Excellent working knowledge of federal and provincial environmental regulations\n* Strategic engagement with employers to assess employment requirements, training\nopportunities and capacity to determine readiness on projects\n* Innovative creation of Environmental Monitoring training program in northern Alberta\n* Strategic leadership of Indigenous team (GOA and Midwest) in identifying key strategic priorities\nand negotiating agreements in collaboration with local and regional communities\n* Responsible for the creation of essential skills readiness training programs and policies along\nwith delivery and facilitation that resulted in increased community and industry employability\n* Supervised and conducted quarterly performance reviews for a team of eight\n* Consistently maintained over 90% accuracy and timeliness rates in reporting of projects"
+        text: >-
+          * Successful establishment of mutually beneficial relationships
+          between government, industry proponents, regulatory bodies, and
+          Indigenous communities in Western Canada
+
+          * Excellent working knowledge of federal and provincial environmental
+          regulations
+
+          * Strategic engagement with employers to assess employment
+          requirements, training
+
+          opportunities and capacity to determine readiness on projects
+
+          * Innovative creation of Environmental Monitoring training program in
+          northern Alberta
+
+          * Strategic leadership of Indigenous team (GOA and Midwest) in
+          identifying key strategic priorities
+
+          and negotiating agreements in collaboration with local and regional
+          communities
+
+          * Responsible for the creation of essential skills readiness training
+          programs and policies along
+
+          with delivery and facilitation that resulted in increased community
+          and industry employability
+
+          * Supervised and conducted quarterly performance reviews for a team of
+          eight
+
+          * Consistently maintained over 90% accuracy and timeliness rates in
+          reporting of projects
         actions: []
         styles:
           self:
@@ -113,7 +145,7 @@ sections:
         actions:
           - label: Read full professional profile
             altText: Read full professional profile
-            url: /
+            url: /images/professional-profile.pdf
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -148,6 +180,52 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
+  - colors: colors-d
+    elementId: ''
+    title: Gallery
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/gallery-1.jpg
+        altText: Image one
+        caption: Image one caption
+      - type: ImageBlock
+        url: /images/gallery-2.jpg
+        altText: Image two
+        caption: Image two caption
+      - type: ImageBlock
+        url: /images/gallery-3.jpg
+        altText: Image three
+        caption: Image three caption
+      - type: ImageBlock
+        url: /images/gallery-4.jpg
+        altText: Image four
+        caption: Image four caption
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    styles:
+      self:
+        height: auto
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+    type: MediaGallerySection
 layout: PageLayout
 colors: colors-d
 excerpt: >-

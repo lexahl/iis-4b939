@@ -11,8 +11,8 @@
                         "type": "TextSection",
                         "colors": "colors-d",
                         "variant": "variant-a",
-                        "title": "This in an empty page",
-                        "text": "Start adding sections by clicking the + button on the page or through the sidebar.",
+                        "title": "Indigenous Innovative Solutions Inc.",
+                        "text": "Focuses on Indigenous and social innovation, entrepreneurial mentorship, and community determination that empowers Indigenous people to design their own future.",
                         "styles": {
                             "self": {
                                 "height": "auto",
@@ -44,8 +44,8 @@
                     {
                         "type": "HeroSection",
                         "colors": "colors-d",
-                        "title": "We do fishing differently",
-                        "subtitle": "Fresh. Better. Faster.",
+                        "title": "Indigenous Innovative Solutions Inc.",
+                        "subtitle": "Winona Lafreniere.",
                         "actions": [
                             {
                                 "type": "Button",
@@ -92,9 +92,9 @@
                     {
                         "type": "QuoteSection",
                         "colors": "colors-d",
-                        "quote": "\"It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.\"",
-                        "name": "Isabelle Parks",
-                        "title": "Head chef at Parks",
+                        "quote": "\"Focuses on Indigenous and social innovation, entrepreneurial mentorship, and community determination that empowers Indigenous people to design their own future.\"",
+                        "name": "Winona Lafreniere",
+                        "title": " ",
                         "styles": {
                             "self": {
                                 "height": "auto",
@@ -118,7 +118,7 @@
                         "type": "FeaturedPostsSection",
                         "colors": "colors-c",
                         "variant": "variant-a",
-                        "title": "Seasonal adventures",
+                        "title": "Indigenous Innovative Solutions",
                         "actions": [
                             {
                                 "type": "Link",
@@ -133,7 +133,7 @@
                         "showAuthor": false,
                         "showExcerpt": true,
                         "showReadMoreLink": true,
-                        "readMoreLinkLabel": "Join adventure",
+                        "readMoreLinkLabel": "Read more",
                         "posts": ["content/pages/blog/post-two.md", "content/pages/blog/post-three.md"],
                         "styles": {
                             "self": {
@@ -158,7 +158,7 @@
                         "type": "TextSection",
                         "colors": "colors-e",
                         "variant": "variant-a",
-                        "text": "## [Follow us on Instagram](https://www.stackbit.com/)",
+                        "text": "## [Follow us on Instagram](/)",
                         "styles": {
                             "self": {
                                 "height": "auto",
@@ -182,13 +182,13 @@
                         "type": "FeatureHighlightSection",
                         "colors": "colors-d",
                         "backgroundSize": "full",
-                        "title": "Time to leave your desk. Let’s go flying",
-                        "text": "We’re local, seasonal fisherman, supporting fishing restrictions.",
+                        "title": "Winona Lafreniere",
+                        "text": "Focuses on Indigenous and social innovation, entrepreneurial mentorship, and community determination that empowers Indigenous people to design their own future.",
                         "actions": [
                             {
                                 "type": "Button",
-                                "label": "Join adventure",
-                                "url": "https://www.stackbit.com/",
+                                "label": "Learn more",
+                                "url": "/",
                                 "style": "secondary",
                                 "showIcon": true,
                                 "icon": "arrowRight",
@@ -227,8 +227,8 @@
                     {
                         "type": "ContactSection",
                         "colors": "colors-d",
-                        "title": "Join our club",
-                        "text": "We will notify you every time a shipment is heading to your neighborhood, and you could immediatly let us know if you want in or not",
+                        "title": "Contact",
+                        "text": "Contact",
                         "form": {
                             "type": "FormBlock",
                             "elementId": "sign-up-form",
@@ -264,22 +264,15 @@
                                 },
                                 {
                                     "type": "TextFormControl",
-                                    "name": "address",
-                                    "label": "Address",
+                                    "name": "message",
+                                    "label": "Message",
                                     "hideLabel": true,
-                                    "placeholder": "Address",
+                                    "placeholder": "Your message",
                                     "isRequired": true,
-                                    "width": "full"
-                                },
-                                {
-                                    "type": "CheckboxFormControl",
-                                    "name": "updatesConsent",
-                                    "label": "Sign me up to recieve updates",
-                                    "isRequired": false,
                                     "width": "full"
                                 }
                             ],
-                            "submitLabel": "Submit form",
+                            "submitLabel": "Send Message",
                             "styles": {
                                 "submitLabel": {
                                     "textAlign": "center"
@@ -318,8 +311,8 @@
                         "type": "TextSection",
                         "colors": "colors-d",
                         "variant": "variant-a",
-                        "title": "About our business",
-                        "text": "For us fishing is a life style. The connection to the waters is what makes us friends, and what makes us a family and it what makes us a business.\n\nWe believe there’s a better, more sustainable way to live out of what the sea has to offer, while  keeping our products fresh and delicious.",
+                        "title": "About",
+                        "text": "Focuses on Indigenous and social innovation, entrepreneurial mentorship, and community determination that empowers Indigenous people to design their own future.",
                         "styles": {
                             "self": {
                                 "height": "auto",
@@ -342,7 +335,7 @@
                     {
                         "type": "QuoteSection",
                         "colors": "colors-b",
-                        "quote": "\"This is someone else, not from our team, but she also loves fishing, so we thought we should highlight her.\"",
+                        "quote": "\"Winona Lafreniere.\"",
                         "name": "",
                         "title": "",
                         "backgroundImage": {
@@ -375,13 +368,9 @@
                         "type": "FeaturedPeopleSection",
                         "variant": "variant-c",
                         "colors": "colors-c",
-                        "title": "Our Team",
-                        "subtitle": "We’re a group of proffesional fisherman & friends, who love exploring the seas and sharing our experiences with the world.",
+                        "title": "About",
+                        "subtitle": "Winona Lafreniere.",
                         "people": [
-                            "content/data/team/desmond-eagle.json",
-                            "content/data/team/dianne-ameter.json",
-                            "content/data/team/hugh-saturation.json",
-                            "content/data/team/hilary-ouse.json"
                         ],
                         "styles": {
                             "self": {
@@ -404,8 +393,8 @@
                     {
                         "type": "ContactSection",
                         "colors": "colors-d",
-                        "title": "Join our club",
-                        "text": "We will notify you every time a shipment is heading to your neighborhood, and you could immediatly let us know if you want in or not",
+                        "title": "Contact",
+                        "text": "Contact",
                         "form": {
                             "type": "FormBlock",
                             "elementId": "sign-up-form",
@@ -441,22 +430,15 @@
                                 },
                                 {
                                     "type": "TextFormControl",
-                                    "name": "address",
-                                    "label": "Address",
+                                    "name": "message",
+                                    "label": "Message",
                                     "hideLabel": true,
-                                    "placeholder": "Address",
+                                    "placeholder": "Your message",
                                     "isRequired": true,
-                                    "width": "full"
-                                },
-                                {
-                                    "type": "CheckboxFormControl",
-                                    "name": "updatesConsent",
-                                    "label": "Sign me up to recieve updates",
-                                    "isRequired": false,
                                     "width": "full"
                                 }
                             ],
-                            "submitLabel": "Submit form",
+                            "submitLabel": "Send Message",
                             "styles": {
                                 "submitLabel": {
                                     "textAlign": "center"
