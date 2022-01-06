@@ -74,7 +74,7 @@ bottomSections:
           - mr-0
         padding:
           - pt-10
-          - pb-24
+          - pb-5
           - pr-4
           - pl-4
         alignItems: center
