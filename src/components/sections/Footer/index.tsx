@@ -100,6 +100,7 @@ function footerVariantA(props) {
                             <li key={index}>
                                 <Action {...link} data-sb-field-path={`.${index}`} />
                             </li>
+                            <li> test </li>
                         ))}
                     </ul>
                 )}
