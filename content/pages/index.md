@@ -47,7 +47,7 @@ sections:
       their own future.
     actions:
       - type: Button
-        label: Try it now
+        label: Contact
         showIcon: true
         icon: arrowRight
         url: /
