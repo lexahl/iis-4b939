@@ -47,7 +47,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Smarter
+        title: Project Management
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
