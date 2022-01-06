@@ -176,7 +176,7 @@ sections:
       cultural communication skills?
 
 
-      1.  **The media** - Although sometimes we can learn interesting material
+      1.  **The media** /- Although sometimes we can learn interesting material
       from the media, it is good to be aware of sensationalism and media bias.
       It is important to remain open-minded and non-judgmental.
 
