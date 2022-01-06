@@ -88,7 +88,7 @@ sections:
       destination: ''
       styles:
         submitLabel:
-          textAlign: left
+          textAlign: center
       type: FormBlock
 layout: PageLayout
 colors: colors-d
