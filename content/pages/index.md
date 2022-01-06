@@ -150,9 +150,6 @@ sections:
   - elementId: ''
     colors: colors-d
     variant: variant-b
-    title: >-
-      On-Demand services and live learning opportunities covering a range of
-      topics:
     subtitle: >-
       On-Demand services and live learning opportunities covering a range of
       topics:
