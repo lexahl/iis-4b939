@@ -51,13 +51,7 @@ sections:
           relevant information. Although you might not ever put to use most of
           the knowledge you accrue, you will still be able to better understand
           those you work with.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
