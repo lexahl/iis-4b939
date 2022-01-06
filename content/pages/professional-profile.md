@@ -145,7 +145,7 @@ sections:
         actions:
           - label: Read full professional profile
             altText: Read full professional profile
-            url: /
+            url: /images/professional-profile.pdf
             showIcon: true
             icon: arrowRight
             iconPosition: right
