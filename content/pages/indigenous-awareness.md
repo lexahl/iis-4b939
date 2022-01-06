@@ -65,13 +65,7 @@ sections:
           serve to break down multicultural barriers, help everyone on your team
           to be more comfortable around each other and teach others about
           different cultures.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
