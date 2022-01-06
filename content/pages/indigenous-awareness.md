@@ -72,9 +72,13 @@ sections:
       - type: FeaturedItem
         title: Listen Up
         text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          Effective listening is something that most cultures have in common.
+          Listen to your coworkers actively, displaying positive body language
+          and affirmation during the listening process. Listening intently
+          allows you to read between the lines, pay attention to the way your
+          coworkers say things and ask questions if anything is unclear. They
+          will recognize your willingness to listen and appreciate being asked
+          to explain an unclear point.
         actions:
           - type: Button
             label: Learn more
