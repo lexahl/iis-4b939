@@ -95,9 +95,21 @@ sections:
         title: Workplace Communication
         subtitle: ''
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          * Strong computer skills in Word (75 wpm), Excel, PowerPoint, Outlook,
+          Photoshop, ISNetworld, StakeTracker, SharePoint, Mobius, CMAS, Keto,
+          and virtual engagement platforms/software
+
+          * Coordination of lunch and learn activities along with publications
+          such as newsletters, news releases, brochures, posters, fact sheets
+          for the Government of Alberta, Ruperstland Institute, etc.
+
+          * Development and facilitation, presentations, budgets, financial
+          reports, and status reports
+
+          * Troubleshooting deficiencies in office equipment including
+          photocopiers/printers, computers,
+
+          FAX machines, multi-line phone systems
         actions: []
         styles:
           self:
