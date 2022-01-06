@@ -34,62 +34,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-  - type: ContactSection
-    colors: colors-d
-    title: Join our club
-    text: >-
-      We will notify you every time a shipment is heading to your neighborhood,
-      and you could immediatly let us know if you want in or not
-    media: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: center
-      text:
-        textAlign: center
-    form:
-      fields:
-        - type: TextFormControl
-          label: Name
-          name: name
-          placeholder: Your name
-          isRequired: true
-          width: 1/2
-        - type: EmailFormControl
-          label: Email
-          name: email
-          placeholder: Your email
-          isRequired: true
-          width: 1/2
-        - type: TextFormControl
-          label: Message
-          name: message
-          placeholder: Your message
-          isRequired: true
-          width: full
-      submitLabel: Send Message
-      elementId: contact-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      styles:
-        submitLabel:
-          textAlign: left
-      type: FormBlock
 layout: PageLayout
 colors: colors-d
 excerpt: >-
