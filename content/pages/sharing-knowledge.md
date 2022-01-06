@@ -21,7 +21,7 @@ sections:
         padding:
           - pt-10
           - pb-10
-          - pl-24
+          - pl-10
           - pr-24
         justifyContent: flex-start
       quote:
