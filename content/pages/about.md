@@ -42,7 +42,6 @@ sections:
   - colors: colors-c
     elementId: ''
     title: Gallery
-    subtitle: This is the subtitle
     images:
       - type: ImageBlock
         url: /images/medicine walk 02.jpg
