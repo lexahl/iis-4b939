@@ -87,13 +87,7 @@ sections:
 
           * Served as SME on various boards/committees that led to positive
           changes
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
