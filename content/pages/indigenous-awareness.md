@@ -2,7 +2,7 @@
 title: Indigenous Awareness
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-e
     variant: variant-a
     title: Indigenous Awareness
     subtitle: ''
