@@ -251,37 +251,7 @@ function postsVariantC(props) {
                                 />
                             </Link>
                         )}
-                        <div className="flex flex-col flex-grow px-4 pt-6 pb-10 sm:px-6">
-                            <div className="flex-grow">
-                                <h3 className="text-3xl">
-                                    <Link href={getPageUrlPath(post)} data-sb-field-path="title">
-                                        {post.title}
-                                    </Link>
-                                </h3>
-                                <PostAttribution showAuthor={props.showAuthor} post={post} className="mt-2" />
-                                {props.showExcerpt && post.excerpt && (
-                                    <p className="mt-4" data-sb-field-path="excerpt">
-                                        {post.excerpt}
-                                    </p>
-                                )}
-                            </div>
-                            {(props.showDate || props.showReadMoreLink) && (
-                                <div className="mt-12 space-y-6">
-                                    {props.showDate && <PostDate post={post} className="mb-2" />}
-                                    {props.showReadMoreLink && (
-                                        <div>
-                                            <Link
-                                                href={getPageUrlPath(post)}
-                                                className="sb-component sb-component-block sb-component-button sb-component-button-primary"
-                                            >
-                                                {props.readMoreLinkLabel && <span className="mr-3">{props.readMoreLinkLabel}</span>}
-                                                <ArrowRightIcon className="fill-current h-5 w-5" />
-                                            </Link>
-                                        </div>
-                                    )}
-                                </div>
-                            )}
-                        </div>
+
                     </div>
                 </article>
             ))}
