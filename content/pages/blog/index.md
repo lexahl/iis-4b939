@@ -79,13 +79,7 @@ topSections:
     showReadMoreLink: true
     readMoreLinkLabel: Join adventure
     variant: variant-c
-    actions:
-      - type: Link
-        label: See all adventures
-        altText: See all adventures
-        url: /blog
-        showIcon: true
-        icon: arrowRight
+    actions: []
     styles:
       self:
         height: auto
