@@ -84,8 +84,8 @@ postFeed:
       margin:
         - mt-0
         - mb-0
-        - ml-0
-        - mr-0
+        - ml-40
+        - mr-40
       padding:
         - pt-12
         - pb-12
