@@ -108,7 +108,7 @@ sections:
     variant: variant-b
     actions:
       - type: Link
-        label: See more projects
+        label: See all projects
         altText: See all projects
         url: /blog
         showIcon: true
