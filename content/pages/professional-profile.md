@@ -80,7 +80,7 @@ sections:
           label: Message
           name: message
           placeholder: Your message
-          isRequired: false
+          isRequired: true
           width: full
         - type: CheckboxFormControl
           name: updates
