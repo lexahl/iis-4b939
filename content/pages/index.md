@@ -179,6 +179,7 @@ sections:
         showIcon: true
         icon: arrowRight
         url: /
+        altText: View past projects
     backgroundImage: null
     styles:
       self:
