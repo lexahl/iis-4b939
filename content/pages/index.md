@@ -108,13 +108,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: secondary
+        actions: []
         styles:
           self:
             textAlign: left
