@@ -9,8 +9,6 @@ bottomSections:
   - type: ContactSection
     colors: colors-e
     title: Contact
-    text: |
-      optional text
     form:
       type: FormBlock
       elementId: sign-up-form
