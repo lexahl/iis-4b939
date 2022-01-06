@@ -36,7 +36,7 @@ sections:
         textAlign: center
     type: QuoteSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     title: The Spirit of Sharing
     subtitle: Volunteer Profile of Winona Lafreniere
