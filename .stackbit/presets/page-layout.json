@@ -228,7 +228,7 @@
                         "type": "ContactSection",
                         "colors": "colors-d",
                         "title": "Contact",
-                        "text": "ant in or not",
+                        "text": "Contact",
                         "form": {
                             "type": "FormBlock",
                             "elementId": "sign-up-form",
