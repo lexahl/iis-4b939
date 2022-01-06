@@ -87,9 +87,13 @@ sections:
         title: Overcome Stereotypes
         subtitle: ''
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Stereotypes and preconceived ideas are difficult to overcome,
+          especially if they have been part of your thinking since childhood.
+          Educate yourself about as many different cultures as you can and treat
+          everyone the same. Your knowledge of their culture will give you the
+          confidence you need to overcome the stereotypes that have been
+          engraved in your memory. This newly found knowledge will replace your
+          negative stereotypes with positive knowledge.
         featuredImage:
           type: ImageBlock
           url: >-
