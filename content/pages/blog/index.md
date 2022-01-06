@@ -111,7 +111,6 @@ topSections:
     subtitle: ''
     colors: colors-d
     posts:
-      - content/pages/blog/post-one.md
       - content/pages/blog/blanket-exercise-facilitation.md
     type: FeaturedPostsSection
 postFeed:
