@@ -61,7 +61,7 @@ sections:
       title:
         textAlign: center
       text:
-        textAlign: left
+        textAlign: center
     form:
       fields:
         - type: TextFormControl
