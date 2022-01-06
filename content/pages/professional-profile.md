@@ -42,13 +42,7 @@ sections:
       - type: FeaturedItem
         title: Community/Indigenous Relations
         text: "* Successful establishment of mutually beneficial relationships between government, industry proponents, regulatory bodies, and Indigenous communities in Western Canada\n* Excellent working knowledge of federal and provincial environmental regulations\n* Strategic engagement with employers to assess employment requirements, training\nopportunities and capacity to determine readiness on projects\n* Innovative creation of Environmental Monitoring training program in northern Alberta\n* Strategic leadership of Indigenous team (GOA and Midwest) in identifying key strategic priorities\nand negotiating agreements in collaboration with local and regional communities\n* Responsible for the creation of essential skills readiness training programs and policies along\nwith delivery and facilitation that resulted in increased community and industry employability\n* Supervised and conducted quarterly performance reviews for a team of eight\n* Consistently maintained over 90% accuracy and timeliness rates in reporting of projects\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n"
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
