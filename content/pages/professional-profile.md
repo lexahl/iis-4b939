@@ -112,7 +112,7 @@ sections:
           FAX machines, multi-line phone systems
         actions:
           - label: Read full resume
-            altText: Read full resume
+            altText: Read full rPROFESSIONAL PROFILE
             url: /
             showIcon: true
             icon: arrowRight
