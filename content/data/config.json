@@ -156,12 +156,6 @@
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "altText": "Privacy Policy"
-            },
-            {
-                "type": "Link",
-                "label": "Terms & Conditions",
-                "url": "/terms-and-conditions",
-                "altText": "Terms and Conditions"
             }
         ],
         "styles": {
