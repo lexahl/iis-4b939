@@ -168,7 +168,7 @@ sections:
       *   As well as a range of resource management subjects
     actions:
       - type: Button
-        label: Try it now
+        label: Read full professional profile
         url: /professional-profile
         showIcon: true
         icon: arrowRight
