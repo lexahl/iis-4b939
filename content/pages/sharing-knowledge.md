@@ -142,7 +142,6 @@ sections:
   - type: ContactSection
     colors: colors-d
     title: Contact
-    text: text
     form:
       type: FormBlock
       elementId: sign-up-form
