@@ -174,8 +174,6 @@ sections:
   - type: ContactSection
     colors: colors-d
     title: Contact
-    text: |
-      optional text
     form:
       type: FormBlock
       elementId: contact-form
