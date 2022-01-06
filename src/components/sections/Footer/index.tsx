@@ -42,7 +42,7 @@ function footerVariantA(props) {
                         {props.logo && <ImageBlock {...props.logo} className={classNames('max-h-12', { 'mr-2': props.title })} data-sb-field-path=".logo" />}
                         {props.title && (
                             <span className="text-3xl font-medium" data-sb-field-path=".title">
-                                {props.title}
+                                Indigenous Innovative Solutions Inc.
                             </span>
                         )}
                     </Link>
