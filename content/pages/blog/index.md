@@ -55,7 +55,7 @@ bottomSections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Address
+          placeholder: Your message
           isRequired: true
           width: full
           type: TextFormControl
