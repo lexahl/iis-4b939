@@ -8,12 +8,7 @@ sections:
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
-    actions:
-      - type: Link
-        label: Learn more
-        showIcon: true
-        icon: arrowRight
-        url: /
+    actions: []
     backgroundImage: null
     styles:
       self:
