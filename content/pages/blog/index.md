@@ -59,11 +59,6 @@ bottomSections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: contactform
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: Submit form
       styles:
         submitLabel:
