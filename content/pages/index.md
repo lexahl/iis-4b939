@@ -41,9 +41,10 @@ sections:
     colors: colors-c
     backgroundSize: full
     title: “My story is my brand."
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
+      and community determination that empowers Indigenous people to design
+      their own future.
     actions:
       - type: Button
         label: Try it now
