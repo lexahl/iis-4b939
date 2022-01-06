@@ -155,9 +155,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          On-Demand services and live learning opportunities covering a range of
-          topics:
         text: |
           *   Project Management
 
