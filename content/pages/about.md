@@ -43,7 +43,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/medicine walk 02.jpg
+        url: /images/about-4.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
