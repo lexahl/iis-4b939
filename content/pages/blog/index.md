@@ -7,7 +7,7 @@ styles:
     textAlign: center
 bottomSections:
   - type: ContactSection
-    colors: colors-e
+    colors: colors-a
     title: Contact
     form:
       type: FormBlock
