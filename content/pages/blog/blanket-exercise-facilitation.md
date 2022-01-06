@@ -9,7 +9,7 @@ featuredImage:
   url: /images/image-027.jpg
   altText: Post thumbnail image
   caption: ''
-bottomSections: []
+
 layout: PostLayout
 ---
 The Blanket Exercise has been offered across Canada, including in schools, to community groups, employers and the general public. The interactive and experiential 3 hour training teaches the Indigenous history through an Indigenous lens that explores the history of treaty-making, colonization and resistance, and is a cultural and historical awareness building session. The Blanket Exercise shows us that we are together on this journey of reconciliation.

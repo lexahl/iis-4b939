@@ -13,7 +13,7 @@ bottomSections:
   - elementId: ''
     variant: variant-d
     colors: colors-d
-    title: Read next
+    title: See other projects
     showDate: true
     showAuthor: false
     showExcerpt: true
@@ -30,8 +30,8 @@ bottomSections:
         padding:
           - pt-12
           - pb-56
-          - pr-4
-          - pl-4
+          - pr-5
+          - pl-5
         justifyContent: center
       title:
         textAlign: center
