@@ -36,7 +36,7 @@ sections:
         textAlign: center
     type: QuoteSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     title: The Spirit of Sharing
     subtitle: Volunteer Profile of Winona Lafreniere
@@ -108,8 +108,8 @@ sections:
     variant: variant-b
     actions:
       - type: Link
-        label: See more projects
-        altText: See more projects
+        label: See all projects
+        altText: See all projects
         url: /blog
         showIcon: true
         icon: arrowRight
@@ -123,8 +123,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-10
+          - pb-10
           - pl-10
           - pr-10
         justifyContent: center
@@ -134,15 +134,14 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Projects
+    title: Selected Projects
     subtitle: ''
     colors: colors-c
-    recentCount: 15
+    recentCount: 3
     type: RecentPostsSection
   - type: ContactSection
-    colors: colors-d
+    colors: colors-c
     title: Contact
-    text: text
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -192,8 +191,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-10
+          - pb-10
           - pl-4
           - pr-4
         alignItems: center

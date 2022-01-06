@@ -3,7 +3,7 @@ title: About
 layout: PageLayout
 sections:
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: Winona Lafreniere
     text: >
@@ -28,7 +28,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-5
+          - pt-24
           - pb-5
           - pr-10
           - pl-10
@@ -41,19 +41,17 @@ sections:
         textAlign: left
   - colors: colors-c
     elementId: ''
-    title: Gallery
-    subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/medicine walk 02.jpg
+        url: /images/about-4.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/Winona Lafreniere.jpg
+        url: /images/about-3.jpg
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/Humility Award.jpg
+        url: /images/about-1.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
@@ -106,11 +104,13 @@ sections:
       the natural world.
 
 
-      ####Creating a Workforce Readiness Future 
+      ####Creating a Workforce Readiness Future
 
       Proudly supporting Indigenous community career development and training
       initiatives focusing on jobs of the future that lead to employment and
-      business opportunities across Western Canada.
+      business opportunities across Western Canada. Indigenous Employment
+      Coalition Video Link:
+      <https://showtellmove.com/our-work/promising-practices>
     styles:
       self:
         height: auto
@@ -121,7 +121,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-5
+          - pt-10
           - pb-5
           - pl-4
           - pr-4

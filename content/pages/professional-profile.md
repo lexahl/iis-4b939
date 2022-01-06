@@ -1,7 +1,7 @@
 ---
 title: Professional Profile
 sections:
-  - colors: colors-e
+  - colors: colors-c
     elementId: ''
     title: Professional Profile
     subtitle: Winona Lafreniere
@@ -135,8 +135,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-36
+          - pt-24
+          - pb-10
           - pl-4
           - pr-4
         justifyContent: center
