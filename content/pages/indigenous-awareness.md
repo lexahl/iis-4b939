@@ -45,9 +45,12 @@ sections:
       - type: FeaturedItem
         title: Cultural Knowledge
         text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          One of the easiest ways to understand your coworkers is by researching
+          cultures on your free time and increasing your cultural knowledge.
+          Reading books and talking to others are the most accessible sources of
+          relevant information. Although you might not ever put to use most of
+          the knowledge you accrue, you will still be able to better understand
+          those you work with.
         actions:
           - type: Button
             label: Learn more
