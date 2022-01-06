@@ -137,7 +137,7 @@ sections:
     title: Projects
     subtitle: ''
     colors: colors-c
-    recentCount: 15
+    recentCount: 3
     type: RecentPostsSection
   - type: ContactSection
     colors: colors-d
