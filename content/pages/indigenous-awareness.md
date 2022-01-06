@@ -28,7 +28,7 @@ sections:
           - pt-10
           - pb-10
           - pl-10
-          - pr-4
+          - pr-10
         justifyContent: center
       title:
         textAlign: left
