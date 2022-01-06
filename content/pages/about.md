@@ -7,6 +7,21 @@ sections:
     variant: variant-a
     title: Winona Lafreniere
     text: >
+      As President of Indigenous Innovative Solutions Inc., Winona is a strong
+      advocate and leader in workforce development and Indigenous governance.
+      She recognizes the need for diversity and Inclusion in all aspects of her
+      role as a Project Manager.
+
+
+      With over 20 years effective Indigenous consultation, community engagement
+      and policy experience, Winona plays an essential role in the
+      implementation of industry and community-based projects. She brings an
+      innovative style of leadership and team-building approach towards the
+      vision of Indigenous Innovative Solutions Inc. and its partners.
+
+
+
+
       Winona dedicates her knowledge and ways of being to her Obijway ancestors.
       As the founder of Indigenous Innovative Solutions Inc., Winona brings
       together Indigenous knowledge, providing an Indigenous voice and effective
