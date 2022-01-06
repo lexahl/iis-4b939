@@ -134,7 +134,8 @@
         },
         "logo": {
             "elementId": "",
-            "type": "ImageBlock"
+            "type": "ImageBlock",
+            "url": "/images/indigenous_innovation_logo_FINAL.svg"
         }
     },
     "favicon": "/images/indigenous_innovation_icon.png"
