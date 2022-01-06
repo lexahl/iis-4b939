@@ -4,7 +4,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-a
-    title: Indigenous Innovative Solutions Inc.
+    title: Acknowledgements
     text: >-
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
