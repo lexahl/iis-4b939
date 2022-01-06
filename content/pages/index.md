@@ -75,10 +75,10 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Collective Community Spirit
-        text: >-
+        text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          pharetra ipsum dolor
         actions:
           - type: Button
             label: Learn more
