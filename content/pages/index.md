@@ -37,6 +37,47 @@ sections:
 
 
       </center>
+  - elementId: ''
+    colors: colors-c
+    backgroundSize: full
+    title: “My story is my brand."
+    text: >
+      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
+      and community determination that empowers Indigenous people to design
+      their own future.
+    actions:
+      - type: Button
+        label: Contact
+        showIcon: true
+        icon: arrowRight
+        url: /contact
+        style: primary
+        altText: contact
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-5
+          - pb-5
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
+    type: CtaSection
   - colors: colors-c
     elementId: ''
     subtitle: ''
@@ -47,61 +88,37 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         title: Inspiring Action
-        text: >-
+        text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         title: Collective Community Spirit
-        text: >-
+        text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+          pharetra ipsum dolor
+        actions: []
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         title: Sharing Knowledge
         text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+          As a passionate artist and cultural advisor of the Ojibway nation, it
+          has been a privilege and a great honour to share my gifts from the
+          creator and mother earth.
+        actions: []
         styles:
           self:
             textAlign: left
@@ -130,19 +147,25 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-d
-    backgroundSize: full
-    subtitle: “My story is my brand."
-    actions:
-      - type: Button
-        label: Contact
-        url: /
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: true
+  - elementId: ''
+    colors: colors-c
+    variant: variant-b
+    subtitle: >-
+      On-Demand services and live learning opportunities covering a range of
+      topics:
+    text: |-
+      * Project Management
+      * Managing Energy Efficiency Projects
+      * Environmental Stewardship Consulting
+      * Employability Wise Practices
+      * Indigenous Awareness
+      * Human Skills Development Workshops
+      * Proposal Writing
+      * Indigenous Engagement Planning
+      * Business Development
+      * Advancing ESG and Indigenous Principles
+      * Custom workshops for employer-specific organizations
+      * As well as a range of resource management subjects
     styles:
       self:
         height: auto
@@ -151,31 +174,23 @@ sections:
           - mt-0
           - mb-0
           - ml-0
+          - mr-0
         padding:
-          - pt-10
-          - pb-20
-          - pr-24
-          - pl-24
-        alignItems: center
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
         justifyContent: center
-        flexDirection: row
       title:
         textAlign: left
       subtitle:
         textAlign: left
       text:
         textAlign: left
-      actions:
-        justifyContent: flex-start
-    text: >
-      Focuses on Indigenous and social innovation, entrepreneurial mentorship,
-      and community determination that empowers Indigenous people to design
-      their own future.
+    type: TextSection
   - type: ContactSection
-    colors: colors-d
+    colors: colors-c
     title: Contact
-    text: |
-      optional text
     form:
       type: FormBlock
       elementId: contact-form
@@ -224,8 +239,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-5
+          - pb-5
           - pr-4
           - pl-4
         alignItems: center

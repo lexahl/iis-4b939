@@ -7,20 +7,17 @@ sections:
     variant: variant-a
     title: Winona Lafreniere
     text: >
-      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
-      As the founder of Indigenous Innovative Solutions Inc., Winona brings
-      together Indigenous knowledge, providing an Indigenous voice and effective
-      solutions to age old challenges. Critical global dialogue on the
-      importance of Indigenous perspectives for a sustainable future is required
-      to ensure viability of livelihoods of future generations.
+      As President of Indigenous Innovative Solutions Inc., Winona is a strong
+      advocate and leader in workforce development and Indigenous governance.
+      She recognizes the need for diversity and Inclusion in all aspects of her
+      role as a Project Manager.
 
 
-      She is deeply rooted and connected to the land, where she continues her
-      lifelong journey to learn more about the traditional plant foods and
-      medicines in the western boreal forest. Incorporating sustainably
-      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
-      with modern wise practices, empowering people to connect to themselves and
-      the natural world.
+      With over 20 years effective Indigenous consultation, community engagement
+      and policy experience, Winona plays an essential role in the
+      implementation of industry and community-based projects. She brings an
+      innovative style of leadership and team-building approach towards the
+      vision of Indigenous Innovative Solutions Inc. and its partners.
     styles:
       self:
         height: auto
@@ -89,43 +86,31 @@ sections:
         textAlign: center
     type: MediaGallerySection
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
-    title: Creating a Workforce Readiness Future
     subtitle: ''
     text: >
+      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
+      As the founder of Indigenous Innovative Solutions Inc., Winona brings
+      together Indigenous knowledge, providing an Indigenous voice and effective
+      solutions to age old challenges. Critical global dialogue on the
+      importance of Indigenous perspectives for a sustainable future is required
+      to ensure viability of livelihoods of future generations.
+
+
+      She is deeply rooted and connected to the land, where she continues her
+      lifelong journey to learn more about the traditional plant foods and
+      medicines in the western boreal forest. Incorporating sustainably
+      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
+      with modern wise practices, empowering people to connect to themselves and
+      the natural world.
+
+
+      ####Creating a Workforce Readiness Future 
+
       Proudly supporting Indigenous community career development and training
       initiatives focusing on jobs of the future that lead to employment and
       business opportunities across Western Canada.
-
-
-      #### On-Demand services and live learning opportunities covering a range
-      of topics:
-
-
-      *   Project Management
-
-      *   Managing Energy Efficiency Projects
-
-      *   Environmental Stewardship Consulting
-
-      *   Employability Wise Practices
-
-      *   Indigenous Awareness
-
-      *   Human Skills Development Workshops
-
-      *   Proposal Writing
-
-      *   Indigenous Engagement Planning
-
-      *   Business Development
-
-      *   Advancing ESG and Indigenous Principles
-
-      *   Custom workshops for employer-specific organizations
-
-      *   As well as a range of resource management subjects
     styles:
       self:
         height: auto
@@ -136,8 +121,8 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-28
-          - pb-28
+          - pt-5
+          - pb-5
           - pl-4
           - pr-4
         justifyContent: center
