@@ -144,7 +144,8 @@
             {
                 "type": "Link",
                 "label": "Privacy Policy",
-                "url": "/privacy-policy"
+                "url": "/privacy-policy",
+                "altText": "p"
             },
             {
                 "type": "Link",
