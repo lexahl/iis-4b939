@@ -31,7 +31,7 @@ bottomSections:
           - pt-12
           - pb-56
           - pr-10
-          - pl-10
+          - pl-5
         justifyContent: center
       title:
         textAlign: center
