@@ -71,9 +71,9 @@
         }
     },
     "footer": {
-        "variant": "variant-b",
+        "variant": "variant-a",
         "colors": "colors-c",
-        "title": "Contact",
+        "title": "Indigenous Innovative Solutions Inc.",
         "contacts": {
             "title": "Contact Information",
             "phoneNumber": "403-483-3120",
@@ -81,29 +81,60 @@
             "email": "winonajlafreniere@hotmail.com",
             "emailAltText": "Email",
             "address": "Add address here",
-            "addressAltText": "Our address"
+            "addressAltText": "Address"
         },
         "copyrightText": "© 2022 Indigenous Innovative Solutions Inc.",
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "label": "About",
+                "altText": "About",
+                "url": "/about",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
+                "label": "Projects",
+                "altText": "projects",
+                "url": "/sharing-knowledge/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
+                "label": "Contact",
+                "altText": "contact",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
                 "altText": "Twitter link",
                 "label": "Twitter",
-                "url": "/",
+                "url": "https://twitter.com/",
                 "icon": "twitter"
             },
             {
                 "type": "Social",
                 "altText": "Instagram link",
                 "label": "Instagram",
-                "url": "/",
+                "url": "https://www.instagram.com/",
                 "icon": "instagram"
             },
             {
                 "label": "Facebook",
                 "altText": "facebook link",
-                "url": "/",
+                "url": "https://facebook.com/",
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
@@ -111,14 +142,26 @@
         ],
         "legalLinks": [
             {
+                "label": "Acknowledgments",
+                "altText": "Acknowledgments",
+                "url": "/acknowledgments",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "type": "Link",
                 "label": "Privacy Policy",
-                "url": "/"
+                "url": "/privacy-policy",
+                "altText": "Privacy Policy"
             },
             {
                 "type": "Link",
                 "label": "Terms & Conditions",
-                "url": "/"
+                "url": "/terms-and-conditions",
+                "altText": "Terms and Conditions"
             }
         ],
         "styles": {
@@ -127,14 +170,15 @@
                 "padding": [
                     "pt-16",
                     "pb-16",
-                    "pr-4",
-                    "pl-4"
+                    "pr-24",
+                    "pl-24"
                 ]
             }
         },
         "logo": {
             "elementId": "",
-            "type": "ImageBlock"
+            "type": "ImageBlock",
+            "url": "/images/indigenous_innovation_logo_FINAL.svg"
         }
     },
     "favicon": "/images/indigenous_innovation_icon.png"
