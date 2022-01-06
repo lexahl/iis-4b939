@@ -144,33 +144,7 @@ sections:
       business opportunities across Western Canada.
 
 
-      #### On-Demand services and live learning opportunities covering a range
-      of topics:
-
-
-      *   Project Management
-
-      *   Managing Energy Efficiency Projects
-
-      *   Environmental Stewardship Consulting
-
-      *   Employability Wise Practices
-
-      *   Indigenous Awareness
-
-      *   Human Skills Development Workshops
-
-      *   Proposal Writing
-
-      *   Indigenous Engagement Planning
-
-      *   Business Development
-
-      *   Advancing ESG and Indigenous Principles
-
-      *   Custom workshops for employer-specific organizations
-
-      *   As well as a range of resource management subjects
+      ####
     styles:
       self:
         height: auto
