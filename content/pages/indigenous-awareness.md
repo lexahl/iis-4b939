@@ -127,13 +127,17 @@ sections:
     colors: colors-d
     variant: variant-b
     title: What is cross cultural awareness?
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >-
+      Cross cultural awareness is figuring out why people from backgrounds that
+      differ from our own act the way they do and using that information to have
+      better relationships with those them. It will help you predict how people
+      who come from different backgrounds will act, speak, think, make decisions
+      and perceive the world.
+
+
+      It is important to note that this does not mean endorsing stereotypes or
+      pigeonholing people into categories. It is about being open-minded and
+      willing to understand others for who they are.
     styles:
       self:
         height: auto
