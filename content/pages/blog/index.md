@@ -107,7 +107,6 @@ topSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Seasonal adventure
     subtitle: ''
     colors: colors-d
     recentCount: 5
