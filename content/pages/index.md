@@ -40,7 +40,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    title: Let's do this
+    title: “My story is my brand."
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
