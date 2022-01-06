@@ -22,7 +22,7 @@ sections:
           - pt-10
           - pb-10
           - pl-10
-          - pr-24
+          - pr-10
         justifyContent: flex-start
       quote:
         textAlign: center
