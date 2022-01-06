@@ -101,7 +101,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /
-            style: primary
+            style: secondary
         styles:
           self:
             textAlign: left
