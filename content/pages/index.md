@@ -173,6 +173,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: secondary
+        altText: Read full professional profile
       - type: Link
         label: Learn more
         showIcon: true
