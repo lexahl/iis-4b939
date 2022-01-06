@@ -140,7 +140,7 @@ sections:
     recentCount: 3
     type: RecentPostsSection
   - type: ContactSection
-    colors: colors-d
+    colors: colors-c
     title: Contact
     form:
       type: FormBlock
