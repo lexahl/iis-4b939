@@ -59,9 +59,9 @@ sections:
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: center
-      text:
         textAlign: left
+      text:
+        textAlign: center
     form:
       fields:
         - type: TextFormControl
