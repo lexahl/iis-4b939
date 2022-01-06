@@ -39,7 +39,7 @@ sections:
       </center>
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     subtitle: “My story is my brand."
     actions:
