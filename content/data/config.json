@@ -142,6 +142,16 @@
         ],
         "legalLinks": [
             {
+                "label": "Acknowledgments",
+                "altText": "Acknowledgments",
+                "url": "/acknowledgments",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "type": "Link",
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
@@ -152,16 +162,6 @@
                 "label": "Terms & Conditions",
                 "url": "/terms-and-conditions",
                 "altText": "Terms and Conditions"
-            },
-            {
-                "label": "Acknowledgments",
-                "altText": "Acknowledgments",
-                "url": "/acknowledgments",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
             }
         ],
         "styles": {
