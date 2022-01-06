@@ -104,11 +104,13 @@ sections:
       the natural world.
 
 
-      ####Creating a Workforce Readiness Future 
+      \####Creating a Workforce Readiness Future
 
       Proudly supporting Indigenous community career development and training
       initiatives focusing on jobs of the future that lead to employment and
-      business opportunities across Western Canada.
+      business opportunities across Western Canada. Indigenous Employment
+      Coalition Video Link:
+      <https://showtellmove.com/our-work/promising-practices>
     styles:
       self:
         height: auto
