@@ -59,7 +59,7 @@ bottomSections:
           isRequired: true
           width: full
           type: TextFormControl
-      submitLabel: Submit form
+      submitLabel: Send Message
       styles:
         submitLabel:
           textAlign: center
