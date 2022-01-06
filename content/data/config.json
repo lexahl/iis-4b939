@@ -97,7 +97,7 @@
             },
             {
                 "label": "Learn more",
-                "altText": "",
+                "altText": "projects",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
