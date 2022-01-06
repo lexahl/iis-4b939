@@ -103,7 +103,7 @@
             {
                 "label": "Facebook",
                 "altText": "facebook link",
-                "url": "/",
+                "url": "https://facebook.com/",
                 "icon": "facebook",
                 "style": "link",
                 "elementId": ""
