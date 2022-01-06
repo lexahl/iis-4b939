@@ -149,7 +149,9 @@ sections:
     type: FeaturedItemsSection
   - colors: colors-c
     elementId: ''
-    title: Key value propositions
+    title: >-
+      On-Demand services and live learning opportunities covering a range of
+      topics:
     subtitle: ''
     items:
       - type: FeaturedItem
