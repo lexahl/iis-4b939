@@ -58,9 +58,13 @@ sections:
       - type: FeaturedItem
         title: Put Cultural Knowledge to Use
         text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          If you learn something interesting about a coworker's culture, ask
+          about it or mention it in a relevant situation. This might seem
+          uncomfortable at first, but your coworkers will recognize your effort
+          to educate yourself. Using acquired information as it comes up will
+          serve to break down multicultural barriers, help everyone on your team
+          to be more comfortable around each other and teach others about
+          different cultures.
         actions:
           - type: Button
             label: Learn more
