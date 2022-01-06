@@ -59,7 +59,7 @@ bottomSections:
           isRequired: true
           width: full
           type: TextFormControl
-        - name: updatesConsent
+        - name: contactform
           label: Sign me up to recieve updates
           isRequired: false
           width: full
