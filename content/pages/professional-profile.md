@@ -1,7 +1,7 @@
 ---
 title: Professional Profile
 sections:
-  - colors: colors-e
+  - colors: colors-c
     elementId: ''
     title: Professional Profile
     subtitle: Winona Lafreniere
