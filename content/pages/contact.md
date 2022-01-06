@@ -89,7 +89,7 @@ sections:
         textAlign: left
     type: ContactSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     backgroundSize: full
     title: Contact us
     text: We look forward to hearing from you.
