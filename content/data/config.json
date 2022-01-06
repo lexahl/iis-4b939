@@ -90,7 +90,7 @@
                 "type": "Social",
                 "altText": "Twitter link",
                 "label": "Twitter",
-                "url": "/",
+                "url": "https://twitter.com/",
                 "icon": "twitter"
             },
             {
