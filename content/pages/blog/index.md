@@ -1,13 +1,29 @@
 ---
 layout: PostFeedLayout
 title: Projects
-numOfPostsPerPage: 15
+numOfPostsPerPage: 10
+postFeed:
+  showDate: true
+  showAuthor: false
+  showExcerpt: true
+  showReadMoreLink: true
+  readMoreLinkLabel: Read more
+  variant: variant-a
+  colors: colors-c
+  styles:
+    self:
+      width: narrow
+      padding:
+        - pt-0
+        - pl-4
+        - pr-4
+        - pb-12
 styles:
   title:
     textAlign: center
 bottomSections:
   - type: ContactSection
-    colors: colors-a
+    colors: colors-c
     title: Contact
     form:
       type: FormBlock
@@ -36,14 +52,14 @@ bottomSections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: text
-          label: Your message
+        - name: message
+          label: Message
           hideLabel: true
           placeholder: Your message
           isRequired: true
           width: full
           type: TextFormControl
-      submitLabel: Send message
+      submitLabel: Send Message
       styles:
         submitLabel:
           textAlign: center
@@ -54,8 +70,8 @@ bottomSections:
         margin:
           - mt-0
           - mb-0
-          - ml-208
-          - mr-208
+          - ml-0
+          - mr-0
         padding:
           - pt-24
           - pb-24
@@ -69,5 +85,4 @@ bottomSections:
       text:
         textAlign: center
     backgroundSize: full
-topSections: []
 ---
