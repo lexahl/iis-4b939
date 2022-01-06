@@ -156,7 +156,7 @@
             {
                 "label": "Acknowledgments",
                 "altText": "Acknowledgments",
-                "url": "/",
+                "url": "/acknowledgments",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
