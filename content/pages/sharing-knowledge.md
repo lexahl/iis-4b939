@@ -21,8 +21,8 @@ sections:
         padding:
           - pt-10
           - pb-10
-          - pl-24
-          - pr-24
+          - pl-10
+          - pr-10
         justifyContent: flex-start
       quote:
         textAlign: center
@@ -89,8 +89,8 @@ sections:
         padding:
           - pt-24
           - pb-5
-          - pl-24
-          - pr-24
+          - pl-10
+          - pr-10
         justifyContent: center
       title:
         textAlign: left
@@ -125,8 +125,8 @@ sections:
         padding:
           - pt-24
           - pb-24
-          - pl-24
-          - pr-24
+          - pl-10
+          - pr-10
         justifyContent: center
       title:
         textAlign: left
