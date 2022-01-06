@@ -401,7 +401,7 @@
                         "type": "ContactSection",
                         "colors": "colors-d",
                         "title": "Contact",
-                        "text": "nd you could immediatly let us know if you want in or not",
+                        "text": "now if you want in or not",
                         "form": {
                             "type": "FormBlock",
                             "elementId": "sign-up-form",
