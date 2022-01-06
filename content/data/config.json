@@ -71,7 +71,7 @@
         }
     },
     "footer": {
-        "variant": "variant-b",
+        "variant": "variant-a",
         "colors": "colors-c",
         "title": "Contact",
         "contacts": {
