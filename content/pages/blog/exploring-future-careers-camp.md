@@ -13,7 +13,7 @@ bottomSections:
   - elementId: ''
     variant: variant-d
     colors: colors-d
-    title: Read next
+    title: See other projects
     showDate: true
     showAuthor: false
     showExcerpt: true
