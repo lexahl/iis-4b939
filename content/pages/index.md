@@ -194,9 +194,19 @@ sections:
     title: >-
       On-Demand services and live learning opportunities covering a range of
       topics:
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |-
+      *   Project Management
+      *   Managing Energy Efficiency Projects
+      *   Environmental Stewardship Consulting
+      *   Employability Wise Practices
+      *   Indigenous Awareness
+      *   Human Skills Development Workshops
+      *   Proposal Writing
+      *   Indigenous Engagement Planning
+      *   Business Development
+      *   Advancing ESG and Indigenous Principles
+      *   Custom workshops for employer-specific organizations
+      *   As well as a range of resource management subjects
     actions:
       - type: Button
         label: Try it now
