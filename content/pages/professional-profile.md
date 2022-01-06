@@ -111,7 +111,7 @@ sections:
 
           FAX machines, multi-line phone systems
         actions:
-          - label: Learn more
+          - label: Read full resume
             altText: ''
             url: /
             showIcon: false
