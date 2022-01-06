@@ -9,7 +9,7 @@ postFeed:
   showReadMoreLink: true
   readMoreLinkLabel: Read more
   variant: variant-c
-  colors: colors-d
+  colors: colors-c
   styles:
     self:
       width: narrow
