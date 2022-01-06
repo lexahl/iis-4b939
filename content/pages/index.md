@@ -148,7 +148,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     variant: variant-b
     subtitle: >-
       On-Demand services and live learning opportunities covering a range of
