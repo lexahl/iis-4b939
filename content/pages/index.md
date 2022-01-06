@@ -153,7 +153,9 @@ sections:
     title: >-
       On-Demand services and live learning opportunities covering a range of
       topics:
-    subtitle: The section subtitle
+    subtitle: >-
+      On-Demand services and live learning opportunities covering a range of
+      topics:
     text: |-
       * Project Management
       * Managing Energy Efficiency Projects
