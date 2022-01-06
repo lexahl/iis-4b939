@@ -176,15 +176,15 @@ sections:
       cultural communication skills?
 
 
-      1.  **The media**Although sometimes we can learn interesting material from
-      the media, it is good to be aware of sensationalism and media bias. It is
-      important to remain open-minded and non-judgmental.
+      1.  **The media - **Although sometimes we can learn interesting material
+      from the media, it is good to be aware of sensationalism and media bias.
+      It is important to remain open-minded and non-judgmental.
 
 
-      2.  **Relationships** 
+      2.  **Relationships**
           By interacting with people and learning about their culture directly from them. People are usually delighted to about the customs and culture of their homeland. Many of us are embarrassed to ask questions because we fear that we will be judged as ignorant. More often than not, non-judgmental questions that are motivated by a sincere interest to learn and understand are answered with enthusiasm.
 
-      3.  **By educating ourselves** 
+      3.  **By educating ourselves**
           If you know that you are going to be dealing with someone from another culture it pays to do your homework. The Internet and general interest reading material may be helpful. Some things that may be helpful to know before dealing with someone from another culture include, for example: basic geography, basic politics, forms of addressing and greeting, and customs and table manners.
 
       By making the attempt to improve your cross cultural communication skills
