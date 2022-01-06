@@ -146,7 +146,16 @@ sections:
         styles:
           self:
             textAlign: left
-    actions: []
+    actions:
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     columns: 4
     enableHover: false
     styles:
