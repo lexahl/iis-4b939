@@ -172,7 +172,7 @@ sections:
         url: /
         showIcon: true
         icon: arrowRight
-        style: primary
+        style: secondary
       - type: Link
         label: Learn more
         showIcon: true
