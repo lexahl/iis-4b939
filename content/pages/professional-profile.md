@@ -49,9 +49,21 @@ sections:
       - type: FeaturedItem
         title: Project Management
         text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+          * Management of portfolio of 12 pre-employment readiness projects
+          under the Alberta’s Ministry of Labour expending $1.8 million over a
+          one-year period
+
+          * Work with change management and transition teams to implement
+          diversity and inclusion training with new systems and processes
+
+          * Evaluated and secured vendor contracts for training phase of project
+          through third party vendors
+
+          * Responsible for increased project outcomes with GOA that led to 30%
+          growth in funding levels
+
+          * Organizing and conducting weekly meetings with partners and other
+          community leaders
         actions:
           - type: Button
             label: Learn more
