@@ -149,47 +149,6 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-e
-    variant: variant-b
-    subtitle: >-
-      On-Demand services and live learning opportunities covering a range of
-      topics:
-    text: |-
-      * Project Management
-      * Managing Energy Efficiency Projects
-      * Environmental Stewardship Consulting
-      * Employability Wise Practices
-      * Indigenous Awareness
-      * Human Skills Development Workshops
-      * Proposal Writing
-      * Indigenous Engagement Planning
-      * Business Development
-      * Advancing ESG and Indigenous Principles
-      * Custom workshops for employer-specific organizations
-      * As well as a range of resource management subjects
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-10
-          - pb-10
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    type: TextSection
-  - elementId: ''
-    colors: colors-e
     backgroundSize: full
     title: >-
       On-Demand services and live learning opportunities covering a range of
