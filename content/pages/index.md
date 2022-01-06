@@ -155,12 +155,18 @@ sections:
       topics:
     subtitle: The section subtitle
     text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      * Project Management
+      * Managing Energy Efficiency Projects
+      * Environmental Stewardship Consulting
+      * Employability Wise Practices
+      * Indigenous Awareness
+      * Human Skills Development Workshops
+      * Proposal Writing
+      * Indigenous Engagement Planning
+      * Business Development
+      * Advancing ESG and Indigenous Principles
+      * Custom workshops for employer-specific organizations
+      * As well as a range of resource management subjects
     styles:
       self:
         height: auto
