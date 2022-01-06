@@ -58,7 +58,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Inspiring <br> Action
+        title: Inspiring Action
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
