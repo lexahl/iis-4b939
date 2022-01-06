@@ -23,7 +23,7 @@ styles:
     textAlign: center
 bottomSections:
   - type: ContactSection
-    colors: colors-d
+    colors: colors-a
     title: Contact
     form:
       type: FormBlock
