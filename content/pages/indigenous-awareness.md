@@ -181,7 +181,7 @@ sections:
       It is important to remain open-minded and non-judgmental.
 
 
-      2.  **Relationships** - By interacting with people and learning about
+      2.  **Relationships** /- By interacting with people and learning about
       their culture directly from them. People are usually delighted to about
       the customs and culture of their homeland. Many of us are embarrassed to
       ask questions because we fear that we will be judged as ignorant. More
