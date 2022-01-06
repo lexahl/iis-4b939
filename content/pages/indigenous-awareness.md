@@ -79,13 +79,7 @@ sections:
           coworkers say things and ask questions if anything is unclear. They
           will recognize your willingness to listen and appreciate being asked
           to explain an unclear point.
-        actions:
-          - type: Button
-            label: Learn more
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
