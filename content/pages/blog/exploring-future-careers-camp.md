@@ -7,7 +7,7 @@ excerpt: >-
   and gas industries.
 featuredImage:
   type: ImageBlock
-  url: /images/image-013-53e6c212.jpg
+  url: /images/image-013.jpg
   altText: Post Image
 bottomSections:
   - elementId: ''
