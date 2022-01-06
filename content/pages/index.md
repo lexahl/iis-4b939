@@ -172,7 +172,7 @@ sections:
       and community determination that empowers Indigenous people to design
       their own future.
   - type: ContactSection
-    colors: colors-d
+    colors: colors-c
     title: Contact
     form:
       type: FormBlock
