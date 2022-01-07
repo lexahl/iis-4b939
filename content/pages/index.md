@@ -107,7 +107,7 @@ sections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor.
         actions:
-          - label: See projects
+          - label: See past projects
             altText: ''
             url: /projects
             showIcon: true
