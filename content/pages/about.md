@@ -39,7 +39,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - colors: colors-c
+  - colors: colors-a
     elementId: ''
     images:
       - type: ImageBlock
