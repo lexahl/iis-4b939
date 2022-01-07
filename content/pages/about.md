@@ -203,6 +203,7 @@ sections:
         showIcon: true
         icon: arrowRight
         style: primary
+        altText: View past projects
       - type: Link
         label: Learn more
         showIcon: true
