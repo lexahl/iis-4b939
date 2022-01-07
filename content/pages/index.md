@@ -122,7 +122,7 @@ sections:
           - label: Learn more
             altText: Learn more
             url: /sharing-knowledge
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
