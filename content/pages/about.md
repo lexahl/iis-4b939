@@ -133,7 +133,7 @@ sections:
       text:
         textAlign: left
     type: TextSection
-  - colors: colors-c
+  - colors: colors-a
     elementId: ''
     images:
       - type: ImageBlock
