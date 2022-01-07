@@ -12,6 +12,14 @@ sections:
         icon: chevronLeft
         url: /
         style: secondary
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     backgroundImage: null
     styles:
       self:
