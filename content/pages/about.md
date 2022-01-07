@@ -5,15 +5,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    actions:
-      - label: Home > About
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        type: Link
+    actions: []
     backgroundImage: null
     styles:
       self:
