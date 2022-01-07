@@ -41,7 +41,7 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: “My story is my brand."
-    text: >
+    text: >-
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
       their own future.
@@ -84,11 +84,19 @@ sections:
     items:
       - type: FeaturedItem
         title: Creating Solutions
-        text: >-
+        text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions: []
+          pharetra ipsum dolor.
+        actions:
+          - label: See professional profile
+            altText: ''
+            url: /professional-profile
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
         styles:
           self:
             textAlign: left
@@ -97,8 +105,16 @@ sections:
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions: []
+          pharetra ipsum dolor.
+        actions:
+          - label: See projects
+            altText: ''
+            url: /projects
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
         styles:
           self:
             textAlign: left
@@ -118,7 +134,15 @@ sections:
           As a passionate artist and cultural advisor of the Ojibway nation, it
           has been a privilege and a great honour to share my gifts from the
           creator and mother earth.
-        actions: []
+        actions:
+          - label: See about
+            altText: Learn more
+            url: /sharing-knowledge
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
         styles:
           self:
             textAlign: left
