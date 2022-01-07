@@ -109,7 +109,7 @@ sections:
         actions:
           - label: See past projects
             altText: ''
-            url: /projects
+            url: /blog
             showIcon: true
             icon: arrowRight
             iconPosition: right
