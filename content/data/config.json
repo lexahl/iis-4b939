@@ -86,6 +86,16 @@
         "copyrightText": "© 2022 Indigenous Innovative Solutions Inc.",
         "primaryLinks": [
             {
+                "label": "Home",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
+            },
+            {
                 "label": "About",
                 "altText": "About",
                 "url": "/about",
@@ -109,16 +119,6 @@
                 "label": "Contact",
                 "altText": "contact",
                 "url": "/contact",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": "",
-                "type": "Link"
-            },
-            {
-                "label": "Home",
-                "altText": "",
-                "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
