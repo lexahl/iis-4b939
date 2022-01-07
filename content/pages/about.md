@@ -5,7 +5,6 @@ sections:
   - elementId: ''
     colors: colors-d
     backgroundSize: full
-    title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
