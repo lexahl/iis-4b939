@@ -30,5 +30,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: Acknowledgements
 layout: PageLayout
 ---
