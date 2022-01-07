@@ -9,7 +9,7 @@ sections:
       - type: Button
         label: Try it now
         showIcon: true
-        icon: arrowLeft
+        icon: chevronLeft
         url: /
         style: primary
     backgroundImage: null
