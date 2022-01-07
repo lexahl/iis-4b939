@@ -202,7 +202,7 @@ sections:
         url: /
         showIcon: true
         icon: arrowRight
-        style: primary
+        style: secondary
         altText: View past projects
       - type: Link
         label: Learn more
