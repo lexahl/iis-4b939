@@ -118,7 +118,15 @@ sections:
           As a passionate artist and cultural advisor of the Ojibway nation, it
           has been a privilege and a great honour to share my gifts from the
           creator and mother earth.
-        actions: []
+        actions:
+          - label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
         styles:
           self:
             textAlign: left
