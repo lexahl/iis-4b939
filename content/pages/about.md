@@ -3,7 +3,7 @@ title: About
 layout: PageLayout
 sections:
   - type: TextSection
-    colors: colors-c
+    colors: colors-a
     variant: variant-a
     title: Winona Lafreniere
     text: >
