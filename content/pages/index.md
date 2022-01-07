@@ -51,7 +51,7 @@ sections:
         showIcon: true
         icon: arrowRight
         url: /contact
-        style: primary
+        style: secondary
         altText: contact
     backgroundImage: null
     styles:
