@@ -89,7 +89,7 @@ sections:
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
-          - label: Learn more
+          - label: See professional profile
             altText: ''
             url: /professional-profile
             showIcon: true
