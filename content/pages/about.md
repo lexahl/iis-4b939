@@ -6,12 +6,6 @@ sections:
     colors: colors-c
     backgroundSize: full
     actions:
-      - type: Button
-        label: Try it now
-        showIcon: true
-        icon: chevronLeft
-        url: /
-        style: secondary
       - label: Learn more
         altText: ''
         url: /
