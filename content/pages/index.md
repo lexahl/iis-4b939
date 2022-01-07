@@ -135,7 +135,7 @@ sections:
           has been a privilege and a great honour to share my gifts from the
           creator and mother earth.
         actions:
-          - label: Learn more
+          - label: 'See '
             altText: Learn more
             url: /sharing-knowledge
             showIcon: true
