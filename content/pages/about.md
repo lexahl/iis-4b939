@@ -84,7 +84,7 @@ sections:
         textAlign: center
     type: MediaGallerySection
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     variant: variant-a
     subtitle: ''
     text: >
