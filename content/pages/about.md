@@ -3,7 +3,7 @@ title: About
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     backgroundSize: full
     actions:
       - type: Button
