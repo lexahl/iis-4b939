@@ -33,7 +33,7 @@ sections:
 
 
       <img src="images/indigenous_innovation_logo_FINAL.svg" alt="logo"
-      draggable="false" width="35%">
+      draggable="false" width="33%">
 
 
       </center>
