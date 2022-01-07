@@ -149,27 +149,42 @@ sections:
     type: FeaturedItemsSection
   - elementId: ''
     colors: colors-e
-    variant: variant-b
-    subtitle: >-
+    backgroundSize: full
+    title: >-
       On-Demand services and live learning opportunities covering a range of
       topics:
     text: |-
-      * Project Management
-      * Managing Energy Efficiency Projects
-      * Environmental Stewardship Consulting
-      * Employability Wise Practices
-      * Indigenous Awareness
-      * Human Skills Development Workshops
-      * Proposal Writing
-      * Indigenous Engagement Planning
-      * Business Development
-      * Advancing ESG and Indigenous Principles
-      * Custom workshops for employer-specific organizations
-      * As well as a range of resource management subjects
+      *   Project Management
+      *   Managing Energy Efficiency Projects
+      *   Environmental Stewardship Consulting
+      *   Employability Wise Practices
+      *   Indigenous Awareness
+      *   Human Skills Development Workshops
+      *   Proposal Writing
+      *   Indigenous Engagement Planning
+      *   Business Development
+      *   Advancing ESG and Indigenous Principles
+      *   Custom workshops for employer-specific organizations
+      *   As well as a range of resource management subjects
+    actions:
+      - type: Button
+        label: Read full professional profile
+        url: /professional-profile
+        showIcon: true
+        icon: arrowRight
+        style: secondary
+        altText: Read full professional profile
+      - type: Link
+        label: View past projects
+        showIcon: true
+        icon: arrowRight
+        url: /past-projects
+        altText: View past projects
+    backgroundImage: null
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -180,14 +195,16 @@ sections:
           - pb-10
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
-    type: TextSection
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
   - colors: colors-c
     elementId: ''
     images:

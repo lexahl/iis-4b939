@@ -15,12 +15,12 @@ sections:
         width: narrow
         margin:
           - mt-0
-          - mb-12
+          - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-12
-          - pb-36
+          - pt-24
+          - pb-5
           - pl-4
           - pr-4
         justifyContent: center
