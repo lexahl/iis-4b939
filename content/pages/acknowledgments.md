@@ -4,7 +4,6 @@ sections:
   - type: TextSection
     colors: colors-c
     variant: variant-a
-    title: Acknowledgements
     text: >-
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
@@ -30,5 +29,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: Acknowledgements
 layout: PageLayout
 ---
