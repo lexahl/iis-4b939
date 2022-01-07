@@ -91,7 +91,7 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
+            url: /professional-profile
             showIcon: true
             icon: arrowRight
             iconPosition: right
