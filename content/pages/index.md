@@ -109,7 +109,7 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
+            url: /projects
             showIcon: false
             icon: arrowRight
             iconPosition: right
