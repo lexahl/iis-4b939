@@ -72,7 +72,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/about-4.jpg
+        url: /images/about-4-8a479363.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
@@ -80,7 +80,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/about-1.jpg
+        url: /images/about-1-f0a66996.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
