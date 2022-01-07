@@ -11,7 +11,7 @@ sections:
         showIcon: true
         icon: chevronLeft
         url: /
-        style: primary
+        style: secondary
     backgroundImage: null
     styles:
       self:
