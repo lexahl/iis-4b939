@@ -199,7 +199,7 @@ sections:
     actions:
       - type: Button
         label: Read full professional profile
-        url: /
+        url: /professional-profile
         showIcon: true
         icon: arrowRight
         style: secondary
