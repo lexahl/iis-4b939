@@ -6,7 +6,7 @@ sections:
     colors: colors-c
     backgroundSize: full
     actions:
-      - label: Home
+      - label: Home > About
         altText: ''
         url: /
         showIcon: false
