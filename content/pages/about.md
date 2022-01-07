@@ -208,7 +208,7 @@ sections:
         label: View past projects
         showIcon: true
         icon: arrowRight
-        url: /
+        url: /blog
     backgroundImage: null
     styles:
       self:
