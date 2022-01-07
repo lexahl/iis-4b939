@@ -120,7 +120,7 @@ sections:
           creator and mother earth.
         actions:
           - label: Learn more
-            altText: ''
+            altText: Learn more
             url: /sharing-knowledge
             showIcon: false
             icon: arrowRight
