@@ -110,7 +110,7 @@ sections:
           - label: Learn more
             altText: ''
             url: /projects
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             elementId: ''
