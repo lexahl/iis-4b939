@@ -205,7 +205,7 @@ sections:
         style: secondary
         altText: View past projects
       - type: Link
-        label: Learn more
+        label: View past projects
         showIcon: true
         icon: arrowRight
         url: /
