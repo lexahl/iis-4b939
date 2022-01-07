@@ -237,7 +237,6 @@ sections:
   - elementId: ''
     colors: colors-c
     variant: variant-a
-    title: The Section Title
     subtitle: ''
     text: |
       <center>![](/images/nov4.png)</center>
