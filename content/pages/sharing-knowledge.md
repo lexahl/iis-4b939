@@ -176,7 +176,7 @@ sections:
           placeholder: Your message
           isRequired: true
           width: full
-      submitLabel: Send message
+      submitLabel: Send Message
       styles:
         submitLabel:
           textAlign: center
