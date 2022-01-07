@@ -2,6 +2,35 @@
 title: About
 layout: PageLayout
 sections:
+  - elementId: ''
+    colors: colors-c
+    backgroundSize: full
+    actions: []
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
   - type: TextSection
     colors: colors-c
     variant: variant-a
