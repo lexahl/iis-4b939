@@ -202,7 +202,7 @@ sections:
         label: View past projects
         showIcon: true
         icon: arrowRight
-        url: /past-projects
+        url: /projects
         altText: View past projects
     backgroundImage: null
     styles:
