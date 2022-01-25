@@ -34,7 +34,7 @@ sections:
   - type: TextSection
     colors: colors-c
     variant: variant-a
-    title: Winona Lafreniere
+    title: About
     text: >
       As President of Indigenous Innovative Solutions Inc., Winona is a strong
       advocate and leader in workforce development and Indigenous governance.
