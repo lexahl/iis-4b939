@@ -116,30 +116,7 @@ sections:
     colors: colors-a
     variant: variant-a
     subtitle: ''
-    text: >
-      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
-      As the founder of Indigenous Innovative Solutions Inc., Winona brings
-      together Indigenous knowledge, providing an Indigenous voice and effective
-      solutions to age old challenges. Critical global dialogue on the
-      importance of Indigenous perspectives for a sustainable future is required
-      to ensure viability of livelihoods of future generations.
-
-
-      She is deeply rooted and connected to the land, where she continues her
-      lifelong journey to learn more about the traditional plant foods and
-      medicines in the western boreal forest. Incorporating sustainably
-      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
-      with modern wise practices, empowering people to connect to themselves and
-      the natural world.
-
-
-      ####Creating a Workforce Readiness Future
-
-      Proudly supporting Indigenous community career development and training
-      initiatives focusing on jobs of the future that lead to employment and
-      business opportunities across Western Canada. Indigenous Employment
-      Coalition Video Link:
-      <https://showtellmove.com/our-work/promising-practices>
+    text: "Indigenous Innovative Solutions Inc. is a company that brings together Indigenous perspectives, providing an Indigenous voice and effective solutions towards a healthier environment.\_Critical global dialogue on the importance of Indigenous ways of being for a sustainable future is required to ensureviability of livelihoods for current and future generations.\n\nShe is deeply rooted and connected to the land, where she continues her lifelong journey to learn more about the traditional plant foods and medicines in the western boreal forest. Incorporating sustainably harvested and sourced botanicals, IIS Inc., unites ancestral traditions with modern wise practices, empowering people to connect to themselves and the natural world.\n\n####Empowering Future Generations\nEvery day we find new opportunities to empower future generations. Proudly supporting Indigenous communities to advance their economies through project development, employment readiness training, policy development, environmental leadership, and more.\n\nLink to Video Promising Practices: <https://showtellmove.com/our-work/promising-practices>\n"
     styles:
       self:
         height: auto
