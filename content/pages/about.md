@@ -72,7 +72,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/Traditional Hand Drum.jpg
+        url: /images/Winona 2011 615.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
