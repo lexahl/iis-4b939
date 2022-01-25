@@ -29,5 +29,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    title: The Spirit of Sharing
 layout: PageLayout
 ---
