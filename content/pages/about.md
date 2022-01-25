@@ -80,7 +80,7 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/about-1-f0a66996.jpg
+        url: /images/Winona with Youth Cultural Teachings.JPG
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
