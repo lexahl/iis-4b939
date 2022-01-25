@@ -84,7 +84,7 @@ sections:
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: /images/about-2-4f1419e4.JPG
+        url: /images/Traditional Hand Drum.jpg
         altText: Image four
         caption: Image four caption
     spacing: 16
