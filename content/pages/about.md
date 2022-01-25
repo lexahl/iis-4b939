@@ -72,7 +72,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/about-4-8a479363.jpg
+        url: /images/Traditional Hand Drum.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
