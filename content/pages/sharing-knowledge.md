@@ -2,40 +2,6 @@
 title: Sharing Knowledge
 sections:
   - elementId: ''
-    colors: colors-c
-    quote: >
-      ### “Of all the teachings we receive this one is the most important:
-      nothing belongs to you of what there is, of what you take, you must
-      share.”
-    name: '- Chief Dan George'
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-10
-          - pb-10
-          - pl-10
-          - pr-10
-        justifyContent: flex-start
-      quote:
-        textAlign: center
-      name:
-        fontWeight: 500
-        fontStyle: normal
-        textAlign: center
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-    type: QuoteSection
-  - elementId: ''
     showDate: true
     showAuthor: false
     showExcerpt: true
