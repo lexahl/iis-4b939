@@ -41,7 +41,6 @@ sections:
     colors: colors-d
     quote: |
       # Indigenous Innovative Solutions Inc.
-    name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
