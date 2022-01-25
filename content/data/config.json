@@ -40,7 +40,7 @@
             },
             {
                 "label": "Philanthropy",
-                "altText": "",
+                "altText": "philanthropy",
                 "url": "/philanthropy",
                 "showIcon": false,
                 "icon": "arrowRight",
