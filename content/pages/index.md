@@ -41,7 +41,6 @@ sections:
     colors: colors-d
     quote: |
       # Indigenous Innovative Solutions Inc.
-    title: Product Marketing Manager at Acme
     backgroundImage: null
     styles:
       self:
