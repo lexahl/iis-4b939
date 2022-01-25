@@ -202,7 +202,7 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-e
+    colors: colors-b
     backgroundSize: full
     title: 'Learning opportunities covering a range of topics:'
     text: |-
