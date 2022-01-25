@@ -40,7 +40,6 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: “My story is my brand."
     text: >-
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
