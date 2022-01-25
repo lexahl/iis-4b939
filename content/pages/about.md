@@ -34,7 +34,7 @@ sections:
   - type: TextSection
     colors: colors-c
     variant: variant-a
-    title: Winona Lafreniere
+    title: About
     text: >
       As President of Indigenous Innovative Solutions Inc., Winona is a strong
       advocate and leader in workforce development and Indigenous governance.
@@ -72,7 +72,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/about-4-8a479363.jpg
+        url: /images/Winona 2011 615.jpg
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
@@ -80,11 +80,11 @@ sections:
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
-        url: /images/about-1-f0a66996.jpg
+        url: /images/Edited photo youth.jpg
         altText: Image three
         caption: Image three caption
       - type: ImageBlock
-        url: /images/about-2-4f1419e4.JPG
+        url: /images/Traditional Hand Drum.jpg
         altText: Image four
         caption: Image four caption
     spacing: 16
@@ -116,30 +116,7 @@ sections:
     colors: colors-a
     variant: variant-a
     subtitle: ''
-    text: >
-      Winona dedicates her knowledge and ways of being to her Obijway ancestors.
-      As the founder of Indigenous Innovative Solutions Inc., Winona brings
-      together Indigenous knowledge, providing an Indigenous voice and effective
-      solutions to age old challenges. Critical global dialogue on the
-      importance of Indigenous perspectives for a sustainable future is required
-      to ensure viability of livelihoods of future generations.
-
-
-      She is deeply rooted and connected to the land, where she continues her
-      lifelong journey to learn more about the traditional plant foods and
-      medicines in the western boreal forest. Incorporating sustainably
-      harvested and sourced botanicals, IIS Inc., unites ancestral traditions
-      with modern wise practices, empowering people to connect to themselves and
-      the natural world.
-
-
-      ####Creating a Workforce Readiness Future
-
-      Proudly supporting Indigenous community career development and training
-      initiatives focusing on jobs of the future that lead to employment and
-      business opportunities across Western Canada. Indigenous Employment
-      Coalition Video Link:
-      <https://showtellmove.com/our-work/promising-practices>
+    text: "Indigenous Innovative Solutions Inc. is a company that brings together Indigenous perspectives, providing an Indigenous voice and effective solutions towards a healthier environment.\_Critical global dialogue on the importance of Indigenous ways of being for a sustainable future is required to ensureviability of livelihoods for current and future generations.\n\nShe is deeply rooted and connected to the land, where she continues her lifelong journey to learn more about the traditional plant foods and medicines in the western boreal forest. Incorporating sustainably harvested and sourced botanicals, IIS Inc., unites ancestral traditions with modern wise practices, empowering people to connect to themselves and the natural world.\n\n####Empowering Future Generations\nEvery day we find new opportunities to empower future generations. Proudly supporting Indigenous communities to advance their economies through project development, employment readiness training, policy development, environmental leadership, and more.\n"
     styles:
       self:
         height: auto
@@ -170,7 +147,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/image-030.jpg
+        url: /images/nov4.png
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
@@ -206,89 +183,4 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - elementId: ''
-    colors: colors-e
-    backgroundSize: full
-    title: >-
-      On-Demand services and live learning opportunities covering a range of
-      topics:
-    text: |-
-      *   Project Management
-      *   Managing Energy Efficiency Projects
-      *   Environmental Stewardship Consulting
-      *   Employability Wise Practices
-      *   Indigenous Awareness
-      *   Human Skills Development Workshops
-      *   Proposal Writing
-      *   Indigenous Engagement Planning
-      *   Business Development
-      *   Advancing ESG and Indigenous Principles
-      *   Custom workshops for employer-specific organizations
-      *   As well as a range of resource management subjects
-    actions:
-      - type: Button
-        label: Read full professional profile
-        url: /professional-profile
-        showIcon: true
-        icon: arrowRight
-        style: secondary
-        altText: View past projects
-      - type: Link
-        label: View past projects
-        showIcon: true
-        icon: arrowRight
-        url: /sharing-knowledge
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
-  - elementId: ''
-    colors: colors-c
-    variant: variant-a
-    subtitle: ''
-    text: |
-      <center>![](/images/nov4.png)</center>
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-10
-          - pb-5
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    type: TextSection
 ---

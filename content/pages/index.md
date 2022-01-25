@@ -38,9 +38,39 @@ sections:
 
       </center>
   - elementId: ''
+    colors: colors-d
+    quote: |
+      # Indigenous Innovative Solutions Inc.
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-5
+          - pb-5
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight: 500
+        fontStyle: normal
+        textAlign: center
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+    type: QuoteSection
+  - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: “My story is my brand."
     text: >-
       Focuses on Indigenous and social innovation, entrepreneurial mentorship,
       and community determination that empowers Indigenous people to design
@@ -172,11 +202,9 @@ sections:
         justifyContent: flex-start
     type: FeaturedItemsSection
   - elementId: ''
-    colors: colors-e
+    colors: colors-b
     backgroundSize: full
-    title: >-
-      On-Demand services and live learning opportunities covering a range of
-      topics:
+    title: 'Learning opportunities covering a range of topics:'
     text: |-
       *   Project Management
       *   Managing Energy Efficiency Projects
@@ -229,50 +257,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-  - colors: colors-c
-    elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/image-013.jpg
-        altText: Image one
-        caption: Image one caption
-      - type: ImageBlock
-        url: /images/image-004.jpg
-        altText: Image two
-        caption: Image two caption
-      - type: ImageBlock
-        url: /images/image-027.jpg
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: /images/about-4-8a479363.jpg
-        altText: Image four
-        caption: Image four caption
-    spacing: 16
-    columns: 2
-    aspectRatio: '1:1'
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-    type: MediaGallerySection
   - type: ContactSection
     colors: colors-c
     title: Contact

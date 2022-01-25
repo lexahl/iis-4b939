@@ -37,6 +37,16 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
+            },
+            {
+                "label": "Philanthropy",
+                "altText": "philanthropy",
+                "url": "/philanthropy",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
         "secondaryLinks": [
