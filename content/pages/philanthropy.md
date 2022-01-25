@@ -63,6 +63,5 @@ sections:
       text:
         textAlign: left
     title: The Spirit of Sharing
-    subtitle: Volunteer Profile
 layout: PageLayout
 ---
