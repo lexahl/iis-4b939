@@ -183,32 +183,4 @@ sections:
       subtitle:
         textAlign: center
     type: MediaGallerySection
-  - elementId: ''
-    colors: colors-c
-    variant: variant-a
-    subtitle: ''
-    text: |
-      <center>![](/images/nov4.png)</center>
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-10
-          - pb-5
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    type: TextSection
 ---
