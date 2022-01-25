@@ -204,9 +204,7 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: full
-    title: >-
-      On-Demand services and live learning opportunities covering a range of
-      topics:
+    title: 'Learning opportunities covering a range of topics:'
     text: |-
       *   Project Management
       *   Managing Energy Efficiency Projects
