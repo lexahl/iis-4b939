@@ -39,9 +39,8 @@ sections:
       </center>
   - elementId: ''
     colors: colors-d
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      # Indigenous Innovative Solutions Inc.
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage: null
