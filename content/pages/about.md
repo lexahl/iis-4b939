@@ -147,7 +147,7 @@ sections:
         altText: Image one
         caption: Image one caption
       - type: ImageBlock
-        url: /images/image-030.jpg
+        url: /images/nov4.png
         altText: Image two
         caption: Image two caption
       - type: ImageBlock
