@@ -38,7 +38,7 @@ sections:
 
       </center>
   - elementId: ''
-    colors: colors-d
+    colors: colors-c
     quote: |
       # Indigenous Innovative Solutions Inc.
     backgroundImage: null
