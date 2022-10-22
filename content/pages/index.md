@@ -141,7 +141,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Collective Community Spirit
+        title: Community Spirit
         actions: []
         styles:
           self:
