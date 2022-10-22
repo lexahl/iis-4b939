@@ -127,7 +127,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Inspiring   Action
+        title: Inspiring    Action
         actions:
           - label: See past projects
             altText: ''
