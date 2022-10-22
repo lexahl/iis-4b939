@@ -128,10 +128,6 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Inspiring Action
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor.
         actions:
           - label: See past projects
             altText: ''
