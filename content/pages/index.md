@@ -148,10 +148,6 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Sharing Knowledge
-        text: >-
-          As a passionate artist and cultural advisor of the Ojibway nation, it
-          has been a privilege and a great honour to share my gifts from the
-          creator and mother earth.
         actions:
           - label: See volunteer profile
             altText: Learn more
