@@ -214,7 +214,7 @@ sections:
         label: View past projects
         showIcon: true
         icon: arrowRight
-        url: /projects/sharing-knowledge
+        url: /sharing-knowledge
         altText: View past projects
     backgroundImage: null
     styles:
